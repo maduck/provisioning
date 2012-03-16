@@ -22,11 +22,16 @@ http://downloads.snom.net/documentation/md_rev2.pdf
 """
 
 urlpatterns = patterns('provisioning.snom.views',
+    # info page
     url(r'^$', 'index'),
+    # firmware upgrade
     url(r'^snom(?P<version>\d+)-firmware.htm', 'firmware_info'),
 
+    # general and specific phone settings
+    url(r'^(?P<version>\d+)/(?P<config>\D+).xml', 'xml_settings'),
+    url(r'^(?P<version>\d+)/(?P<config>\D+)-(?P<mac_address>.+).xml', 'xml_settings'),
+
+    # unused by now.
     url(r'^snom(?P<version>\d+).htm$', 'general_info'),
     url(r'^snom(?P<version>\d+)-(?P<mac_address>.+).htm$', 'specific_info'),
-    url(r'^(?P<version>\d+)/(?P<config>.+).xml', 'general_xml'),
-    url(r'^(?P<version>\d+)/(?P<mac_address>.+)/(?P<config>.+).xml', 'specific_xml'),
 )

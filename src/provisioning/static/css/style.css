@@ -1,0 +1,33 @@
+body {
+	font-family: "myriad-pro", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: rgb(76, 76, 76);
+	letter-spacing: -0.0125em;
+	line-height: 1.25em;
+	font-size: 14px;
+	line-height: 20px;
+}
+
+h1 {
+	font-size: 2em;
+	font-style: italic;
+	color: rgb(43, 109, 153);
+}
+
+h2 {
+	font-size: 1.5em;
+	font-style: italic;
+}
+
+h3 {
+	font-size: 1.3125em;
+}
+
+a {
+	color: rgb(0, 136, 199);
+	text-decoration: none;
+}
+
+a:focus, a:hover {
+	outline: thin dotted rgb(51, 51, 51);
+	outline-offset: -2px;
+}
