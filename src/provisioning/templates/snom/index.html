@@ -1,0 +1,81 @@
+{% extends "site.html" %}
+{% block content %}
+<h1>Snom Massdeployment</h1>
+{% if mac %}
+  MAC: {{ mac }}
+{% else %}
+  keine MAC / falsche URL
+{% endif %}
+
+<h2>1 DHCP</h2>
+<p>Die Settings-Server-URL wird per DHCP-option 66/67 übergeben.<br />
+
+Beispiel<br />
+<code> option tftp-server-name "http://iserver/snom/config/settings.xml"; </code>
+<br />
+d.h., Die XML-Dateien liegen auf dem Webserver unter snom/config
+</p>
+<h3>1.1 Aufbau und Struktur</h3>
+<p>
+Folgende XML Files werden unter /settings/snom/ auf dem Webserver abgelegt:
+
+<pre>
+    settings.xml		Allgemeine Einstellungen, wo die folgenden Dateien zu finden sind
+    gui_language.xml		Sprachen die für das Telefon zur Verfügung stehen sollen
+    web_language.xml		Sprachen die für das Webinterface zur Verfügung stehen sollen
+    phone_settings.xml		Allgemeine Einstellungen, die für alle Telefone gelten	
+    settings-<MAC-Adresse>.xml		Einstellungen, die nur für dieses Telefon gelten
+</pre>
+<h3>settings.xml</h3>
+<pre>
+&lt;?xml version="1.0" encoding="UTF-8"&gt;
+&lt;setting-files&gt;
+&lt;file url="http://IP-Adresse/snom/config/gui_language.xml"&gt;
+&lt;file url="http://IP-Adresse/snom/config/web_language.xml"&gt;
+&lt;file url="http://IP-Adresse/snom/config/phone_settings.xml"&gt;
+&lt;/setting-files&gt;
+</pre>
+
+
+Die Sprachdateien, die zur Verfügung gestellte werden sollen sind Englisch und Deutsch.<br />
+
+<h3>gui_language.xml</h3>
+<pre>
+&lt;?xml version="1.0" encoding="UTF-8"&gt;
+&lt;gui-languages&gt;
+&lt;file url="http://IP-Adresse/snom/config/snomlang/gui_lang_DE.xml" name="Deutsch"&gt;
+&lt;file url="http://IP-Adresse/snom/config/snomlang/gui_lang_EN.xml" name="English"&gt;
+&lt;gui-languages&gt;
+</pre>
+
+<h3>web_language.xm</h3>
+
+<?xml version="1.0" encoding="UTF-8">
+<gui-languages>
+<file url="http://IP-Adresse/snom/config/snomlang/web_lang_DE.xml name="Deutsch">
+<file url="http://IP-Adresse/snom/config/snomlang/web_lang_EN.xml name="English">
+<gui-languages>
+
+<h3>phone_settings.xml</h3>
+Folgende XML-Tags werden unterstützt:
+<pre>
+&lt;phone-settings&gt; 
+&lt;function-keys&gt;
+&lt;phone-book&gt;
+&lt;dialplan&gt;
+&lt;firmware-settings&gt;
+&lt;setting-files&gt;
+&lt;settings&gt;
+&lt;gui-languages&gt;
+&lt;phrases&gt;
+&lt;web-languages&gt;
+&lt;w_phrases&gt;
+</pre>
+
+<h3>Individueller Klingelton</h3>
+
+PCM 8 kHz 16 bit/sample (linear) mono WAV, max 250kb
+
+<h3>Links</h3>
+Sprachdateien: <a href="http://fox.snom.com/config/">http://fox.snom.com/config/</a>
+{% endblock content %}

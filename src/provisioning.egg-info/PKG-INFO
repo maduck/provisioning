@@ -1,0 +1,17 @@
+Metadata-Version: 1.0
+Name: provisioning
+Version: 0.1
+Summary: A provisioning server for VoIP phones
+Home-page: http://github.com/maduck/provisioning
+Author: Matthias Utke
+Author-email: UNKNOWN
+License: GPL
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Framework :: Django
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GPL License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Internet :: WWW/HTTP
