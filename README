@@ -3,6 +3,11 @@ Copyright (C) 2012  maduck
 provisioning provides automatic settings management for voip phones, currently only for snom 320
 we plan to implement snom & grandstream devices in the first step.
 
+steps towards failure:
+ 1. python bootstrap.py
+ 2. bin/buildout
+ 3. bin/django runserver 8080
+
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
