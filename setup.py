@@ -12,7 +12,7 @@ setup(
     description="A provisioning server for VoIP phones",
     long_description=read('README'),
 
-    author='Matthias Utke',
+    author='maduck',
     author_email=None,
 
     packages=find_packages('src'),
