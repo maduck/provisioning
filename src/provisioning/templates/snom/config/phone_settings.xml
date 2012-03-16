@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+<phone-settings e="2">
+<user_pass idx="1" perm="">1111</user_pass>
+<timezone perm="">GER+1</timezone>
+<tone_scheme perm="">GER</tone_scheme>
+<ignore_security_warning perm="">on</ignore_security_warning> 
+<ntp_server perm="">asterisk</ntp_server>
+<rtp_port_start perm="R">10000</rtp_port_start> 
+<rtp_port_end perm="R">20000</rtp_port_end>
+<callpickup_dialoginfo perm="!">on</callpickup_dialoginfo> 
+<filter_registrar perm="!">off</filter_registrar>
+<display_method perm="!">display_name_number</display_method>
+<date_us_format perm="!">off</date_us_format>
+<time_24_format perm="!">on</time_24_format>
+<advertisement perm="!">off</advertisement>
+<call_join_xfer perm="R">on</call_join_xfer>
+<logon_wizard perm="R">off</logon_wizard>
+</phone-settings>
+<functionKeys e="2">
+</functionKeys>
+<tbook e="2">
+</tbook>
+</settings>

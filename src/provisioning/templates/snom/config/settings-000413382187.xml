@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+<phone-settings e="2">
+<user_realname idx="1" perm="">512</user_realname>
+<user_name idx="1" perm="">512</user_name>
+<user_host idx="1" perm="">asterisk</user_host>
+<user_pname idx="1" perm="">512</user_pname>
+<language perm="!">German</language>
+<web_language perm="!">German</web_language> 
+</phone-settings>
+<functionKeys e="2">
+<fkey idx="6" context="active" perm="">dest &lt;sip:501@asterisk;user=phone&gt;</fkey>
+<fkey idx="0" context="active" perm="">dest &lt;sip:502@asterisk;user=phone&gt;</fkey>
+<fkey idx="7" context="active" perm="">dest &lt;sip:506@asterisk;user=phone&gt;</fkey>
+<fkey idx="1" context="active" perm="">dest &lt;sip:514@asterisk;user=phone&gt;</fkey>
+<fkey idx="8" context="active" perm="">dest &lt;sip:515@asterisk;user=phone&gt;</fkey>
+<fkey idx="2" context="active" perm="">dest &lt;sip:531@asterisk;user=phone&gt;</fkey>
+<fkey idx="9" context="active" perm="">dest &lt;sip:503@asterisk;user=phone&gt;</fkey>
+<fkey idx="3" context="active" perm="">dest &lt;sip:512@asterisk;user=phone&gt;</fkey>
+<fkey idx="10" context="active" perm=""></fkey>
+<fkey idx="4" context="active" perm=""></fkey>
+<fkey idx="11" context="active" perm=""></fkey>
+<fkey idx="5" context="active" perm=""></fkey>
+</functionKeys>
+</settings>

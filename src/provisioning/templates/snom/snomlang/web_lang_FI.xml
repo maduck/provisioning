@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w_phrases>
+	<w_phrase i="0" n="wlang_iso_code" t="FI"/>
+	<w_phrase i="1" n="wlang_web_language_name" t="Suomi"/>
+	<w_phrase i="2" n="wlang_index_infotext" t="T&#195;&#164;m&#195;&#164; selainliittym&#195;&#164; helpottaa puhelimesi asetuksien tekemisess&#195;&#164; ja sallii p&#195;&#164;&#195;&#164;syn edistyneempiin piirteisiin.&lt;br&gt;Valitessasi numeron, sy&#195;&#182;t&#195;&#164; numero alla olevaan kentt&#195;&#164;&#195;&#164;n. Voit sy&#195;&#182;tt&#195;&#164;&#195;&#164; tavallisen numeron ( esim. 0942435555 ) tai URI:n kuten info@snom.com."/>
+	<w_phrase i="3" n="wlang_index_dialnumber" t="Valitse numero"/>
+	<w_phrase i="4" n="wlang_index_dialnumberbutton" t="Soita"/>
+	<w_phrase i="5" n="wlang_index_hangupbutton" t="Katkaise"/>
+	<w_phrase i="6" n="wlang_index_outgoingident" t="Ulosmenev&#195;&#164; identiteetti:"/>
+	<w_phrase i="7" n="wlang_index_setbutton" t="Aseta"/>
+	<w_phrase i="8" n="wlang_index_dialednumbers" t="Soitetut numerot"/>
+	<w_phrase i="9" n="wlang_index_dialed" t="Soitettu"/>
+	<w_phrase i="10" n="wlang_index_missedcalls" t="Vastaamatta j&#195;&#164;&#195;&#164;neet puhelut"/>
+	<w_phrase i="11" n="wlang_index_missed" t="Vastaamatta"/>
+	<w_phrase i="12" n="wlang_index_receivedcalls" t="Vastatut puhelut"/>
+	<w_phrase i="13" n="wlang_index_received" t="Vastattu"/>
+	<w_phrase i="14" n="wlang_index_date" t="P&#195;&#164;iv&#195;&#164;"/>
+	<w_phrase i="15" n="wlang_index_number" t="Numero"/>
+	<w_phrase i="16" n="wlang_leftnav_operation" t="Toiminta "/>
+	<w_phrase i="17" n="wlang_leftnav_home" t="Koti"/>
+	<w_phrase i="18" n="wlang_leftnav_addressbook" t="Osoitekirja"/>
+	<w_phrase i="19" n="wlang_leftnav_setup" t="Asetukset"/>
+	<w_phrase i="20" n="wlang_leftnav_preferences" t="Ominaisuudet"/>
+	<w_phrase i="21" n="wlang_leftnav_speeddial" t="Pikavalinta"/>
+	<w_phrase i="22" n="wlang_leftnav_functionkeys" t="Toimintan&#195;&#164;pp&#195;&#164;imet"/>
+	<w_phrase i="23" n="wlang_leftnav_lineone" t="Identiteetti 1"/>
+	<w_phrase i="24" n="wlang_leftnav_linetwo" t="Identiteetti 2"/>
+	<w_phrase i="25" n="wlang_leftnav_linethree" t="Identiteetti 3"/>
+	<w_phrase i="26" n="wlang_leftnav_linefour" t="Identiteetti 4"/>
+	<w_phrase i="27" n="wlang_leftnav_linefive" t="Identiteetti 5"/>
+	<w_phrase i="28" n="wlang_leftnav_linesix" t="Identiteetti 6"/>
+	<w_phrase i="29" n="wlang_leftnav_lineseven" t="Identiteetti 7"/>
+	<w_phrase i="30" n="wlang_leftnav_lineeight" t="Identiteetti 8"/>
+	<w_phrase i="31" n="wlang_leftnav_linenine" t="Identiteetti 9"/>
+	<w_phrase i="32" n="wlang_leftnav_lineten" t="Identiteetti 10"/>
+	<w_phrase i="33" n="wlang_leftnav_lineeleven" t="Identiteetti 11"/>
+	<w_phrase i="34" n="wlang_leftnav_linetwelve" t="Identiteetti 12"/>
+	<w_phrase i="35" n="wlang_leftnav_advanced" t="Lis&#195;&#164;asetukset"/>
+	<w_phrase i="36" n="wlang_leftnav_softupdate" t="Ohjelmiston p&#195;&#164;ivitys"/>
+	<w_phrase i="37" n="wlang_leftnav_status" t="Tilatiedot"/>
+	<w_phrase i="38" n="wlang_leftnav_sysinfo" t="Tietoa j&#195;&#164;rjestelm&#195;&#164;st&#195;&#164;"/>
+	<w_phrase i="39" n="wlang_leftnav_siptrace" t="SIP Trace"/>
+	<w_phrase i="40" n="wlang_leftnav_upnptrace" t="UPnP Trace"/>
+	<w_phrase i="41" n="wlang_leftnav_dnscache" t="DNS Cache"/>
+	<w_phrase i="42" n="wlang_leftnav_pcaptrace" t="PCAP Trace"/>
+	<w_phrase i="43" n="wlang_leftnav_log" t="Loki"/>
+	<w_phrase i="44" n="wlang_leftnav_memory" t="Muisti"/>
+	<w_phrase i="45" n="wlang_leftnav_settings" t="Asetukset"/>
+	<w_phrase i="46" n="wlang_leftnav_manual" t="K&#195;&#164;ytt&#195;&#182;ohje"/>
+	<w_phrase i="47" n="wlang_adr_name" t="Nimi:"/>
+	<w_phrase i="48" n="wlang_adr_number" t="Numero:"/>
+	<w_phrase i="49" n="wlang_adr_reading" t="Lukema:"/>
+	<w_phrase i="50" n="wlang_adr_contacttype" t="Kontaktitiedot:"/>
+	<w_phrase i="51" n="wlang_adr_edit" t="Muuta"/>
+	<w_phrase i="52" n="wlang_adr_delete" t="Poista"/>
+	<w_phrase i="53" n="wlang_adr_addeditentry" t="Lis&#195;&#164;&#195;&#164; tai muuta:"/>
+	<w_phrase i="54" n="wlang_adr_ctnone" t="ei mit&#195;&#164;&#195;&#164;n"/>
+	<w_phrase i="55" n="wlang_adr_ctfriends" t="Yst&#195;&#164;v&#195;&#164;t"/>
+	<w_phrase i="56" n="wlang_adr_ctfamily" t="Perhe"/>
+	<w_phrase i="57" n="wlang_adr_ctcolleagues" t="Ty&#195;&#182;"/>
+	<w_phrase i="58" n="wlang_adr_ctvip" t="VIP"/>
+	<w_phrase i="59" n="wlang_adr_ctdeny" t="Kieltolista"/>
+	<w_phrase i="60" n="wlang_adr_addeditbutton" t="Lis&#195;&#164;&#195;&#164;/Muuta"/>
+	<w_phrase i="61" n="wlang_adr_importadrbook" t="Tuo osoitekirja ( CSV ):"/>
+	<w_phrase i="62" n="wlang_adr_namefields" t="Nimikent&#195;&#164;t:"/>
+	<w_phrase i="63" n="wlang_adr_addressfields" t="Osoitekent&#195;&#164;t:"/>
+	<w_phrase i="64" n="wlang_adr_readingfields" t="Lukukent&#195;&#164;t:"/>
+	<w_phrase i="65" n="wlang_adr_filename" t="Tiedoston nimi:"/>
+	<w_phrase i="66" n="wlang_adr_loadbutton" t="Lataa"/>
+	<w_phrase i="67" n="wlang_adr_saveadrpart1" t="Klikkaa"/>
+	<w_phrase i="68" n="wlang_adr_herelink" t="t&#195;&#164;h&#195;&#164;n"/>
+	<w_phrase i="69" n="wlang_adr_saveadrpart2" t=" tallentaaksesi nykyisen osoitekirjan"/>
+	<w_phrase i="70" n="wlang_prefs_generalinfo" t="Yleist&#195;&#164; tietoa"/>
+	<w_phrase i="71" n="wlang_prefs_language" t="Kieli:"/>
+	<w_phrase i="72" n="wlang_prefs_web_language" t="Webliittym&#195;&#164;n kieli:"/>
+	<w_phrase i="73" n="wlang_prefs_displaystyle" t="Numeron esitystapa:"/>
+	<w_phrase i="74" n="wlang_prefs_dsfullcontact" t="T&#195;&#164;ydelliset tiedot"/>
+	<w_phrase i="75" n="wlang_prefs_dsname" t="Nimi "/>
+	<w_phrase i="76" n="wlang_prefs_dsnumber" t="Numero"/>
+	<w_phrase i="77" n="wlang_prefs_dsnamenumber" t="Nimi + Numero"/>
+	<w_phrase i="78" n="wlang_prefs_tonescheme" t="Valinta&#195;&#164;&#195;&#164;nivaihtoehdot:"/>
+	<w_phrase i="79" n="wlang_prefs_tsaustralia" t="Australia"/>
+	<w_phrase i="80" n="wlang_prefs_tschina" t="Kiina"/>
+	<w_phrase i="81" n="wlang_prefs_tsdenmark" t="Tanska"/>
+	<w_phrase i="82" n="wlang_prefs_tsgermany" t="Saksa"/>
+	<w_phrase i="83" n="wlang_prefs_tsindia" t="Intia"/>
+	<w_phrase i="84" n="wlang_prefs_tsjapan" t="Japani"/>
+	<w_phrase i="85" n="wlang_prefs_tsmexico" t="Meksiko"/>
+	<w_phrase i="86" n="wlang_prefs_tsuk" t="Iso-Britannia"/>
+	<w_phrase i="87" n="wlang_prefs_tsus" t="Yhdysvallat"/>
+	<w_phrase i="88" n="wlang_prefs_mwinotifi" t="Sanoma odottaa ilmoitus:"/>
+	<w_phrase i="89" n="wlang_prefs_mwisilent" t="Hiljainen"/>
+	<w_phrase i="90" n="wlang_prefs_mwibeep" t="Piippaus"/>
+	<w_phrase i="91" n="wlang_prefs_mwireminder" t="Muistutus"/>
+	<w_phrase i="92" n="wlang_prefs_mwidialtone" t="Sanoma odottaa valinta&#195;&#164;&#195;&#164;ni:"/>
+	<w_phrase i="93" n="wlang_prefs_mwidialnormal" t="Normaali"/>
+	<w_phrase i="94" n="wlang_prefs_mwidialstutter" t="Katkonainen"/>
+	<w_phrase i="95" n="wlang_prefs_useheadset" t="K&#195;&#164;yt&#195;&#164; kuulokkeita"/>
+	<w_phrase i="96" n="wlang_prefs_hsnone" t="ei mit&#195;&#164;&#195;&#164;n"/>
+	<w_phrase i="97" n="wlang_prefs_hschinch" t="Chinch liittimet"/>
+	<w_phrase i="98" n="wlang_prefs_hsrj" t="RJ liitin"/>
+	<w_phrase i="99" n="wlang_prefs_redirection" t="Kutsun siirto:"/>
+	<w_phrase i="100" n="wlang_prefs_event" t="Tapahtuma:"/>
+	<w_phrase i="101" n="wlang_prefs_evnever" t="Ei koskaan"/>
+	<w_phrase i="102" n="wlang_prefs_evalways" t="Aina"/>
+	<w_phrase i="103" n="wlang_prefs_evbusy" t="Kun varattu"/>
+	<w_phrase i="104" n="wlang_prefs_evtimeout" t="Ajan j&#195;&#164;lkeen"/>
+	<w_phrase i="105" n="wlang_prefs_timeout" t="Aika"/>
+	<w_phrase i="106" n="wlang_prefs_ssi_numberredirect" t="Numero+(kutsun siirto):"/>
+	<w_phrase i="107" n="wlang_prefs_ssi_numberbusy" t="Numero+(varattu):"/>
+	<w_phrase i="108" n="wlang_prefs_ringtones" t="Soitto&#195;&#164;&#195;&#164;net:"/>
+	<w_phrase i="109" n="wlang_prefs_defaultsection" t="Oletusvalinta"/>
+	<w_phrase i="110" n="wlang_prefs_defsource" t="L&#195;&#164;hde"/>
+	<w_phrase i="111" n="wlang_prefs_defdestination" t="Kohde"/>
+	<w_phrase i="112" n="wlang_prefs_friends" t="Yst&#195;&#164;v&#195;&#164;t"/>
+	<w_phrase i="113" n="wlang_prefs_ringer1" t="Soitto&#195;&#164;&#195;&#164;ni 1"/>
+	<w_phrase i="114" n="wlang_prefs_ringer2" t="Soitto&#195;&#164;&#195;&#164;ni 2"/>
+	<w_phrase i="115" n="wlang_prefs_ringer3" t="Soitto&#195;&#164;&#195;&#164;ni 3"/>
+	<w_phrase i="116" n="wlang_prefs_ringer4" t="Soitto&#195;&#164;&#195;&#164;ni 4"/>
+	<w_phrase i="117" n="wlang_prefs_ringer5" t="Soitto&#195;&#164;&#195;&#164;ni 5"/>
+	<w_phrase i="118" n="wlang_prefs_ringer6" t="Soitto&#195;&#164;&#195;&#164;ni 6"/>
+	<w_phrase i="119" n="wlang_prefs_ringer7" t="Soitto&#195;&#164;&#195;&#164;ni 7"/>
+	<w_phrase i="120" n="wlang_prefs_ringer8" t="Soitto&#195;&#164;&#195;&#164;ni 8"/>
+	<w_phrase i="121" n="wlang_prefs_ringersilent" t="Mykk&#195;&#164;"/>
+	<w_phrase i="122" n="wlang_prefs_family" t="Perhe"/>
+	<w_phrase i="123" n="wlang_prefs_colleagues" t="Ty&#195;&#182;"/>
+	<w_phrase i="124" n="wlang_prefs_ringdeviceheadset" t="Soiva laite kuulokkeiden kanssa:"/>
+	<w_phrase i="125" n="wlang_prefs_ringspeaker" t="K&#195;&#164;yt&#195;&#164; kaiutinta"/>
+	<w_phrase i="126" n="wlang_prefs_ringheadset" t="K&#195;&#164;yt&#195;&#164; kuulokkeita"/>
+	<w_phrase i="127" n="wlang_prefs_defaultringer" t="Oletussoitto&#195;&#164;&#195;&#164;ni:"/>
+	<w_phrase i="128" n="wlang_prefs_ssi_custommelody" t="Oma+melodia+URL:"/>
+	<w_phrase i="129" n="wlang_prefs_autoanswer" t="Automaattinen vastaus:"/>
+	<w_phrase i="130" n="wlang_prefs_ssi_aaautoanswer" t="Automaattinen+vastaus:"/>
+	<w_phrase i="131" n="wlang_prefs_ssi_aaindication" t="Automaattinen+vastaus+Indikaatio:"/>
+	<w_phrase i="132" n="wlang_prefs_typeanswering" t="Vastaustapa:"/>
+	<w_phrase i="133" n="wlang_prefs_tahandsfree" t="K&#195;&#164;det vapaana"/>
+	<w_phrase i="134" n="wlang_prefs_tahandset" t="Luuri"/>
+	<w_phrase i="135" n="wlang_prefs_taheadset" t="Kuuloke"/>
+	<w_phrase i="136" n="wlang_prefs_privacysetting" t="Yksityisyysasetukset"/>
+	<w_phrase i="137" n="wlang_prefs_ssi_privclip" t="Kutsutun+linjan+identifikaation+esitystapa+(CLIP):"/>
+	<w_phrase i="138" n="wlang_prefs_ssi_privclir" t="Kutsutun+linjan+identifikaation+rajoitettu esitystapa+(CLIP):"/>
+	<w_phrase i="139" n="wlang_prefs_ssi_inactivitytimeout" t="Aikavalvontakatkaisu ( minuuteissa ):"/>
+	<w_phrase i="140" n="wlang_prefs_hide" t="Piilota"/>
+	<w_phrase i="141" n="wlang_prefs_show" t="N&#195;&#164;yt&#195;&#164;"/>
+	<w_phrase i="142" n="wlang_prefs_reject" t="Rajoita"/>
+	<w_phrase i="143" n="wlang_prefs_accept" t="Salli"/>
+	<w_phrase i="144" n="wlang_prefs_savebutton" t="Tallenna"/>
+	<w_phrase i="145" n="wlang_speed_speeddialtable" t="Pikavalintataulukko:"/>
+	<w_phrase i="146" n="wlang_speed_savebutton" t="Tallenna"/>
+	<w_phrase i="147" n="wlang_fkeys_keysettings" t="N&#195;&#164;pp&#195;&#164;inasetukset:"/>
+	<w_phrase i="148" n="wlang_fkeys_ssi_number" t="Numero"/>
+	<w_phrase i="149" n="wlang_fkeys_ssi_line" t="Linja"/>
+	<w_phrase i="150" n="wlang_fkeys_ssi_dest" t="Alanumero"/>
+	<w_phrase i="151" n="wlang_fkeys_ssi_intercom" t="Sis&#195;&#164;puhelu"/>
+	<w_phrase i="152" n="wlang_fkeys_ssi_parkorbit" t="Loggauksen taso"/>
+	<w_phrase i="153" n="wlang_fkeys_ssi_voicerecorder" t="&#195;&#132;&#195;&#164;ni+nauhuri"/>
+	<w_phrase i="154" n="wlang_fkeys_ssi_dtmf" t="DTMF"/>
+	<w_phrase i="155" n="wlang_fkeys_savebutton" t="Tallenna"/>
+	<w_phrase i="156" n="wlang_line_logininfo" t="Login informaatio:"/>
+	<w_phrase i="157" n="wlang_line_ssi_name" t="N&#195;&#164;ytett&#195;&#164;v&#195;&#164; nimi:"/>
+	<w_phrase i="158" n="wlang_line_ssi_account" t="Tili"/>
+	<w_phrase i="159" n="wlang_line_ssi_password" t="Salasana:"/>
+	<w_phrase i="160" n="wlang_line_ssi_registrar" t="Rekister&#195;&#182;ij&#195;&#164;:"/>
+	<w_phrase i="161" n="wlang_line_status" t="Tila:"/>
+	<w_phrase i="162" n="wlang_line_ssi_mailbox" t="Postilaatikko:"/>
+	<w_phrase i="163" n="wlang_line_ringtone" t="Soitto&#195;&#164;&#195;&#164;ni:"/>
+	<w_phrase i="164" n="wlang_line_ringer1" t="Soitto&#195;&#164;&#195;&#164;ni 1"/>
+	<w_phrase i="165" n="wlang_line_ringer2" t="Soitto&#195;&#164;&#195;&#164;ni 2"/>
+	<w_phrase i="166" n="wlang_line_ringer3" t="Soitto&#195;&#164;&#195;&#164;ni 3"/>
+	<w_phrase i="167" n="wlang_line_ringer4" t="Soitto&#195;&#164;&#195;&#164;ni 4"/>
+	<w_phrase i="168" n="wlang_line_ringer5" t="Soitto&#195;&#164;&#195;&#164;ni 5"/>
+	<w_phrase i="169" n="wlang_line_ringer6" t="Soitto&#195;&#164;&#195;&#164;ni 6"/>
+	<w_phrase i="170" n="wlang_line_ringer7" t="Soitto&#195;&#164;&#195;&#164;ni 7"/>
+	<w_phrase i="171" n="wlang_line_ringer8" t="Soitto&#195;&#164;&#195;&#164;ni 8"/>
+	<w_phrase i="172" n="wlang_line_ringer9" t="Soitto&#195;&#164;&#195;&#164;ni 9"/>
+	<w_phrase i="173" n="wlang_line_ringer10" t="Soitto&#195;&#164;&#195;&#164;ni 10"/>
+	<w_phrase i="174" n="wlang_line_silent" t="Mykk&#195;&#164;"/>
+	<w_phrase i="175" n="wlang_line_ssi_outboundproxy" t="Outbound+proxy:"/>
+	<w_phrase i="176" n="wlang_line_ssi_dialplan" t="Numerosuunnitelma:"/>
+	<w_phrase i="177" n="wlang_line_qvalue" t="Q-arvo"/>
+	<w_phrase i="178" n="wlang_line_expire" t="Ehdotettu voimassaoloaika"/>
+	<w_phrase i="179" n="wlang_line_qday" t="p&#195;&#164;iv&#195;&#164;"/>
+	<w_phrase i="180" n="wlang_line_qhours" t="tuntia"/>
+	<w_phrase i="181" n="wlang_line_qhour" t="tunti "/>
+	<w_phrase i="182" n="wlang_line_qmins" t="minuuttia"/>
+	<w_phrase i="183" n="wlang_line_qmin" t="minuutti "/>
+	<w_phrase i="184" n="wlang_line_transport" t="Siirtotapa"/>
+	<w_phrase i="185" n="wlang_line_tauto" t="auto"/>
+	<w_phrase i="186" n="wlang_line_tudp" t="udp"/>
+	<w_phrase i="187" n="wlang_line_ttcp" t="tcp"/>
+	<w_phrase i="188" n="wlang_line_ttls" t="tls"/>
+	<w_phrase i="189" n="wlang_line_ssi_offerice" t="Offer+ICE"/>
+	<w_phrase i="190" n="wlang_line_codec" t="Kodekki"/>
+	<w_phrase i="191" n="wlang_line_packetsize" t="Paketin koko:"/>
+	<w_phrase i="192" n="wlang_line_ssi_rtpencryption" t="RTP+kryptaus"/>
+	<w_phrase i="193" n="wlang_line_savebutton" t="Tallenna"/>
+	<w_phrase i="194" n="wlang_update_info" t="Voit yksiselitteisesti m&#195;&#164;&#195;&#164;ritell&#195;&#164; mink&#195;&#164; ohjelmaversion haluat t&#195;&#164;h&#195;&#164;n puhelimeen. T&#195;&#164;yt&#195;&#164; http URL, joka viittaa bootloaderiin ja firmwareen. Jos tahdot vaihtaa vain firmwaren, j&#195;&#164;t&#195;&#164; bootloader osuus tyhj&#195;&#164;ksi. Jos haluat vaihtaa vain bootloaderin, j&#195;&#164;t&#195;&#164; firmware osuus tyhj&#195;&#164;ksi. K&#195;&#164;yt&#195;&#164; &lt;b&gt;vain t&#195;&#164;ydellist&#195;&#164; http URL:ia&lt;/b&gt; ( kuten http://snom.com/download/share/snom200-x.yz.bin ). Puhelin k&#195;&#164;ynnistyy uudelleen painaessasi load nappia."/>
+	<w_phrase i="195" n="wlang_update_manualsoftup" t="Manuaalinen ohjelman p&#195;&#164;ivitys"/>
+	<w_phrase i="196" n="wlang_update_ssi_bootloader" t="Bootloader:"/>
+	<w_phrase i="197" n="wlang_update_ssi_firmware" t="Ohjelmisto:"/>
+	<w_phrase i="198" n="wlang_update_loadbutton" t="Lataa"/>
+	<w_phrase i="199" n="wlang_info_phonetype" t="Puhelimen tyyppi"/>
+	<w_phrase i="200" n="wlang_info_macaddress" t="MAC-osoite"/>
+	<w_phrase i="201" n="wlang_info_ipaddress" t="IP-Osoite"/>
+	<w_phrase i="202" n="wlang_info_application_version" t="Application-Version:"/>
+	<w_phrase i="203" n="wlang_info_firmware_url" t="Firmware-URL:"/>
+	<w_phrase i="204" n="wlang_info_rootfs_version" t="Rootfs-Version:"/>
+	<w_phrase i="205" n="wlang_trace_clearbutton" t="Tyhjenn&#195;&#164;"/>
+	<w_phrase i="206" n="wlang_trace_reloadbutton" t="Lataa uudelleen"/>
+	<w_phrase i="207" n="wlang_log_level" t="Loggauksen taso"/>
+	<w_phrase i="208" n="wlang_log_savebutton" t="Tallenna"/>
+	<w_phrase i="209" n="wlang_log_clearbutton" t="Tyhjenn&#195;&#164;"/>
+	<w_phrase i="210" n="wlang_advanced_network" t="Verkko:"/>
+	<w_phrase i="211" n="wlang_advanced_ssi_dhcp" t="DHCP"/>
+	<w_phrase i="212" n="wlang_advanced_ssi_on" t="p&#195;&#164;&#195;&#164;lle"/>
+	<w_phrase i="213" n="wlang_advanced_ssi_off" t="pois p&#195;&#164;&#195;&#164;lt&#195;&#164;"/>
+	<w_phrase i="214" n="wlang_advanced_ssi_ipaddress" t="IP+osoite:"/>
+	<w_phrase i="215" n="wlang_advanced_ssi_netmask" t="Verkon maskit:"/>
+	<w_phrase i="216" n="wlang_advanced_ssi_phonename" t="Host+Name:"/>
+	<w_phrase i="217" n="wlang_advanced_ssi_ipgateway" t="IP+Gateway"/>
+	<w_phrase i="218" n="wlang_advanced_dns" t="DNS:"/>
+	<w_phrase i="219" n="wlang_advanced_ssi_domain" t="Domain:"/>
+	<w_phrase i="220" n="wlang_advanced_ssi_dnsserver1" t="DNS+palvelin+1"/>
+	<w_phrase i="221" n="wlang_advanced_ssi_dnsserver2" t="DNS+palvelin+2"/>
+	<w_phrase i="222" n="wlang_advanced_time" t="Aika:"/>
+	<w_phrase i="223" n="wlang_advanced_ssi_ntptimeserver" t="NTP+aikapalvelin"/>
+	<w_phrase i="224" n="wlang_advanced_timezone" t="Aikavy&#195;&#182;hyke:"/>
+	<w_phrase i="225" n="wlang_advanced_http" t="HTTP:"/>
+	<w_phrase i="226" n="wlang_advanced_ssi_user" t="K&#195;&#164;ytt&#195;&#164;j&#195;&#164;:"/>
+	<w_phrase i="227" n="wlang_advanced_ssi_password" t="Salasana:"/>
+	<w_phrase i="228" n="wlang_advanced_ssi_httpproxy" t="HTTP+proxy:"/>
+	<w_phrase i="229" n="wlang_advanced_ssi_httpport" t="HTTP+portti:"/>
+	<w_phrase i="230" n="wlang_advanced_ssi_httpsport" t="HTTPS+portti:"/>
+	<w_phrase i="231" n="wlang_advanced_webservercon" t="Webpalvelimen liitynn&#195;&#164;n tyyppi"/>
+	<w_phrase i="232" n="wlang_advanced_httponly" t="vain http"/>
+	<w_phrase i="233" n="wlang_advanced_httpsonly" t="vain https"/>
+	<w_phrase i="234" n="wlang_advanced_httphttps" t="http tai https"/>
+	<w_phrase i="235" n="wlang_advanced_off" t="pois p&#195;&#164;&#195;&#164;lt&#195;&#164;"/>
+	<w_phrase i="236" n="wlang_advanced_phonebehavior" t="Puhelimen toimintatapa:"/>
+	<w_phrase i="237" n="wlang_advanced_ssi_callcompletion" t="Puhelun+P&#195;&#164;&#195;&#164;tt&#195;&#164;minen:"/>
+	<w_phrase i="238" n="wlang_advanced_ssi_idnasupport" t="IDNA+(RFC+3490)+tuki:"/>
+	<w_phrase i="239" n="wlang_advanced_actionethernet" t="Jos ethernetkaapeli irtoaa"/>
+	<w_phrase i="240" n="wlang_advanced_reboot" t="Reboot"/>
+	<w_phrase i="241" n="wlang_advanced_donothing" t="&#195;&#132;l&#195;&#164; tee mit&#195;&#164;&#195;&#164;n"/>
+	<w_phrase i="242" n="wlang_advanced_autodial" t="Automaattinen valinta:"/>
+	<w_phrase i="243" n="wlang_advanced_after2sec" t="2 sekunnin j&#195;&#164;lkeen"/>
+	<w_phrase i="244" n="wlang_advanced_after5sec" t="5 sekunnin j&#195;&#164;lkeen"/>
+	<w_phrase i="245" n="wlang_advanced_after10sec" t="10 sekunnin j&#195;&#164;lkeen"/>
+	<w_phrase i="246" n="wlang_advanced_after15sec" t="15 sekunnin j&#195;&#164;lkeen"/>
+	<w_phrase i="247" n="wlang_advanced_ssi_numberguessing" t="Numeronarvaus:"/>
+	<w_phrase i="248" n="wlang_advanced_ssi_blockurldialing" t="Ei+URL+valintaa:"/>
+	<w_phrase i="249" n="wlang_advanced_ssi_denyallfeature" t="Est&#195;&#164;+kaikki+toiminne:"/>
+	<w_phrase i="250" n="wlang_advanced_ssi_challengeresponse" t="Challenge+response+on+phone:"/>
+	<w_phrase i="251" n="wlang_advanced_ssi_broadsoftcallcontrol" t="Broadsoft+kutsun+ohjaus+ominaisuudet:"/>
+	<w_phrase i="252" n="wlang_advanced_ssi_callwaitingindi" t="Puhelu odottaa koputus:"/>
+	<w_phrase i="253" n="wlang_advanced_ssi_dialtonehold" t="Vapaa&#195;&#164;&#195;&#164;ni+pidossa"/>
+	<w_phrase i="254" n="wlang_advanced_ssi_disconnectonhook" t="Katkaise+kun+luuri+alhaalla"/>
+	<w_phrase i="255" n="wlang_advanced_keys" t="N&#195;&#164;pp&#195;&#164;imet:"/>
+	<w_phrase i="256" n="wlang_advanced_ssi_breakkey" t="Katkaise+n&#195;&#164;pp&#195;&#164;in:"/>
+	<w_phrase i="257" n="wlang_advanced_ssi_transferonhook" t="Siirr&#195;&#164;+kun+luuri+lasketaan:"/>
+	<w_phrase i="258" n="wlang_advanced_ssi_blockdnd" t="Est&#195;&#164; &#195;&#132;L&#195;&#132;H toiminne"/>
+	<w_phrase i="259" n="wlang_advanced_ssi_logonwizard" t="Logon avustaja"/>
+	<w_phrase i="260" n="wlang_advanced_preselection" t="Esivalinta"/>
+	<w_phrase i="261" n="wlang_advanced_ssi_prefix" t="Prefix:"/>
+	<w_phrase i="262" n="wlang_advanced_ssi_externlineprefix" t="Ulkoinen+linja+prefix"/>
+	<w_phrase i="263" n="wlang_advanced_ssi_gatewayprefix" t="Gateway+prefix"/>
+	<w_phrase i="264" n="wlang_advanced_pbxkeycodes" t="Vaihteen n&#195;&#164;pp&#195;&#164;inkoodit"/>
+	<w_phrase i="265" n="wlang_advanced_ssi_holdstart" t="Pito+Aloita"/>
+	<w_phrase i="266" n="wlang_advanced_ssi_holdend" t="Pito+Lopeta"/>
+	<w_phrase i="267" n="wlang_advanced_ssi_blindtransfer" t="Suora+yhdist&#195;&#164;minen"/>
+	<w_phrase i="268" n="wlang_advanced_ssi_transferwithconsult" t="Yhdist&#195;&#164;+v&#195;&#164;likyselyll&#195;&#164;"/>
+	<w_phrase i="269" n="wlang_advanced_ssi_divert" t="Siirr&#195;&#164;"/>
+	<w_phrase i="270" n="wlang_advanced_ssi_conferenceon" t="Konferenssi+p&#195;&#164;&#195;&#164;lle"/>
+	<w_phrase i="271" n="wlang_advanced_ssi_conferenceoff" t="Konferenssi+pois p&#195;&#164;&#195;&#164;lt&#195;&#164;"/>
+	<w_phrase i="272" n="wlang_advanced_ssi_pickup" t="Poiminta"/>
+	<w_phrase i="273" n="wlang_advanced_ssi_endsymbol" t="Lopetussymboli"/>
+	<w_phrase i="274" n="wlang_advanced_ssi_singlecallmode" t="Yhden+puhelun+moodi"/>
+	<w_phrase i="275" n="wlang_advanced_audio" t="Audio:"/>
+	<w_phrase i="276" n="wlang_advanced_ssi_mutemicrophone" t="Mykist&#195;&#164;+mikrofoni"/>
+	<w_phrase i="277" n="wlang_advanced_ssi_disablecasingspeaker" t="Sulje+kotelokaiutin"/>
+	<w_phrase i="278" n="wlang_advanced_ssi_dtmfechospeaker" t="DTMF+kaiku+kaiutinpuhelimessa:"/>
+	<w_phrase i="279" n="wlang_advanced_ssi_callreleasednotify" t="Ilmoitus+puhelun+katkeamisesta"/>
+	<w_phrase i="280" n="wlang_advanced_advancednetwork" t="Verkon lis&#195;&#164;asetukset:"/>
+	<w_phrase i="281" n="wlang_advanced_natdetection" t="NAT tunnistus"/>
+	<w_phrase i="282" n="wlang_advanced_ndautomatic" t="Automaattinen"/>
+	<w_phrase i="283" n="wlang_advanced_ndupnp" t="UPnP"/>
+	<w_phrase i="284" n="wlang_advanced_ndstun" t="STUN"/>
+	<w_phrase i="285" n="wlang_advanced_ndstatic" t="Staattinen"/>
+	<w_phrase i="286" n="wlang_line_ssi_stunserver" t="STUN+palvelin+(IP-os.:portti"/>
+	<w_phrase i="287" n="wlang_line_ssi_keepaliveint" t="Keepalive+interval+(seconds):"/>
+	<w_phrase i="288" n="wlang_advanced_ssi_usemappedaddress" t="K&#195;&#164;yt&#195;&#164;+opittuja+osoitteita:"/>
+	<w_phrase i="289" n="wlang_advanced_ssi_dynamicrtpstart" t="Dynaaminen+RTP+portti+alku"/>
+	<w_phrase i="290" n="wlang_advanced_ssi_dynamicrtpstop" t="Dynaaminen+RTP+portti+loppu"/>
+	<w_phrase i="291" n="wlang_advanced_ssi_typeofservice" t="Type+of+Service+(TOS):"/>
+	<w_phrase i="292" n="wlang_advanced_ssi_payloadtype" t="DTMF+payload+tyyppi:"/>
+	<w_phrase i="293" n="wlang_advanced_ssi_networkidenthost" t="Verkon+identiteetti+(hostname):"/>
+	<w_phrase i="294" n="wlang_advanced_ssi_networkidentport" t="Verkon+identiteetti+(portti):"/>
+	<w_phrase i="295" n="wlang_advanced_ssi_sipt1" t="SIP+T1+(ms):"/>
+	<w_phrase i="296" n="wlang_advanced_ssi_sipsessiontimer" t="SIP+Session+Timer+(s):"/>
+	<w_phrase i="297" n="wlang_advanced_ssi_sipdirtyhostttl" t="SIP+Dirty+Host+TTL+(s):"/>
+	<w_phrase i="298" n="wlang_advanced_ssi_sipmaxforward" t="SIP+Max+Forwards:"/>
+	<w_phrase i="299" n="wlang_advanced_ssi_enumsuffix" t="ENUM+Suffix:"/>
+	<w_phrase i="300" n="wlang_advanced_ssi_musiconholdserver" t="Pitomusiikkipalvelin:"/>
+	<w_phrase i="301" n="wlang_advanced_ssi_useuserphone" t="K&#195;&#164;yt&#195;&#164;+user=phone:"/>
+	<w_phrase i="302" n="wlang_advanced_ssi_publishpresence" t="Publish+Presence:"/>
+	<w_phrase i="303" n="wlang_advanced_ssi_refertobrackets" t="Refer-To+Brackets:"/>
+	<w_phrase i="304" n="wlang_advanced_ssi_requireprack" t="Vaadi+PRACK:"/>
+	<w_phrase i="305" n="wlang_advanced_ssi_symmetricrtp" t="Symmetrinen+RTP:"/>
+	<w_phrase i="306" n="wlang_advanced_update" t="P&#195;&#164;ivit&#195;&#164;:"/>
+	<w_phrase i="307" n="wlang_advanced_updatepolicy" t="P&#195;&#164;ivitystavat:"/>
+	<w_phrase i="308" n="wlang_advanced_upautomatically" t="P&#195;&#164;ivit&#195;&#164; automaattisesti"/>
+	<w_phrase i="309" n="wlang_advanced_upaskupdate" t="Pyyd&#195;&#164; p&#195;&#164;ivityst&#195;&#164;"/>
+	<w_phrase i="310" n="wlang_advanced_upaskupdatebootloader" t="Pyyd&#195;&#164; vain bootloaderin p&#195;&#164;ivityst&#195;&#164;"/>
+	<w_phrase i="311" n="wlang_advanced_upaskupdatefirmware" t="Pyyd&#195;&#164; vain firmwaren p&#195;&#164;ivityst&#195;&#164;"/>
+	<w_phrase i="312" n="wlang_advanced_upneverupdatesetting" t="&#195;&#132;l&#195;&#164; p&#195;&#164;ivit&#195;&#164;, lataa vain asetukset"/>
+	<w_phrase i="313" n="wlang_advanced_upneverupdatenosetting" t="&#195;&#132;l&#195;&#164; p&#195;&#164;ivit&#195;&#164;, &#195;&#164;l&#195;&#164; lataa asetuksia"/>
+	<w_phrase i="314" n="wlang_advanced_ssi_settingurl" t="Asetuksien+URL:"/>
+	<w_phrase i="315" n="wlang_advanced_ssi_subscribe_config" t="Subscribe+Config:"/>
+	<w_phrase i="316" n="wlang_advanced_vlaninfo" t="VLAN ID (0..4095) ja Prioriteetti ( 0..7)      &lt;br&gt; v&#195;&#164;lily&#195;&#182;nnill&#195;&#164; erotettuna ( esim. &apos;128 5&apos;):"/>
+	<w_phrase i="317" n="wlang_advanced_ssi_idpriority" t="ID+ja+prioriteetti:"/>
+	<w_phrase i="318" n="wlang_advanced_debug" t="Debug:"/>
+	<w_phrase i="319" n="wlang_advanced_ssi_lcserver" t="LCServer:"/>
+	<w_phrase i="320" n="wlang_advanced_resetbutton" t="Reset"/>
+	<w_phrase i="321" n="wlang_advanced_rebootbutton" t="Reboot"/>
+	<w_phrase i="322" n="wlang_advanced_security" t="Tietoturva"/>
+	<w_phrase i="323" n="wlang_advanced_ssi_adminmode" t="Administraattorimoodi:"/>
+	<w_phrase i="324" n="wlang_advanced_ssi_adminpassword" t="Administraattorin+salasana:"/>
+	<w_phrase i="325" n="wlang_advanced_ssi_adminpassconf" t="Administraattorin+salasana+(vahvistus):"/>
+	<w_phrase i="326" n="wlang_advanced_ssi_adminlogin" t="Administraattori+Login:"/>
+	<w_phrase i="327" n="wlang_advanced_savebutton" t="Tallenna"/>
+	<w_phrase i="328" n="wlang_advanced_tmz_USAm10" t="-10 Yhdysvallat - Hawaii-Aleutian"/>
+	<w_phrase i="329" n="wlang_advanced_tmz_USAm9" t="-9 Yhdysvallat - Alaska Time"/>
+	<w_phrase i="330" n="wlang_advanced_tmz_CANm8" t="-8 Kanada (Vancouver, Whitehorse)"/>
+	<w_phrase i="331" n="wlang_advanced_tmz_MEXm8" t="-8 Meksiko (Tijuana, Mexicali)"/>
+	<w_phrase i="332" n="wlang_advanced_tmz_USAm8" t="-8 Yhdysvallat - Pacific Time"/>
+	<w_phrase i="333" n="wlang_advanced_tmz_CANm7" t="-7 Kanada (Edmonton, Calgary)"/>
+	<w_phrase i="334" n="wlang_advanced_tmz_MEXm7" t="-7 Meksiko (Mazatlan, Chihuahua)"/>
+	<w_phrase i="335" n="wlang_advanced_tmz_USAm7" t="-7 Yhdysvallat - Mountain Time"/>
+	<w_phrase i="336" n="wlang_advanced_tmz_CANm6" t="-6 Kanada - Manitoba (Winnipeg)"/>
+	<w_phrase i="337" n="wlang_advanced_tmz_CHLm6" t="-6 Chile (Easter Islands)"/>
+	<w_phrase i="338" n="wlang_advanced_tmz_MEXm6" t="-6 Meksiko (Mexico City, Acapulco)"/>
+	<w_phrase i="339" n="wlang_advanced_tmz_USAm6" t="-6 Yhdysvallat - Central Time"/>
+	<w_phrase i="340" n="wlang_advanced_tmz_BHSm5" t="-5 Bahama (Nassau)"/>
+	<w_phrase i="341" n="wlang_advanced_tmz_CANm5" t="-5 Kanada (Montreal, Ottawa, Quebec)"/>
+	<w_phrase i="342" n="wlang_advanced_tmz_CUBm5" t="-5 Kuuba (Havana)"/>
+	<w_phrase i="343" n="wlang_advanced_tmz_USAm5" t="-5 Yhdysvallat - Eastern Time"/>
+	<w_phrase i="344" n="wlang_advanced_tmz_CANm4" t="-4 Kanada (Halifax, Saint John)"/>
+	<w_phrase i="345" n="wlang_advanced_tmz_CHLm4" t="-4 Chile (Santiago)"/>
+	<w_phrase i="346" n="wlang_advanced_tmz_PRYm4" t="-4 Paraguay (Asun&amp;ccedil;ion)"/>
+	<w_phrase i="347" n="wlang_advanced_tmz_BMUm4" t="-4 Iso Britannia - Bermuda (Bermuda)"/>
+	<w_phrase i="348" n="wlang_advanced_tmz_FLKm4" t="-4 Iso Britannia (Falkland Islands)"/>
+	<w_phrase i="349" n="wlang_advanced_tmz_CANm35" t="-3.5 Kanada - New Foundland (St. Johns)"/>
+	<w_phrase i="350" n="wlang_advanced_tmz_GRLm3" t="-3 Tanska - Greenland (Nuuk)"/>
+	<w_phrase i="351" n="wlang_advanced_tmz_PRTm1" t="-1 Portugali (Azores)"/>
+	<w_phrase i="352" n="wlang_advanced_tmz_FROm0" t="0 Tanska - Faroe Islands (Torshaven)"/>
+	<w_phrase i="353" n="wlang_advanced_tmz_IRLm0" t="0 Irlanti (Dublin)"/>
+	<w_phrase i="354" n="wlang_advanced_tmz_PRTm0" t="0 Portugali (Lisboa, Porto, Funchal)"/>
+	<w_phrase i="355" n="wlang_advanced_tmz_ESPm0" t="0 Espania - Canary Islands (Las Palmas)"/>
+	<w_phrase i="356" n="wlang_advanced_tmz_GBRm0" t="0 Iso Britannia (London)"/>
+	<w_phrase i="357" n="wlang_advanced_tmz_ALBp1" t="+1 Albania (Tirane)"/>
+	<w_phrase i="358" n="wlang_advanced_tmz_AUTp1" t="+1 It&#195;&#164;valta (Vienna)"/>
+	<w_phrase i="359" n="wlang_advanced_tmz_BELp1" t="+1 Belgia (Brussels)"/>
+	<w_phrase i="360" n="wlang_advanced_tmz_CAIp1" t="+1 Caicos"/>
+	<w_phrase i="361" n="wlang_advanced_tmz_CHAp1" t="+1 Khatam"/>
+	<w_phrase i="362" n="wlang_advanced_tmz_HRVp1" t="+1 Kroatia (Zagreb)"/>
+	<w_phrase i="363" n="wlang_advanced_tmz_CZEp1" t="+1 Tsekin tasavalta (Prague)"/>
+	<w_phrase i="364" n="wlang_advanced_tmz_DNKp1" t="+1 Tanska (Kopenhaven)"/>
+	<w_phrase i="365" n="wlang_advanced_tmz_FRAp1" t="+1 Ranska (Nice)"/>
+	<w_phrase i="366" n="wlang_advanced_tmz_GERp1" t="+1 Saksa (Berlin)"/>
+	<w_phrase i="367" n="wlang_advanced_tmz_HUNp1" t="+1 Unkari (Budapest)"/>
+	<w_phrase i="368" n="wlang_advanced_tmz_ITAp1" t="+1 Italia (Rome)"/>
+	<w_phrase i="369" n="wlang_advanced_tmz_LUXp1" t="+1 Luxembourg (Luxembourg)"/>
+	<w_phrase i="370" n="wlang_advanced_tmz_MAKp1" t="+1 Makedonia (Skopje)"/>
+	<w_phrase i="371" n="wlang_advanced_tmz_NLDp1" t="+1 Hollanti (Amsterdam)"/>
+	<w_phrase i="372" n="wlang_advanced_tmz_NAMp1" t="+1 Namibia (Windhoek)"/>
+	<w_phrase i="373" n="wlang_advanced_tmz_NORp1" t="+1 Norja (Oslo)"/>
+	<w_phrase i="374" n="wlang_advanced_tmz_POLp1" t="+1 Puola (Warszawa)"/>
+	<w_phrase i="375" n="wlang_advanced_tmz_SVKp1" t="+1 Slovakian tasavalta (Bratislava)"/>
+	<w_phrase i="376" n="wlang_advanced_tmz_ESPp1" t="+1 Espania (Madrid, Palma)"/>
+	<w_phrase i="377" n="wlang_advanced_tmz_SWEp1" t="+1 Ruotsi (Stockholm)"/>
+	<w_phrase i="378" n="wlang_advanced_tmz_CHEp1" t="+1 Sveitsi (Bern)"/>
+	<w_phrase i="379" n="wlang_advanced_tmz_GIBp1" t="+1 Iso Britannia (Gibraltar)"/>
+	<w_phrase i="380" n="wlang_advanced_tmz_YUGp1" t="+1 Serbia Montenegro (Beograd)"/>
+	<w_phrase i="381" n="wlang_advanced_tmz_BLRp2" t="+2 Valko-Ven&#195;&#164;j&#195;&#164; (Minsk)"/>
+	<w_phrase i="382" n="wlang_advanced_tmz_BGRp2" t="+2 Bulgaria (Sofia)"/>
+	<w_phrase i="383" n="wlang_advanced_tmz_CYPp2" t="+2 Kypros (Nicosia)"/>
+	<w_phrase i="384" n="wlang_advanced_tmz_EGYp2" t="+2 Egypti (Cairo)"/>
+	<w_phrase i="385" n="wlang_advanced_tmz_ESTp2" t="+2 Eesti (Tallinn)"/>
+	<w_phrase i="386" n="wlang_advanced_tmz_FINp2" t="+2 Suomi (Helsinki)"/>
+	<w_phrase i="387" n="wlang_advanced_tmz_GAZp2" t="+2 Gaza (Gaza)"/>
+	<w_phrase i="388" n="wlang_advanced_tmz_GRCp2" t="+2 Kreikka (Athens)"/>
+	<w_phrase i="389" n="wlang_advanced_tmz_ISRp2" t="+2 Israel (Tel Aviv)"/>
+	<w_phrase i="390" n="wlang_advanced_tmz_JORp2" t="+2 Jordania (Amman)"/>
+	<w_phrase i="391" n="wlang_advanced_tmz_LVAp2" t="+2 Latvia (Riga)"/>
+	<w_phrase i="392" n="wlang_advanced_tmz_LBNp2" t="+2 Lebanon (Beirut)"/>
+	<w_phrase i="393" n="wlang_advanced_tmz_MDAp2" t="+2 Moldova (Kishinev)"/>
+	<w_phrase i="394" n="wlang_advanced_tmz_RUSp2" t="+2 Ven&#195;&#164;j&#195;&#164; (Kaliningrad)"/>
+	<w_phrase i="395" n="wlang_advanced_tmz_ROUp2" t="+2 Romania (Bucharest)"/>
+	<w_phrase i="396" n="wlang_advanced_tmz_SYRp2" t="+2 Syyria (Damascus)"/>
+	<w_phrase i="397" n="wlang_advanced_tmz_TURp2" t="+2 Turkki (Ankara)"/>
+	<w_phrase i="398" n="wlang_advanced_tmz_UKRp2" t="+2 Ukraina (Kyiv, Odessa)"/>
+	<w_phrase i="399" n="wlang_advanced_tmz_IRQp3" t="+3 Irak (Baghdad)"/>
+	<w_phrase i="400" n="wlang_advanced_tmz_RUSp3" t="+3 Ven&#195;&#164;j&#195;&#164; (Moscow)"/>
+	<w_phrase i="401" n="wlang_advanced_tmz_IRNp35" t="+3.5 Iran (Teheran)"/>
+	<w_phrase i="402" n="wlang_advanced_tmz_ARMp4" t="+4 Armenia (Yerevan)"/>
+	<w_phrase i="403" n="wlang_advanced_tmz_AZEp4" t="+4 Azerbaizan (Baku)"/>
+	<w_phrase i="404" n="wlang_advanced_tmz_GEOp4" t="+4 Georgia (Tbilisi)"/>
+	<w_phrase i="405" n="wlang_advanced_tmz_KAZp4" t="+4 Kazakstan (Aqtau)"/>
+	<w_phrase i="406" n="wlang_advanced_tmz_RUSp4" t="+4 Ven&#195;&#164;j&#195;&#164; (Samara)"/>
+	<w_phrase i="407" n="wlang_advanced_tmz_KAZp5" t="+5 Kazakstan (Aqtobe)"/>
+	<w_phrase i="408" n="wlang_advanced_tmz_KGZp5" t="+5 Kyrgyzstan (Bishkek)"/>
+	<w_phrase i="409" n="wlang_advanced_tmz_PAKp5" t="+5 Pakistan (Islamabad)"/>
+	<w_phrase i="410" n="wlang_advanced_tmz_RUSp5" t="+5 Ven&#195;&#164;j&#195;&#164; (Chelyabinsk)"/>
+	<w_phrase i="411" n="wlang_advanced_tmz_INDp55" t="+5.5 Intia (Calcutta)"/>
+	<w_phrase i="412" n="wlang_advanced_tmz_KAZp6" t="+6 Kazakstan (Astana, Almaty)"/>
+	<w_phrase i="413" n="wlang_advanced_tmz_RUSp6" t="+6 Ven&#195;&#164;j&#195;&#164; (Novosibirsk, Omsk)"/>
+	<w_phrase i="414" n="wlang_advanced_tmz_CHNp7" t="+8 Kiina (Beijing)"/>
+	<w_phrase i="415" n="wlang_advanced_tmz_RUSp7" t="+7 Ven&#195;&#164;j&#195;&#164; (Krasnoyarsk)"/>
+	<w_phrase i="416" n="wlang_advanced_tmz_THAp7" t="+7 Thailand (Bangkok)"/>
+	<w_phrase i="417" n="wlang_advanced_tmz_SGPp8" t="+8 Singapore (Singapore)"/>
+	<w_phrase i="418" n="wlang_advanced_tmz_KORp8" t="+8 Korea (Seoul)"/>
+	<w_phrase i="419" n="wlang_advanced_tmz_JPNp9" t="+9 Japan (Tokyo)"/>
+	<w_phrase i="420" n="wlang_advanced_tmz_AUSp95" t="+9.5 Australia (Adelaide)"/>
+	<w_phrase i="421" n="wlang_advanced_tmz_AUSp10" t="+10 Australia (Sydney, Melbourne, Canberra)"/>
+	<w_phrase i="422" n="wlang_advanced_tmz_AUS2p10" t="+10 Australia (Brisbane)"/>
+	<w_phrase i="423" n="wlang_advanced_tmz_RUSp10" t="+10 Ven&#195;&#164;j&#195;&#164; (Vladivostok)"/>
+	<w_phrase i="424" n="wlang_advanced_tmz_AUSp105" t="+10.5 Australia (Lord Howe Islands)"/>
+	<w_phrase i="425" n="wlang_advanced_tmz_NZLp12" t="+12 Uusi Seelanti (Wellington, Auckland)"/>
+	<w_phrase i="426" n="wlang_advanced_tmz_RUSp12" t="+12 Ven&#195;&#164;j&#195;&#164; (Anadyr, Kamchatka)"/>
+	<w_phrase i="427" n="wlang_advanced_tmz_NZLp1275" t="+12.75 Uusi Seelanti (Chatham Islands)"/>
+	<w_phrase i="428" n="wlang_advanced_tmz_TONp13" t="+13 Tonga (Nukualofa)"/>
+	<w_phrase i="429" n="wlang_adr_ssi_title" t="Osoitekirja"/>
+	<w_phrase i="430" n="wlang_advanced_ssi_title" t="Lis&#195;&#164;asetukset"/>
+	<w_phrase i="431" n="wlang_fkeys_ssi_title" t="Toiminta+n&#195;&#164;pp&#195;&#164;imet"/>
+	<w_phrase i="432" n="wlang_index_ssi_title" t="Tervetuloa+puhelimeesi"/>
+	<w_phrase i="433" n="wlang_info_ssi_title" t="J&#195;&#164;rjestelm&#195;&#164;tietoa"/>
+	<w_phrase i="434" n="wlang_line1_ssi_title" t="Configuration+Identity+1"/>
+	<w_phrase i="435" n="wlang_line2_ssi_title" t="Configuration+Identity+2"/>
+	<w_phrase i="436" n="wlang_line3_ssi_title" t="Configuration+Identity+3"/>
+	<w_phrase i="437" n="wlang_line4_ssi_title" t="Configuration+Identity+4"/>
+	<w_phrase i="438" n="wlang_line5_ssi_title" t="Configuration+Identity+5"/>
+	<w_phrase i="439" n="wlang_line6_ssi_title" t="Configuration+Identity+6"/>
+	<w_phrase i="440" n="wlang_line7_ssi_title" t="Configuration+Identity+7"/>
+	<w_phrase i="441" n="wlang_line8_ssi_title" t="Configuration+Identity+8"/>
+	<w_phrase i="442" n="wlang_line9_ssi_title" t="Configuration+Identity+9"/>
+	<w_phrase i="443" n="wlang_line10_ssi_title" t="Configuration+Identity+10"/>
+	<w_phrase i="444" n="wlang_line11_ssi_title" t="Configuration+Identity+11"/>
+	<w_phrase i="445" n="wlang_line12_ssi_title" t="Configuration+Identity+12"/>
+	<w_phrase i="446" n="wlang_log_ssi_title" t="J&#195;&#164;rjestelm&#195;&#164;loki"/>
+	<w_phrase i="447" n="wlang_memstat_ssi_title" t="Muistitietoa"/>
+	<w_phrase i="448" n="wlang_prefs_ssi_title" t="Ominaisuudet"/>
+	<w_phrase i="449" n="wlang_settings_ssi_title" t="Asetukset"/>
+	<w_phrase i="450" n="wlang_speed_ssi_title" t="Pikavalinta"/>
+	<w_phrase i="451" n="wlang_sip_trace_ssi_title" t="SIP+Trace"/>
+	<w_phrase i="452" n="wlang_update_ssi_title" t="Manuaalinen+ohjelmiston+p&#195;&#164;ivitys"/>
+	<w_phrase i="453" n="wlang_upnp_ssi_title" t="UPnP+Trace"/>
+	<w_phrase i="454" n="wlang_advanced_ssi_use_nw_port" t="Paikallinen SIP portti"/>
+	<w_phrase i="455" n="wlang_advanced_ssi_use_nw_port_nw" t="Verkon portti"/>
+	<w_phrase i="456" n="wlang_advanced_ssi_use_nw_port_default" t="Oletus SIP portti"/>
+	<w_phrase i="457" n="wlang_adr_preview_name" t="Nimi"/>
+	<w_phrase i="458" n="wlang_adr_preview_number" t="Numero"/>
+	<w_phrase i="459" n="wlang_adr_preview_reading" t="Lukema"/>
+	<w_phrase i="460" n="wlang_adr_preview_contact_type" t="Kontaktin tyyppi"/>
+	<w_phrase i="461" n="wlang_adr_preview_ignore" t="Ohita"/>
+	<w_phrase i="462" n="wlang_adr_file_type" t="Tiedoston tyyppi:"/>
+	<w_phrase i="463" n="wlang_adr_first_line" t="Ensimm&#195;&#164;inen rivi:"/>
+	<w_phrase i="464" n="wlang_adr_with_header" t="Otsakkeella"/>
+	<w_phrase i="465" n="wlang_adr_without_header" t="Ilman otsaketta"/>
+	<w_phrase i="466" n="wlang_adr_load_file" t="Lataa tiedostosta:"/>
+	<w_phrase i="467" n="wlang_adr_file_csv" t="CSV tiedosto"/>
+	<w_phrase i="468" n="wlang_adr_file_csv_jis" t="CSV tiedosto, Shift-JIS"/>
+	<w_phrase i="469" n="wlang_adr_file_unicode" t="Unicode TAB-eroteltu"/>
+	<w_phrase i="470" n="wlang_adr_save_preview_button" t="Tallenna"/>
+	<w_phrase i="471" n="wlang_adr_prev_ssi_title" t="Importoi esikatselu"/>
+	<w_phrase i="472" n="wlang_adr_prev_description" t="Tarkista osoitekirjan sarakkeiden m&#195;&#164;&#195;&#164;ritykset ja kun olet valmis, paina tallenna n&#195;&#164;pp&#195;&#164;int&#195;&#164;."/>
+	<w_phrase i="473" n="wlang_adr_prev_apply" t="Tallenna"/>
+	<w_phrase i="474" n="wlang_advanced_ssi_http_register" t="Rekister&#195;&#182;i http kontakti:"/>
+	<w_phrase i="475" n="wlang_advanced_ssi_auth_scheme" t="Autentikoinnin tapa:"/>
+	<w_phrase i="476" n="wlang_advanced_ssi_digest" t="Digest"/>
+	<w_phrase i="477" n="wlang_advanced_ssi_basic" t="Perus"/>
+	<w_phrase i="478" n="wlang_not_supported" t="(Ei tuettuna t&#195;&#164;ss&#195;&#164; versiossa.)"/>
+	<w_phrase i="479" n="wlang_advanced_ssi_callpickup_dialoginfo" t="Dialog-Info kutsun poiminta:"/>
+	<w_phrase i="480" n="wlang_advanced_ssi_pcap_trace" t="PCAP Trace:"/>
+	<w_phrase i="481" n="wlang_advanced_save_pcap_part1" t="Klikkaa"/>
+	<w_phrase i="482" n="wlang_advanced_herelink" t="t&#195;&#164;h&#195;&#164;n"/>
+	<w_phrase i="483" n="wlang_advanced_save_pcap_part2" t="Tallentaaksesi PCAP tracen"/>
+	<w_phrase i="484" n="wlang_advanced_ssi_offer_gruu" t="Tarjoa GRUU:"/>
+	<w_phrase i="485" n="wlang_line_e164_num" t="E.164 Numero:"/>
+	<w_phrase i="486" n="wlang_line_h323_id" t="H.323 ID:"/>
+	<w_phrase i="487" n="wlang_line_url_id" t="URL ID:"/>
+	<w_phrase i="488" n="wlang_line_gkgw_domain" t="GK / GW Domain:"/>
+	<w_phrase i="489" n="wlang_line_gkgw_mode" t="GK / GW Moodi:"/>
+	<w_phrase i="490" n="wlang_line_gatekeeper" t="Gatekeeper"/>
+	<w_phrase i="491" n="wlang_line_gateway" t="Yhdysk&#195;&#164;yt&#195;&#164;v&#195;&#164;"/>
+	<w_phrase i="492" n="wlang_line_auto" t="Auto"/>
+	<w_phrase i="493" n="wlang_line_none" t="Ei"/>
+	<w_phrase i="494" n="wlang_line_gk_ttl" t="GK TTL:"/>
+	<w_phrase i="495" n="wlang_line_msg_ctr_num" t="Sanomakeskuksen numero:"/>
+	<w_phrase i="496" n="wlang_line_fast_start" t="Fast Start:"/>
+	<w_phrase i="497" n="wlang_line_early_start" t="Early Start:"/>
+	<w_phrase i="498" n="wlang_line_h245_tunneling" t="H.245 Tunnelointi:"/>
+	<w_phrase i="499" n="wlang_line_h450_services" t="H.450 Palvelut:"/>
+	<w_phrase i="500" n="wlang_line_external_line_prefix" t="Ulkoisen linjan prefix:"/>
+	<w_phrase i="501" n="wlang_line_gateway_prefix" t="Yhdysk&#195;&#164;yt&#195;&#164;v&#195;&#164;n Prefix:"/>
+	<w_phrase i="502" n="wlang_advanced_ssi_offer_mpo" t="Tarjoa MPO:"/>
+	<w_phrase i="503" n="wlang_leftnav_h323_settings" t="H323 Asetukset"/>
+	<w_phrase i="504" n="wlang_leftnav_h323trace" t="H323 Trace"/>
+	<w_phrase i="505" n="wlang_h323_trace_ssi_title" t="H323+Trace"/>
+	<w_phrase i="506" n="wlang_advanced_ssi_cmc_feature" t="CMC toiminne:"/>
+	<w_phrase i="507" n="wlang_advanced_ssi_challenge_reboot" t="Authentication for SIP Reboot:"/>
+	<w_phrase i="508" n="wlang_advanced_ssi_challenge_checksync" t="Authentication for SIP Check-Sync:"/>
+	<w_phrase i="509" n="wlang_dns_ssi_title" t="DNS+Cache"/>
+	<w_phrase i="510" n="wlang_h323_settings_ssi_title" t="H323+Asetukset"/>
+	<w_phrase i="511" n="wlang_pcap_trace_ssi_title" t="PCAP+Trace"/>
+	<w_phrase i="512" n="wlang_pcap_text" t="N&#195;&#164;hd&#195;&#164;ksesi mit&#195;&#164; verkossa tapahtuu, voit tuottaa PCAP tiedostoja t&#195;&#164;ll&#195;&#164; sivulla. N&#195;&#164;it&#195;&#164; tiedostoja voidaan lukea monilla verkkoty&#195;&#182;kaluilla, esim. wireshark. Aloittaaksesi nauhoituksen, paina start painiketta ja lopettaaksesi stop painiketta.Muista, ett&#195;&#164; data on tallennettu  ymp&#195;&#164;ri py&#195;&#182;riv&#195;&#164;&#195;&#164;n puskuriin ( ylivuodon v&#195;&#164;ltt&#195;&#164;miseksi ) ja ett&#195;&#164; tallennuksella voi olla vaikutusta puhelimen suorituskykyyn."/>
+	<w_phrase i="513" n="wlang_prefs_ssi_use_backlight" t="K&#195;&#164;yt&#195;&#164; taustavaloa:"/>
+	<w_phrase i="514" n="wlang_advanced_ssi_moh_streaming_url" t="Music+on+hold+Streaming+URL:"/>
+	<w_phrase i="515" n="wlang_leftnav_action" t="Action URL"/>
+	<w_phrase i="516" n="wlang_action_ssi_title" t="Action+URL+asetuket"/>
+	<w_phrase i="517" n="wlang_action_settings" t="Action URL asetukset:"/>
+	<w_phrase i="518" n="wlang_action_ssi_dnd_on" t="DND+p&#195;&#164;&#195;&#164;ll&#195;&#164;:"/>
+	<w_phrase i="519" n="wlang_action_ssi_dnd_off" t="DND+pois:"/>
+	<w_phrase i="520" n="wlang_action_ssi_redirection_on" t="Kutsunsiirto+p&#195;&#164;&#195;&#164;ll&#195;&#164;:"/>
+	<w_phrase i="521" n="wlang_action_ssi_redirection_off" t="Kutsunsiirto+pois:"/>
+	<w_phrase i="522" n="wlang_action_ssi_incoming" t="Sis&#195;&#164;&#195;&#164;ntuleva+puhelu:"/>
+	<w_phrase i="523" n="wlang_action_ssi_outgoing" t="Ulosmenev&#195;&#164;+puhelu:"/>
+	<w_phrase i="524" n="wlang_action_ssi_setup" t="Asetukset+valmiit:"/>
+	<w_phrase i="525" n="wlang_action_ssi_offhook" t="P&#195;&#164;&#195;&#164;ll&#195;&#164;+luuri ylh&#195;&#164;&#195;&#164;ll&#195;&#164;:"/>
+	<w_phrase i="526" n="wlang_action_ssi_onhook" t="P&#195;&#164;&#195;&#164;ll&#195;&#164; luuri alhaalla:"/>
+	<w_phrase i="527" n="wlang_leftnav_radcom" t="AutoPlayback/Scheduling"/>
+	<w_phrase i="528" n="wlang_radcom_ssi_title" t="AutoPlayback/Scheduling"/>
+	<w_phrase i="529" n="wlang_playback_ssi_settings" t="Automaattisen toiston asetukset:"/>
+	<w_phrase i="530" n="wlang_playback_ssi_feature" t="Automaattinen+toisto:"/>
+	<w_phrase i="531" n="wlang_playback_ssi_url" t="WAV+tiedosto+URL:"/>
+	<w_phrase i="532" n="wlang_leftnav_scheduling" t="Ajastuksien asetukset"/>
+	<w_phrase i="533" n="wlang_scheduling_ssi_title" t="Ajastuksien+asetukset"/>
+	<w_phrase i="534" n="wlang_scheduling_ssi_settings" t="Ajastuksien asetukset:"/>
+	<w_phrase i="535" n="wlang_scheduling_ssi_feature" t="Scheduling:"/>
+	<w_phrase i="536" n="wlang_scheduling_ssi_frequency" t="Kutsu jokainen:"/>
+	<w_phrase i="537" n="wlang_scheduling_ssi_day" t="P&#195;&#164;iv&#195;&#164;"/>
+	<w_phrase i="538" n="wlang_scheduling_ssi_hour" t="Tunti"/>
+	<w_phrase i="539" n="wlang_scheduling_ssi_minute" t="Minuutti"/>
+	<w_phrase i="540" n="wlang_scheduling_ssi_number" t="Soitettava+numero"/>
+	<w_phrase i="541" n="wlang_scheduling_ssi_start" t="Aloita+(pp.kk.vvvv+tt:mm):"/>
+	<w_phrase i="542" n="wlang_scheduling_ssi_end" t="Lopeta+(pp.kk.vvvv+tt:mm):"/>
+	<w_phrase i="543" n="wlang_scheduling_ssi_call_duration" t="Automaattinen+lopetus+(sec):"/>
+	<w_phrase i="544" n="wlang_index_time" t="Aika"/>
+	<w_phrase i="545" n="wlang_index_duration" t="Kesto"/>
+	<w_phrase i="546" n="wlang_advanced_ssi_user_pic" t="K&#195;&#164;ytt&#195;&#164;j&#195;&#164;+kuva+URL:"/>
+	<w_phrase i="547" n="wlang_line_custom" t="Oma melodia"/>
+	<w_phrase i="548" n="wlang_prefs_vip" t="VIP"/>
+	<w_phrase i="549" n="wlang_prefs_ssi_date_us_format" t="U.S.+p&#195;&#164;iv&#195;&#164;yksen+muoto+(kk/pp):"/>
+	<w_phrase i="550" n="wlang_prefs_ssi_time_24_format" t="24+Tuntinen+kello:"/>
+	<w_phrase i="551" n="wlang_advanced_ssi_call_join_xfer" t="Call+join+on+Xfer+(2+calls):"/>
+	<w_phrase i="552" n="wlang_prefs_tssweden" t="Ruotsi"/>
+	<w_phrase i="553" n="wlang_prefs_tsswitzerland" t="Sveitsi"/>
+	<w_phrase i="554" n="wlang_advanced_ssi_session_refresher_client" t="Session Refresher:"/>
+	<w_phrase i="555" n="wlang_advanced_ssi_client" t="Client"/>
+	<w_phrase i="556" n="wlang_advanced_ssi_server" t="Server"/>
+	<w_phrase i="557" n="wlang_line_ssi_idle_text" t="Display+text+for+idle+screen:"/>
+	<w_phrase i="558" n="wlang_line_ssi_alert_info" t="Alert+Info+URL:"/>
+	<w_phrase i="559" n="wlang_advanced_ssi_alert_info_playback" t="Alert+Info+playback:"/>
+	<w_phrase i="560" n="wlang_advanced_ssi_silence_suppression" t="Silence+Suppression:"/>
+	<w_phrase i="561" n="wlang_advanced_ssi_syslog_server" t="Syslog Palvelin:"/>
+	<w_phrase i="562" n="wlang_fkeys_ssi_mult" t="Jaettu Linja"/>
+	<w_phrase i="563" n="wlang_advanced_ssi_ss_timeout" t="Screen+Saver+Timeout+(sec):"/>
+	<w_phrase i="564" n="wlang_advanced_ssi_screen_saver" t="Screen Saver:"/>
+	<w_phrase i="565" n="wlang_advanced_screen_saver1" t="Screen Saver 1"/>
+	<w_phrase i="566" n="wlang_advanced_screen_saver2" t="Screen Saver 2"/>
+	<w_phrase i="567" n="wlang_advanced_ssi_aoc_pulse_currency" t="AOC+Pulse+Currency:"/>
+	<w_phrase i="568" n="wlang_advanced_ssi_aoc_cost_pulse" t="AOC+Cost/Pulse:"/>
+	<w_phrase i="569" n="wlang_advanced_ssi_sess_keep_alive_info" t="Session keep alive via INFO (sec):"/>
+	<w_phrase i="570" n="wlang_advanced_aoc_amount_display" t="AOC Amount Display:"/>
+	<w_phrase i="571" n="wlang_advanced_aoc_amount_charged" t="Charged"/>
+	<w_phrase i="572" n="wlang_advanced_aoc_amount_balance" t="Balance"/>
+	<w_phrase i="573" n="wlang_advanced_audio_device_indicator" t="Audio Device Indicator:"/>
+	<w_phrase i="574" n="wlang_prefs_ringtone_defaults" t="Soitto&#195;&#164;&#195;&#164;nen oletukset:"/>
+	<w_phrase i="575" n="wlang_prefs_ringtone_addressbook" t="Osoitekirjan soitto&#195;&#164;&#195;&#164;net:"/>
+	<w_phrase i="576" n="wlang_leftnav_trusted_cert" t="Trusted Certificates"/>
+	<w_phrase i="577" n="wlang_trst_issued_to" t="Issued To"/>
+	<w_phrase i="578" n="wlang_trst_issued_by" t="Issued By"/>
+	<w_phrase i="579" n="wlang_trst_expiration" t="Expiration"/>
+	<w_phrase i="580" n="wlang_trst_ssi_title" t="Luotetut Sertifikaatit"/>
+	<w_phrase i="581" n="wlang_trst_import_trusted_cert" t="Import Trusted Certificate (.cer):"/>
+	<w_phrase i="582" n="wlang_advanced_on" t="on"/>
+	<w_phrase i="583" n="wlang_advanced_call_waiting_visual" t="visual only"/>
+	<w_phrase i="584" n="wlang_line_ssi_pname" t="Authentication Username:"/>
+	<w_phrase i="585" n="wlang_advanced_ssi_intercom_enabled" t="Enable+Intercom:"/>
+	<w_phrase i="586" n="wlang_adr_deleteadrbook" t="Poista koko osoitekirja"/>
+	<w_phrase i="587" n="wlang_adr_deletebutton" t="Poista"/>
+	<w_phrase i="588" n="wlang_adr_prev_del_before" t="Poista koko osoitekirja ennen"/>
+	<w_phrase i="589" n="wlang_prefs_with_flash" t="Use Flash Plugin:"/>
+	<w_phrase i="590" n="wlang_index_connected" t="Kytketty"/>
+	<w_phrase i="591" n="wlang_index_incoming" t="Saapuva Puhelu"/>
+	<w_phrase i="592" n="wlang_index_busy" t="Varattu: "/>
+	<w_phrase i="593" n="wlang_index_calling" t="Soittaa"/>
+	<w_phrase i="594" n="wlang_advanced_ssi_filter_registrar" t="Filter Packets from Registrar:"/>
+	<w_phrase i="595" n="wlang_line_sipsettings" t="SIP Identity Settings:"/>
+	<w_phrase i="596" n="wlang_line_rtpsettings" t="RTP Identity Settings:"/>
+	<w_phrase i="597" n="wlang_line_natsettings" t="NAT Identity Settings:"/>
+	<w_phrase i="598" n="wlang_line_ssi_descr_contact" t="Long SIP-Contact (RFC3840):"/>
+	<w_phrase i="599" n="wlang_line_ssi_sipusername_as_line" t="Tuetaan rikkin&#195;&#164;ist&#195;&#164; Registraria:"/>
+	<w_phrase i="600" n="wlang_advanced_snmp" t="SNMP:"/>
+	<w_phrase i="601" n="wlang_advanced_ssi_snmp_port" t="Portti:"/>
+	<w_phrase i="602" n="wlang_advanced_ssi_snmp_trusted" t="Luotettu Osoite:"/>
+	<w_phrase i="603" n="wlang_advanced_ssi_sip_short_form" t="K&#195;&#164;yt&#195;&#164; SIP Compact Headers:"/>
+	<w_phrase i="604" n="wlang_sysinfo_siplinestatus" t="SIP Identity Status:"/>
+	<w_phrase i="605" n="wlang_sysinfo_sysinfo" t="Tietoa j&#195;&#164;rjestelm&#195;&#164;st&#195;&#164;:"/>
+	<w_phrase i="606" n="wlang_adr_outgoingid" t="Ulosmenev&#195;&#164; Identiteetti:"/>
+	<w_phrase i="607" n="wlang_adr_lineid_active" t="Aktiivinen"/>
+	<w_phrase i="608" n="wlang_adr_lineid1" t="Identiteetti 1"/>
+	<w_phrase i="609" n="wlang_adr_lineid2" t="Identiteetti 2"/>
+	<w_phrase i="610" n="wlang_adr_lineid3" t="Identiteetti 3"/>
+	<w_phrase i="611" n="wlang_adr_lineid4" t="Identiteetti 4"/>
+	<w_phrase i="612" n="wlang_adr_lineid5" t="Identiteetti 5"/>
+	<w_phrase i="613" n="wlang_adr_lineid6" t="Identiteetti 6"/>
+	<w_phrase i="614" n="wlang_adr_lineid7" t="Identiteetti 7"/>
+	<w_phrase i="615" n="wlang_adr_lineid8" t="Identiteetti 8"/>
+	<w_phrase i="616" n="wlang_adr_lineid9" t="Identiteetti 9"/>
+	<w_phrase i="617" n="wlang_adr_lineid10" t="Identiteetti 10"/>
+	<w_phrase i="618" n="wlang_adr_lineid11" t="Identiteetti 11"/>
+	<w_phrase i="619" n="wlang_adr_lineid12" t="Identiteetti 12"/>
+	<w_phrase i="620" n="wlang_adr_preview_outgoing_id" t="Ulosmenev&#195;&#164; Identiteetti"/>
+	<w_phrase i="621" n="wlang_line_ssi_record_missed_calls" t="Tallenna Vastaamattomat Puhelut:"/>
+	<w_phrase i="622" n="wlang_index_local_identity" t="Paikallinen Identiteetti"/>
+	<w_phrase i="623" n="wlang_advanced_ssi_holding_reminder" t="Pidon Muistutin:"/>
+	<w_phrase i="624" n="wlang_advanced_ssi_keytones" t="N&#195;&#164;pp&#195;&#164;in&#195;&#164;&#195;&#164;net:"/>
+	<w_phrase i="625" n="wlang_info_production_info" t="Tietoa tuotteesta:"/>
+	<w_phrase i="626" n="wlang_line_reregister" t="Uudelleen-Rekister&#195;&#182;i"/>
+	<w_phrase i="627" n="wlang_confirm_head" t="Huomio!"/>
+	<w_phrase i="628" n="wlang_confirm_button_yes" t="Kyll&#195;&#164;"/>
+	<w_phrase i="629" n="wlang_confirm_button_no" t="Ei"/>
+	<w_phrase i="630" n="wlang_confirm_ssi_title" t="Vahvistus"/>
+	<w_phrase i="631" n="wlang_conf_text_del_adrbook" t="Huom ! Osoitekirjasi poistetaan pysyv&#195;&#164;sti!  Oletko varma, ett&#195;&#164; haluat poistaa kaikki osoitekirjasi asetukset ?"/>
+	<w_phrase i="632" n="wlang_conf_text_reset" t="Ole hyv&#195;&#164; ja huomaa, ett&#195;&#164; kaikki asetuksesi mukaanlukien soittolistat, osoitekirja jne. postetaan, jos vahvistat vastaamalla Kyll&#195;&#164;. Oletko varma, ett&#195;&#164; haluat puhelimeesi tehdasasetukset ?"/>
+	<w_phrase i="633" n="wlang_conf_text_reboot" t="Haluatko varmasti k&#195;&#164;ynnist&#195;&#164;&#195;&#164; puhelimesi uudellee ?"/>
+	<w_phrase i="634" n="wlang_line_ssi_active" t="Identity active:"/>
+	<w_phrase i="635" n="wlang_line_play" t="Play Ringer"/>
+	<w_phrase i="636" n="wlang_line_ssi_proxyrequire" t="Proxy Tarvitaan:"/>
+	<w_phrase i="637" n="wlang_advanced_detectethernet" t="Tunnista, jos Ethernetkaapeli on irti:"/>
+	<w_phrase i="638" n="wlang_advanced_ssi_rtcp_support" t="RTCP Tuki:"/>
+	<w_phrase i="639" n="wlang_update_manuallicense" t="Manuaalinen Lisenssin Lataus:"/>
+	<w_phrase i="640" n="wlang_update_licensefile" t="Lisenssitiedosto:"/>
+	<w_phrase i="641" n="wlang_trusted_cert_add" t="Lis&#195;&#164;&#195;&#164; sertifikaatti"/>
+	<w_phrase i="642" n="wlang_advanced_ssi_speaker_mic" t="Kotelon Mik Taso (1 - 8):"/>
+	<w_phrase i="643" n="wlang_advanced_ssi_handset_mic" t="Luurin Mik Taso (1 - 8):"/>
+	<w_phrase i="644" n="wlang_advanced_ssi_headset_mic" t="Sankaluurin Mik Taso (1 - 8):"/>
+	<w_phrase i="645" n="wlang_advanced_ssi_partial_lookup" t="Osittaisen Numeron Tarkistus:"/>
+	<w_phrase i="646" n="wlang_fkeys_ssi_url" t="Action URL"/>
+	<w_phrase i="647" n="wlang_advanced_ssi_sig_tos" t="SIP+Type+of+Service+(TOS/Diffserv):"/>
+	<w_phrase i="648" n="wlang_advanced_ssi_guess_start_length" t="Number+Guessing+Minimum+Length:"/>
+	<w_phrase i="649" n="wlang_advanced_ethernet" t="Ethernet Portit:"/>
+	<w_phrase i="650" n="wlang_advanced_ssi_eth_net_port" t="Verkon Portti:"/>
+	<w_phrase i="651" n="wlang_advanced_ssi_eth_pc_port" t="PC Portti:"/>
+	<w_phrase i="652" n="wlang_advanced_autoneg" t="Autom. neuvottelu"/>
+	<w_phrase i="653" n="wlang_advanced_10full" t="10 Mbit Full Duplex"/>
+	<w_phrase i="654" n="wlang_advanced_10half" t="10 Mbit Half Duplex"/>
+	<w_phrase i="655" n="wlang_advanced_100full" t="100 Mbit Full Duplex"/>
+	<w_phrase i="656" n="wlang_advanced_100half" t="100 Mbit Half Duplex"/>
+	<w_phrase i="657" n="wlang_sysinfo_ethernet_status" t="Ethernet Tila:"/>
+	<w_phrase i="658" n="wlang_sysinfo_ethernet_status2" t="Tila "/>
+	<w_phrase i="659" n="wlang_sysinfo_ethernet_connected" t="Kytketty"/>
+	<w_phrase i="660" n="wlang_sysinfo_ethernet_not_connected" t="Ei kytketty"/>
+	<w_phrase i="661" n="wlang_sysinfo_ethernet_connection_type" t="Yhteystyyppi:"/>
+	<w_phrase i="662" n="wlang_index_costs" t="Costs:"/>
+	<w_phrase i="663" n="wlang_action_ssi_missed" t="Vastaamattomat+puhelut:"/>
+	<w_phrase i="664" n="wlang_line_ssi_stunbindint" t="STUN+interval+(seconds):"/>
+	<w_phrase i="665" n="wlang_action_info" t="On this page you can specify the url for a particular event on your phone. The url can contain variable names starting with &lt;b&gt;$&lt;/b&gt; and pattern=$variable strings separated by &lt;b&gt;&amp;&lt;/b&gt; i.e. your_pattern1=$variable1&amp;your_pattern2=$variable2 and so on (e.g. http://internal.server.net/help.xml?redirect=$redirect_number&amp;time=$redirect_time). You can also put variables within the path of url (e.g. http://snom.com/$mac&amp;/settings.xml) and variable name has to be between &lt;b&gt;$&lt;/b&gt; and &lt;b&gt;&amp;&lt;/b&gt;. Variables could be the usual settings stored on the phone and accessed through the Settings Status page. Additionally, $local, $remote, $active_url, $active_user, $active_host, $csta_id and $call-id can be used to access local &amp; remote uri and call-id for the current call to be replaced at run time. $display_local, $display_remote can be used to display the name of callee and caller. $expansion_module is used to show which expansion module do you use and $active_key will show the function key (e.g. P1, P5, P32,..) associated with a call. Please note that private settings like passwords would be replaced by empty strings."/>
+	<w_phrase i="666" n="wlang_fkeys_ssi_p2t" t="Push2Talk"/>
+	<w_phrase i="667" n="wlang_advanced_load_certs" t="Lataa Serverin Sertifikaatti:"/>
+	<w_phrase i="668" n="wlang_advanced_load_sets_manually" t="Lataa asetustiedosto manuaalisesti:"/>
+	<w_phrase i="669" n="wlang_advanced_load_warning" t="Painamalla &lt;b&gt;Lataa&lt;/b&gt; painiketta alla, puhelin &lt;b&gt;RESETOI&lt;/b&gt; asetuksensa, lataa uudet asetukset m&#195;&#164;&#195;&#164;ritellyst&#195;&#164; tiedostosta ja k&#195;&#164;ynnistyy uudelleen.&lt;b&gt;Siis kaikki nykyiset asetuksesi poistetaan!&lt;/b&gt;"/>
+	<w_phrase i="670" n="wlang_advanced_answer_after_policy" t="&#194;&#180;Answer After&#194;&#180; Policy:"/>
+	<w_phrase i="671" n="wlang_advanced_answer_after_idle" t="vain ollessa vapaa"/>
+	<w_phrase i="672" n="wlang_advanced_answer_after_always" t="aina"/>
+	<w_phrase i="673" n="wlang_sina_prefs" t="SINAbox:"/>
+	<w_phrase i="674" n="wlang_sina_address" t="IP Osoite:"/>
+	<w_phrase i="675" n="wlang_sina_trigger_num" t="Number of Trigger Requests:"/>
+	<w_phrase i="676" n="wlang_ldap_server" t="Palvelimen Osoite:"/>
+	<w_phrase i="677" n="wlang_ldap_port" t="Portti:"/>
+	<w_phrase i="678" n="wlang_ldap_base" t="Base:"/>
+	<w_phrase i="679" n="wlang_ldap_username" t="K&#195;&#164;ytt&#195;&#164;j&#195;&#164;tunnus:"/>
+	<w_phrase i="680" n="wlang_ldap_password" t="Salasana:"/>
+	<w_phrase i="681" n="wlang_ldap_max_hits" t="Max. Hits:"/>
+	<w_phrase i="682" n="wlang_ldap_prefs" t="LDAP:"/>
+	<w_phrase i="683" n="wlang_prefs_keyboard_lock" t="Lukitse n&#195;&#164;pp&#195;&#164;imist&#195;&#182;:"/>
+	<w_phrase i="684" n="wlang_prefs_ssi_keyboard_lock" t="Lukitse n&#195;&#164;pp&#195;&#164;imist&#195;&#182;:"/>
+	<w_phrase i="685" n="wlang_prefs_ssi_keyboard_lock_pw" t="PIN-koodi aukaisuun:"/>
+	<w_phrase i="686" n="wlang_line_ssi_country" t="Maakoodi:"/>
+	<w_phrase i="687" n="wlang_line_ssi_area" t="Aluekoodi:"/>
+	<w_phrase i="688" n="wlang_advanced_ssi_enum" t="ENUM tuki:"/>
+	<w_phrase i="689" n="wlang_advanced_ssi_tcp_listen" t="Kuuntele SIP TCP porttia:"/>
+	<w_phrase i="690" n="wlang_advanced_tmz_AUSp8" t="+8 Australia (Perth)"/>
+	<w_phrase i="691" n="wlang_advanced_tmz_AUS2p95" t="+9.5 Australia (Darwin)"/>
+	<w_phrase i="692" n="wlang_advanced_tmz_AUS3p10" t="+10 Australia (Hobart)"/>
+	<w_phrase i="693" n="wlang_advanced_tmz_BRA1m3" t="-3 Brazil (DST)"/>
+	<w_phrase i="694" n="wlang_advanced_tmz_BRA2m3" t="-3 Brazil (no DST)"/>
+	<w_phrase i="695" n="wlang_advanced_tmz_BRAm2" t="-2 Brazil (no DST)"/>
+	<w_phrase i="696" n="wlang_advanced_tmz_ARGm3" t="-3 Argentina (Buenos Aires)"/>
+	<w_phrase i="697" n="wlang_advanced_tmz_EATp3" t="+3 East Africa Time"/>
+	<w_phrase i="698" n="wlang_advanced_tmz_CATp2" t="+2 Central Africa Time"/>
+	<w_phrase i="699" n="wlang_advanced_tmz_WATp1" t="+1 West Africa Time"/>
+	<w_phrase i="700" n="wlang_fkeys_ssi_context" t="Context"/>
+	<w_phrase i="701" n="wlang_fkeys_ssi_type" t="Tyyppi"/>
+	<w_phrase i="702" n="wlang_fkeys_ssi_keyevent" t="Key Event"/>
+	<w_phrase i="703" n="wlang_advanced_ssi_peer_to_peer_cc" t="Peer to Peer Call Completion:"/>
+	<w_phrase i="704" n="wlang_advanced_logon_logoff" t="Logon/Logoff:"/>
+	<w_phrase i="705" n="wlang_advanced_ssi_auto_logoff_time" t="Automatically+logoff+all+lines+after+inactivity+(min):"/>
+	<w_phrase i="706" n="wlang_advanced_logoffall" t="Poista Kaikki Identiteetit"/>
+	<w_phrase i="707" n="wlang_advanced_logoffline" t="Poista identiteetti"/>
+	<w_phrase i="708" n="wlang_conf_text_logoff_all" t="Be aware that all SIP identity settings will be lost. Do you really want to remove all identities ?"/>
+	<w_phrase i="709" n="wlang_fkey_info" t="On this page you can specify the settings for programmable keys on your snom phone. Use &lt;b&gt;Context&lt;/b&gt; to specify the identity context for that key e.g. this identity will be used to subscribe for a particular extension. &lt;b&gt;Type&lt;/b&gt; will select the actual functionality of a particular key. In the last argument field &lt;b&gt;Number&lt;/b&gt;, the actual telephone number, sip url, dtmf sequence, action url or key type can be stored. Please refer to your phone manual for more details."/>
+	<w_phrase i="710" n="wlang_advanced_tmz_TTBm4" t="-4 Trinidad&amp;Tobago"/>
+	<w_phrase i="711" n="wlang_line_ssi_shared_line" t="Jaettu linja:"/>
+	<w_phrase i="712" n="wlang_advanced_ssi_text_softkey" t="Text Only Display on Soft Keys:"/>
+	<w_phrase i="713" n="wlang_line_ssi_dtmf_info" t="DTMF via SIP INFO:"/>
+	<w_phrase i="714" n="wlang_line_ssi_xml_screen_url" t="XML Idle Screen URL:"/>
+	<w_phrase i="715" n="wlang_prefs_ssi_ringer_animation" t="Ringer Animation:"/>
+	<w_phrase i="716" n="wlang_advanced_ssi_speaker_dialer" t="Use Speaker Key to Dial:"/>
+	<w_phrase i="717" n="wlang_action_ssi_connected" t="On+Connected:"/>
+	<w_phrase i="718" n="wlang_action_ssi_disconnected" t="On+Disconnected:"/>
+	<w_phrase i="719" n="wlang_advanced_ssi_overlap_dialing" t="Overlap+Dialing:"/>
+	<w_phrase i="720" n="wlang_fkeys_ssi_speed" t="Pikavalinnat"/>
+	<w_phrase i="721" n="wlang_fkeys_ssi_none" t="Ei mik&#195;&#164;&#195;&#164;n"/>
+	<w_phrase i="722" n="wlang_prefs_ssi_redundant_softkeys" t="Redundant Softkeys:"/>
+	<w_phrase i="723" n="wlang_advanced_ssi_web_logout" t="Auto+Logout+(min):"/>
+	<w_phrase i="724" n="wlang_prefs_ringer9" t="Soitto&#195;&#164;&#195;&#164;ni 9"/>
+	<w_phrase i="725" n="wlang_prefs_ringer10" t="Soitto&#195;&#164;&#195;&#164;ni 10"/>
+	<w_phrase i="726" n="wlang_advanced_ssi_cancel_on_hold" t="Cancel Key on Held Call:"/>
+	<w_phrase i="727" n="wlang_advanced_call_waiting_ringer" t="ringer"/>
+	<w_phrase i="728" n="wlang_advanced_ssi_ntp_refresh" t="NTP+Refresh+Time+(sec):"/>
+	<w_phrase i="729" n="wlang_line_ssi_ring_after_delay" t="Ring+After+Delay+(sec):"/>
+	<w_phrase i="730" n="wlang_advanced_reboot_on_nr" t="Reboot After Not Registered (min):"/>
+	<w_phrase i="731" n="wlang_prefs_ssi_redirect_on_code" t="On Code:"/>
+	<w_phrase i="732" n="wlang_prefs_ssi_redirect_off_code" t="Off Code:"/>
+	<w_phrase i="733" n="wlang_prefs_redirection_always" t="Always"/>
+	<w_phrase i="734" n="wlang_prefs_redirection_busy" t="Busy"/>
+	<w_phrase i="735" n="wlang_prefs_redirection_time" t="Timeout"/>
+	<w_phrase i="736" n="wlang_prefs_dnd" t="DND:"/>
+	<w_phrase i="737" n="wlang_prefs_redirect_number" t="Target:"/>
+	<w_phrase i="738" n="wlang_advanced_ssi_pnp_config" t="PnP+Config:"/>
+	<w_phrase i="739" n="wlang_advanced_ssi_flood_tracing" t="SIP+Trace+for+REGISTER/SUBSCRIBE/NOTIFY:"/>
+	<w_phrase i="740" n="wlang_reboot_ssi_title" t="Rebooting&#226;&#128;&#166;"/>
+	<w_phrase i="741" n="wlang_text_reboot_info" t="Puhelimesi k&#195;&#164;ynnistyy hetken kuluttua.Odota k&#195;&#164;rsiv&#195;&#164;llisesti kunnes se on t&#195;&#164;ysin k&#195;&#164;ynnistynyt! Kun normaali n&#195;&#164;ytt&#195;&#182; palautuu, voit taas k&#195;&#164;ytt&#195;&#164;&#195;&#164; puhelinta. My&#195;&#182;s web-liitynt&#195;&#164; on taas k&#195;&#164;ytett&#195;&#164;viss&#195;&#164;."/>
+	<w_phrase i="742" n="wlang_line_ssi_send_local_name" t="Send+display+name+on+INVITE:"/>
+	<w_phrase i="743" n="wlang_advanced_ssi_xml_notify" t="XML NOTIFY Support:"/>
+	<w_phrase i="744" n="wlang_minibrowser_pref" t="Minibrowser:"/>
+	<w_phrase i="745" n="wlang_advanced_ssi_enable_timer_support" t="Timer Support (RFC4028):"/>
+	<w_phrase i="746" n="wlang_prefs_dsnumbername" t="Numero + Nimi"/>
+	<w_phrase i="747" n="wlang_prefs_ssi_message_led_other" t="Message LED for Dialog State/Missed Calls:"/>
+	<w_phrase i="748" n="wlang_info_snom_linux_type" t="Kernel Version:"/>
+	<w_phrase i="749" n="wlang_prefs_ssi_keyboard_lock_dp" t="Emergency Numbers (space separated):"/>
+	<w_phrase i="750" n="wlang_prefs_alert_internal_text" t="Alert Internal Text:"/>
+	<w_phrase i="751" n="wlang_prefs_ssi_alert_internal_sound" t="Alert Internal Ringer:"/>
+	<w_phrase i="752" n="wlang_prefs_alert_external_text" t="Alert External Text:"/>
+	<w_phrase i="753" n="wlang_prefs_ssi_alert_external_sound" t="Alert External Ringer:"/>
+	<w_phrase i="754" n="wlang_prefs_alert_group_text" t="Alert Group Text:"/>
+	<w_phrase i="755" n="wlang_prefs_ssi_alert_group_sound" t="Alert Group Ringer:"/>
+	<w_phrase i="756" n="wlang_advanced_ssi_cancel_on_missed" t="Clear Missed Calls on Cancel:"/>
+	<w_phrase i="757" n="wlang_advanced_ssi_cancel_on_desktop" t="Clear Desktop Message on Cancel:"/>
+	<w_phrase i="758" n="wlang_advanced_ssi_settings_scheduler" t="Reload Settings Timer (in min):"/>
+	<w_phrase i="759" n="wlang_prefs_alert_info_ringer" t="Alert-Info Ringer:"/>
+	<w_phrase i="760" n="wlang_prefs_ssi_scroll_outgoing" t="Active Identity Scrolling:"/>
+	<w_phrase i="761" n="wlang_advanced_tmz_USA2m7" t="-7 Yhdysvallat - MST no DST"/>
+	<w_phrase i="762" n="wlang_set_savesettingspart2" t=" to save the settings."/>
+	<w_phrase i="763" n="wlang_prefs_ssi_show_local_line" t="Show identity index:"/>
+	<w_phrase i="764" n="wlang_advanced_ssi_show_xml_pickup" t="Show dialog info call pickup on xml screen:"/>
+	<w_phrase i="765" n="wlang_advanced_ssi_pickup_indication" t="Audio indication for Dialog Info pickup:"/>
+	<w_phrase i="766" n="wlang_advanced_multicast" t="Multicast:"/>
+	<w_phrase i="767" n="wlang_advanced_ssi_multicast_listen" t="Multicast Support:"/>
+	<w_phrase i="768" n="wlang_advanced_ssi_multicast_address" t="IP Address:"/>
+	<w_phrase i="769" n="wlang_advanced_ssi_multicast_port" t="Port:"/>
+	<w_phrase i="770" n="wlang_advanced_ssi_dual_audio_handsfree" t="Dual+Audio+Device+on+Handsfree:"/>
+	<w_phrase i="771" n="wlang_language_name" t="Suomi"/>
+	<w_phrase i="772" n="wlang_advanced_qos" t="Quality of Service:"/>
+	<w_phrase i="773" n="wlang_advanced_rtp" t="RTP/RTCP:"/>
+	<w_phrase i="774" n="wlang_advanced_sip" t="SIP:"/>
+	<w_phrase i="775" n="wlang_advtab_network" t="Network"/>
+	<w_phrase i="776" n="wlang_advtab_behavior" t="Behavior"/>
+	<w_phrase i="777" n="wlang_advtab_audio" t="Audio"/>
+	<w_phrase i="778" n="wlang_advtab_sip" t="SIP/RTP"/>
+	<w_phrase i="779" n="wlang_advtab_update" t="Update"/>
+	<w_phrase i="780" n="wlang_advtab_security" t="QoS/Security"/>
+	<w_phrase i="781" n="wlang_linetab_login" t="Login"/>
+	<w_phrase i="782" n="wlang_linetab_sip" t="SIP"/>
+	<w_phrase i="783" n="wlang_linetab_nat" t="NAT"/>
+	<w_phrase i="784" n="wlang_linetab_rtp" t="RTP"/>
+	<w_phrase i="785" n="wlang_line_ssi_server_type" t="Server Type Support:"/>
+	<w_phrase i="786" n="wlang_line_ssi_event_list_subscription" t="Extension Monitoring &amp; Call Pickup List:"/>
+	<w_phrase i="787" n="wlang_line_broadsoft" t="Broadsoft"/>
+	<w_phrase i="788" n="wlang_line_sylantro" t="Sylantro"/>
+	<w_phrase i="789" n="wlang_line_pbxnsip" t="PBXnSIP"/>
+	<w_phrase i="790" n="wlang_line_default" t="Default"/>
+	<w_phrase i="791" n="wlang_line_ssi_event_list_uri" t="Extension Monitoring &amp; Call Pickup List URI:"/>
+	<w_phrase i="792" n="wlang_web_confirm_apply_set_change" t="Apply setting changes?"/>
+	<w_phrase i="793" n="wlang_line_ssi_presence_subscription" t="Contact List:"/>
+	<w_phrase i="794" n="wlang_line_ssi_presence_buddy_list_uri" t="Contact List URI:"/>
+	<w_phrase i="795" n="wlang_line_ssi_full_sdp_answer" t="Full SDP Answer:"/>
+	<w_phrase i="796" n="wlang_info_firmware_version" t="Firmware-Version:"/>
+	<w_phrase i="797" n="wlang_advanced_ssi_redirect_ringing" t="Allow incoming calls redirection through programmable keys:"/>
+	<w_phrase i="798" n="wlang_advanced_ssi_auto_redial" t="Automatic Redial on Busy:"/>
+	<w_phrase i="799" n="wlang_advanced_ssi_auto_redial_value" t="Redial after (sec):"/>
+	<w_phrase i="800" n="wlang_advanced_ssi_disable_blind_transfer" t="Disable blind transfer (REFER):"/>
+	<w_phrase i="801" n="wlang_advanced_ssi_disable_deflection" t="Disable deflection (code 302):"/>
+	<w_phrase i="802" n="wlang_action_ssi_log_on" t="Log+on:"/>
+	<w_phrase i="803" n="wlang_action_ssi_log_off" t="Log+off:"/>
+	<w_phrase i="804" n="wlang_prefs_ssi_show_call_status" t="Show call status info:"/>
+	<w_phrase i="805" n="wlang_set_savesettingspart3" t=" to save the settings in XML format."/>
+	<w_phrase i="806" n="wlang_action_ssi_reg_failed" t="Registration+failed:"/>
+	<w_phrase i="807" n="wlang_subscriptions_ssi_title" t="Subscriptions+status"/>
+	<w_phrase i="808" n="wlang_leftnav_subscriptions" t="Subscriptions"/>
+	<w_phrase i="809" n="wlang_advanced_ssi_max_boot_delay" t="Max. bootup delay (sec):"/>
+	<w_phrase i="810" n="wlang_advanced_http_server" t="HTTP Server:"/>
+	<w_phrase i="811" n="wlang_advanced_http_client" t="HTTP Client:"/>
+	<w_phrase i="812" n="wlang_advanced_ssi_mailbox_active" t="Handle Active Identity Mailbox only:"/>
+	<w_phrase i="813" n="wlang_set_savedirectorypart3" t=" to save the current directory in XML format."/>
+	<w_phrase i="814" n="wlang_line_ssi_remove_all_bindings" t="Remove all bindings on unregister:"/>
+	<w_phrase i="815" n="wlang_vpn_ssi_vpn_on" t="VPN:"/>
+	<w_phrase i="816" n="wlang_vpn_ssi_tarball_url" t="Unzipped VPN config tarball:"/>
+	<w_phrase i="817" n="wlang_advanced_ssi_idle_offhook" t="Return to idle screen on offhook:"/>
+	<w_phrase i="818" n="wlang_prefs_ssi_enable_keyboard_lock" t="Allow keyboard locking:"/>
+	<w_phrase i="819" n="wlang_advanced_ssi_vlan_port_tagging" t="Un-/Tag VLAN traffic to/from specific switch ports:"/>
+	<w_phrase i="820" n="wlang_advanced_ssi_vlan_id" t="VLAN Id (0..4095):"/>
+	<w_phrase i="821" n="wlang_advanced_ssi_vlan_priority" t="VLAN Priority (0..7):"/>
+	<w_phrase i="822" n="wlang_advanced_ssi_eth_cpu_port" t="Internal CPU Port:"/>
+	<w_phrase i="823" n="wlang_advanced_vlan" t="VLAN"/>
+	<w_phrase i="824" n="wlang_line_failover_identity" t="Failover Identity:"/>
+	<w_phrase i="825" n="wlang_fkeys_sidecar" t="Sidecar"/>
+	<w_phrase i="826" n="wlang_line_ssi_record_dialed_calls" t="Record Dialed Calls:"/>
+	<w_phrase i="827" n="wlang_line_ssi_record_received_calls" t="Record Received Calls:"/>
+	<w_phrase i="828" n="wlang_prefs_ssi_emergency_proxy" t="Outbound proxy for emergency numbers:"/>
+	<w_phrase i="829" n="wlang_line_telepo" t="Telepo"/>
+	<w_phrase i="830" n="wlang_fkeys_ssi_button" t="Button"/>
+	<w_phrase i="831" n="wlang_advanced_ssi_retryafterfailedregister" t="Retry interval after failed registration (s):"/>
+	<w_phrase i="832" n="wlang_line_ssi_subscription_expiry" t="Subscription Expiry (s):"/>
+	<w_phrase i="833" n="wlang_line_metaswitch" t="MetaSwitch"/>
+	<w_phrase i="834" n="wlang_advanced_ssi_sendprack" t="Send PRACK:"/>
+	<w_phrase i="835" n="wlang_watchdog" t="Watchdog"/>
+	<w_phrase i="836" n="wlang_advanced_ssi_rtp_keepalive" t="RTP Keepalive:"/>
+	<w_phrase i="837" n="wlang_ldap_search_filter" t="LDAP name filter:"/>
+	<w_phrase i="838" n="wlang_ldap_prefix" t="LDAP prefix:"/>
+	<w_phrase i="839" n="wlang_ldap_number_filter" t="LDAP number filter:"/>
+	<w_phrase i="840" n="wlang_ldap_name_attributes" t="LDAP name attributes:"/>
+	<w_phrase i="841" n="wlang_ldap_number_attributes" t="LDAP number attributes:"/>
+	<w_phrase i="842" n="wlang_ldap_display_name" t="LDAP display name:"/>
+	<w_phrase i="843" n="wlang_advanced_ssi_ldap_lookup_ringing" t="LDAP lookup for incoming call:"/>
+	<w_phrase i="844" n="wlang_prefs_tsaustria" t="It&#195;&#164;valta"/>
+	<w_phrase i="845" n="wlang_prefs_tsfrance" t="Ranska"/>
+	<w_phrase i="846" n="wlang_prefs_tsitaly" t="Italia"/>
+	<w_phrase i="847" n="wlang_prefs_tsnetherlands" t="Alankomaat"/>
+	<w_phrase i="848" n="wlang_prefs_tsnorway" t="Norja"/>
+	<w_phrase i="849" n="wlang_prefs_tsnewzealand" t="Uusi Seelanti"/>
+	<w_phrase i="850" n="wlang_prefs_tsspain" t="Espania"/>
+	<w_phrase i="851" n="wlang_prefs_tsgreatbritain" t="Iso-Britannia"/>
+	<w_phrase i="852" n="wlang_advanced_tmz_VENm45" t="-4.5 Venezuela (Caracas)"/>
+	<w_phrase i="853" n="wlang_advanced_tmz_NCLp11" t="+11 New Caledonia (Noumea)"/>
+	<w_phrase i="854" n="wlang_line_ssi_enable_hookflash" t="Enable hook flash:"/>
+	<w_phrase i="855" n="wlang_line_ocs" t="OCS"/>
+	<w_phrase i="856" n="wlang_vpn_netcat_server" t="Netcat Server (e.g. 192.168.0.188 5000)"/>
+	<w_phrase i="857" n="wlang_fkeys_ssi_presence" t="Presence"/>
+	<w_phrase i="858" n="wlang_prefs_custom_internal_alert_info" t="Customised Alert-Info using built-in melodies:"/>
+	<w_phrase i="859" n="wlang_prefs_ca_ringer_text" t="Internal Ringer Text:"/>
+	<w_phrase i="860" n="wlang_prefs_ssi_ca_ringer_file" t="Internal Ringer File:"/>
+	<w_phrase i="861" n="wlang_line_nortel" t="Nortel"/>
+	<w_phrase i="862" n="wlang_arcor_ssi_title" t="Central-Phone Account Data"/>
+	<w_phrase i="863" n="wlang_arcor_sip_domain" t="SIP-Domain:"/>
+	<w_phrase i="864" n="wlang_arcor_sip_proxy" t="SIP-Proxy:"/>
+	<w_phrase i="865" n="wlang_arcor_sip_username" t="Username:"/>
+	<w_phrase i="866" n="wlang_arcor_sip_password" t="Password:"/>
+	<w_phrase i="867" n="wlang_arcor_logininfo" t="Please type in your Account Data here."/>
+	<w_phrase i="868" n="wlang_leftnav_arcor_account" t="Account Data"/>
+	<w_phrase i="869" n="wlang_action_ssi_hold" t="Hold+call:"/>
+	<w_phrase i="870" n="wlang_action_ssi_unhold" t="Unhold+call:"/>
+	<w_phrase i="871" n="wlang_action_ssi_transfer" t="Transfer+call:"/>
+	<w_phrase i="872" n="wlang_action_ssi_blind_transfer" t="Blind+transfer:"/>
+	<w_phrase i="873" n="wlang_action_ssi_attended_transfer" t="Attended+transfer:"/>
+	<w_phrase i="874" n="wlang_advanced_ssi_csta_control" t="Allow+CSTA+control:"/>
+	<w_phrase i="875" n="wlang_line_ssi_dtmf_info_sip_info_only" t="SIP INFO only"/>
+	<w_phrase i="876" n="wlang_handsfree_mode_quiet" t="quiet room"/>
+	<w_phrase i="877" n="wlang_handsfree_mode_normal" t="normal room"/>
+	<w_phrase i="878" n="wlang_handsfree_mode_echoic" t="echoic room"/>
+	<w_phrase i="879" n="wlang_adv_audio_ssi_handsfree_mode" t="Handsfree Mode:"/>
+	<w_phrase i="880" n="wlang_advanced_ssi_speaker_receive_call" t="Use Speaker/Headset Key to Receive Calls:"/>
+	<w_phrase i="881" n="wlang_prefs_ssi_global_missed_counter" t="Global counter for Missed Calls:"/>
+	<w_phrase i="882" n="wlang_advanced_ssi_http_password_not_set" t="HTTP Password not set!"/>
+	<w_phrase i="883" n="wlang_text_login_failed_info1" t="After several unsuccessful login attempts, the web interface has been blocked!"/>
+	<w_phrase i="884" n="wlang_text_login_failed_info2" t="It will be available again in"/>
+	<w_phrase i="885" n="wlang_text_login_failed_info3" t="minute(s). Further unsuccessful login attempts will double the time which you have to wait for unblocking the web interface respectively."/>
+	<w_phrase i="886" n="wlang_login_failed_ssi_title" t="Login failed!"/>
+	<w_phrase i="887" n="wlang_advanced_ssi_admin_password_not_set" t="Admin Password not set!"/>
+	<w_phrase i="888" n="wlang_web_confirm_logout" t="Logout user from web page?"/>
+	<w_phrase i="889" n="wlang_advanced_logoutbutton" t="Logout"/>
+	<w_phrase i="890" n="wlang_text_login_failed_info4" t=", the web interface has been blocked!"/>
+	<w_phrase i="891" n="wlang_line_ssi_savp" t="RTP/SAVP:"/>
+	<w_phrase i="892" n="wlang_advanced_ssi_use_hidden_tags" t="Use hidden tags:"/>
+	<w_phrase i="893" n="wlang_fkeys_ssi_blf" t="BLF"/>
+	<w_phrase i="894" n="wlang_advanced_ssi_show_history_info" t="Show History-Info:"/>
+	<w_phrase i="895" n="wlang_advanced_ssi_show_name_dialog" t="Show display name in Dialog-Info:"/>
+	<w_phrase i="896" n="wlang_security_warning_ssi_title" t="Security Warning !"/>
+	<w_phrase i="897" n="wlang_text_security_warning_info1" t="Either you or an other remote user has send an unauthorized HTTP POST request to this phone."/>
+	<w_phrase i="898" n="wlang_text_security_warning_info2" t="This request has been skipped and the authenticated session has been closed."/>
+	<w_phrase i="899" n="wlang_text_security_warning_info3" t="You have to reauthenticate yourself in order to use the web interface again."/>
+	<w_phrase i="900" n="wlang_security_advice" t="Security Advice"/>
+	<w_phrase i="901" n="wlang_security_text_advice1" t="We strongly recommend that you secure the web interface in order to protect your phone against remote attacks. Therefore the HTTP User and Password as well as the Administrator Password should be changed from the default value."/>
+	<w_phrase i="902" n="wlang_security_text_advice2" t="Additionally you should protect the web interface with hidden security tags against remote attackers trying to change phone settings with faked HTTP POST requests."/>
+	<w_phrase i="903" n="wlang_security_button_save" t="Press to save the settings as shown above."/>
+	<w_phrase i="904" n="wlang_security_button_ignore" t="Press to ignore the warning until reboot."/>
+	<w_phrase i="905" n="wlang_security_button_ignore_forever" t="Press to ignore the warning forever."/>
+	<w_phrase i="906" n="wlang_security_ssi_title" t="Security"/>
+	<w_phrase i="907" n="wlang_advanced_ssi_ignore_warning" t="Ignore security advices:"/>
+	<w_phrase i="908" n="wlang_advanced_ssi_naptr_sip_uri" t="Use NAPTR on SIP URIs:"/>
+	<w_phrase i="909" n="wlang_line_ssi_optional" t="optional"/>
+	<w_phrase i="910" n="wlang_line_ssi_mandatory" t="mandatory"/>
+	<w_phrase i="911" n="wlang_prefs_backlight_dim" t="dim"/>
+	<w_phrase i="912" n="wlang_advanced_ssi_show_diversion" t="Show Diversion:"/>
+	<w_phrase i="913" n="wlang_advanced_ssi_offhook_dial_prompt" t="Dial prompt on offhook:"/>
+	<w_phrase i="914" n="wlang_fkeys_ssi_ivr" t="IVR"/>
+	<w_phrase i="915" n="wlang_info_uptime_info" t="Uptime:"/>
+	<w_phrase i="916" n="wlang_info_memfree_info" t="Memfree:"/>
+	<w_phrase i="917" n="wlang_info_uboot_version_info" t="Bootloader-Version:"/>
+	<w_phrase i="918" n="wlang_advanced_ssi_update_called_party_id" t="Update Called Party ID:"/>
+	<w_phrase i="919" n="wlang_line_ssi_authtag" t="SRTP Auth-tag:"/>
+	<w_phrase i="920" n="wlang_line_ssi_aes32" t="AES-32"/>
+	<w_phrase i="921" n="wlang_line_ssi_aes80" t="AES-80"/>
+	<w_phrase i="922" n="wlang_prefs_ssi_show_ivr_digits" t="Show IVR digits during connected:"/>
+	<w_phrase i="923" n="wlang_line_ssi_report_machine_state" t="Report Machine State:"/>
+	<w_phrase i="924" n="wlang_line_ssi_report_phone_state" t="Report Phone State:"/>
+	<w_phrase i="925" n="wlang_set_savesettingspart4" t=" to save the settings which have changed from default in XML format."/>
+	<w_phrase i="926" n="wlang_advanced_ssi_encode_display_name" t="Encode display name:"/>
+	<w_phrase i="927" n="wlang_line_ssi_dynamic_payload" t="Dynamic G.726 payload:"/>
+	<w_phrase i="928" n="wlang_advtab_gui" t="GUI"/>
+	<w_phrase i="929" n="wlang_advanced_line_info_layer" t="Line Info Layer:"/>
+	<w_phrase i="930" n="wlang_advanced_ssi_allways" t="Always"/>
+	<w_phrase i="931" n="wlang_advanced_ssi_never" t="Never"/>
+	<w_phrase i="932" n="wlang_advanced_ssi_selective" t="Selective"/>
+	<w_phrase i="933" n="wlang_advanced_ssi_show" t="show"/>
+	<w_phrase i="934" n="wlang_advanced_lil_idle" t="show when idle"/>
+	<w_phrase i="935" n="wlang_advanced_lil_settings" t="show in settings menu"/>
+	<w_phrase i="936" n="wlang_advanced_lil_registration" t="show when selecting active ID"/>
+	<w_phrase i="937" n="wlang_advanced_lil_presence" t="show when selecting presence state"/>
+	<w_phrase i="938" n="wlang_advanced_lil_buddies" t="show when traversing contact list"/>
+	<w_phrase i="939" n="wlang_advanced_lil_minibrowser" t="show in minibrowser"/>
+	<w_phrase i="940" n="wlang_advanced_lil_directory" t="show in directory"/>
+	<w_phrase i="941" n="wlang_advanced_lil_call_lists" t="show in call lists"/>
+	<w_phrase i="942" n="wlang_advanced_lil_mailbox_info" t="show in mailbox info screen"/>
+	<w_phrase i="943" n="wlang_advanced_lil_edit_number" t="show when entering number"/>
+	<w_phrase i="944" n="wlang_advanced_lil_ringing" t="show with incomming call"/>
+	<w_phrase i="945" n="wlang_advanced_lil_calling" t="show when calling"/>
+	<w_phrase i="946" n="wlang_advanced_lil_call_completion" t="show while waiting for call completion"/>
+	<w_phrase i="947" n="wlang_advanced_lil_auto_redial" t="show while waiting for auto redial"/>
+	<w_phrase i="948" n="wlang_advanced_lil_connected" t="show when connected"/>
+	<w_phrase i="949" n="wlang_advanced_lil_conference" t="show in conference"/>
+	<w_phrase i="950" n="wlang_advanced_lil_transfer" t="show when transfering"/>
+	<w_phrase i="951" n="wlang_advanced_lil_holding" t="show in on-hold list"/>
+	<w_phrase i="952" n="wlang_advanced_lil_terminated" t="show when terminating calls"/>
+	<w_phrase i="953" n="wlang_advanced_ssi_settings_refresh" t="Settings refresh timer:"/>
+	<w_phrase i="954" n="wlang_advanced_tmz_unused" t="Unused"/>
+	<w_phrase i="955" n="wlang_advanced_lil_smart" t="show only on activity"/>
+	<w_phrase i="956" n="wlang_fkeyname_redirect" t="Forward all"/>
+	<w_phrase i="957" n="wlang_fkeyname_retrieve" t="Retrieve"/>
+	<w_phrase i="958" n="wlang_fkeyname_dnd" t="DND"/>
+	<w_phrase i="959" n="wlang_fkeyname_menu" t="Menu"/>
+	<w_phrase i="960" n="wlang_fkeyname_transfer" t="Transfer"/>
+	<w_phrase i="961" n="wlang_fkeyname_hold" t="Hold"/>
+	<w_phrase i="962" n="wlang_fkeyname_missed" t="Missed Calls"/>
+	<w_phrase i="963" n="wlang_fkeyname_accepted" t="Accepted Calls"/>
+	<w_phrase i="964" n="wlang_fkeyname_id_up" t="Select ID above"/>
+	<w_phrase i="965" n="wlang_fkeyname_id_down" t="Select ID below"/>
+	<w_phrase i="966" n="wlang_fkeyname_clr_pickup" t="Clear Pickup Info"/>
+	<w_phrase i="967" n="wlang_advanced_tmz_USA2m10" t="-10 Yhdysvallat - Alaska-Aleutian"/>
+	<w_phrase i="968" n="wlang_fkeyname_registries" t="Change Active Id"/>
+	<w_phrase i="969" n="wlang_fkeyname_call_lists" t="Call Lists"/>
+	<w_phrase i="970" n="wlang_fkeyname_support" t="Help"/>
+	<w_phrase i="971" n="wlang_fkeyname_presence" t="Presence State"/>
+	<w_phrase i="972" n="wlang_fkeyname_buddies" t="Contacts"/>
+	<w_phrase i="973" n="wlang_fkeyname_redial" t="Redial"/>
+	<w_phrase i="974" n="wlang_fkeyname_addr" t="Directory"/>
+	<w_phrase i="975" n="wlang_ocip_prefs" t="OCI-P (Broadsoft):"/>
+	<w_phrase i="976" n="wlang_advanced_dfks" t="Device Feature Key Synchronisation"/>
+	<w_phrase i="977" n="wlang_line_ssi_publish_presence_bootup" t="Publish+Presence+On+Bootup:"/>
+	<w_phrase i="978" n="wlang_fkeyname_record" t="Record"/>
+	<w_phrase i="979" n="wlang_fkeyname_conference" t="Conference"/>
+	<w_phrase i="980" n="wlang_fkeyname_id_next" t="Next Outgoing ID"/>
+	<w_phrase i="981" n="wlang_fkeyname_id_prev" t="Prev. Outgoing ID"/>
+	<w_phrase i="982" n="wlang_leftnav_ocs_account" t="OCS Account Data"/>
+	<w_phrase i="983" n="wlang_ocs_sip_uri" t="SIP-URI"/>
+	<w_phrase i="984" n="wlang_ocs_domain_username" t="Username (DOMAIN&#92;USERNAME)"/>
+	<w_phrase i="985" n="wlang_ocs_password" t="Password"/>
+	<w_phrase i="986" n="wlang_ocs_outbound_proxy" t="Outbound Proxy"/>
+	<w_phrase i="987" n="wlang_ocs_ssi_title" t="OCS Account Data"/>
+	<w_phrase i="988" n="wlang_ocs_logininfo" t="Please type in your account data here"/>
+	<w_phrase i="989" n="wlang_prefs_ssi_advertisement" t="Advertisement:"/>
+	<w_phrase i="990" n="wlang_line_asterisk" t="Asterisk"/>
+	<w_phrase i="991" n="wlang_line_ccm" t="CCM"/>
+	<w_phrase i="992" n="wlang_advanced_ssi_typeanswering" t="Vastaustapa:"/>
+	<w_phrase i="993" n="wlang_advanced_ssi_tahandsfree" t="K&#195;&#164;det vapaana"/>
+	<w_phrase i="994" n="wlang_advanced_ssi_tahandset" t="Luuri"/>
+	<w_phrase i="995" n="wlang_advanced_ssi_taheadset" t=""/>
+	<w_phrase i="996" n="wlang_line_ssi_additional_supported_headers" t="Additional supported headers:"/>
+	<w_phrase i="997" n="wlang_lang_hebrew" t="Hebrew:"/>
+	<w_phrase i="998" n="wlang_lang_cyrillic" t="Cyrillic:"/>
+	<w_phrase i="999" n="wlang_prefs_character_settings" t="Character Settings:"/>
+	<w_phrase i="1000" n="wlang_prefs_status" t="Status:"/>
+	<w_phrase i="1001" n="wlang_prefs_ssi_inactive_timeout" t="Show status inactive after this many minutes (0 = never):"/>
+	<w_phrase i="1002" n="wlang_prefs_ssi_away_timeout" t="Show status away after this many minutes (0 = never):"/>
+	<w_phrase i="1003" n="wlang_advanced_prioritise_pbx_number_lookup" t="Prioritise PBX number lookup:"/>
+	<w_phrase i="1004" n="wlang_line_ssi_g726_packing_order" t="G.726 Byte Order:"/>
+	<w_phrase i="1005" n="wlang_line_ssi_rfc3551" t="RFC3551"/>
+	<w_phrase i="1006" n="wlang_line_ssi_aal2" t="AAL2"/>
+	<w_phrase i="1007" n="wlang_handsfree_mode_v6" t="V6 compatible"/>
+	<w_phrase i="1008" n="wlang_line_teles" t="Teles"/>
+	<w_phrase i="1009" n="wlang_advanced_ssi_transferonhookstarcode" t="Transfer starcode picked up calls:"/>
+	<language i="0" t="Suomi"/>
+
+</w_phrases>
+

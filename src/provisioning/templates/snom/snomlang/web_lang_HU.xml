@@ -1,0 +1,1016 @@
+<?xml version="1.0" encoding="utf-8"?>
+<w_phrases>
+	<w_phrase i="0" n="wlang_iso_code" t="HU"/>
+	<w_phrase i="1" n="wlang_web_language_name" t="Magyar"/>
+	<w_phrase i="2" n="wlang_index_infotext" t="Ez a webes kezel&#197;&#145; fel&#195;&#188;let k&#195;&#182;nnyebb&#195;&#169; teszi be&#195;&#161;ll&#195;&#173;tani a telefont, &#195;&#169;s el&#195;&#169;rhet&#197;&#145;ek a speci&#195;&#161;lis be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok.&lt;br&gt;T&#195;&#161;rcs&#195;&#161;z&#195;&#161;shoz &#195;&#188;ss&#195;&#182;n be egy telefonsz&#195;&#161;mot a lenti mez&#197;&#145;be. "/>
+	<w_phrase i="3" n="wlang_index_dialnumber" t="T&#195;&#161;rcs&#195;&#161;zzon egy sz&#195;&#161;mot"/>
+	<w_phrase i="4" n="wlang_index_dialnumberbutton" t="T&#195;&#161;rcs&#195;&#161;z"/>
+	<w_phrase i="5" n="wlang_index_hangupbutton" t="Letesz"/>
+	<w_phrase i="6" n="wlang_index_outgoingident" t="Kimen&#197;&#145; azonos&#195;&#173;t&#195;&#179;"/>
+	<w_phrase i="7" n="wlang_index_setbutton" t="Be&#195;&#161;ll&#195;&#173;t"/>
+	<w_phrase i="8" n="wlang_index_dialednumbers" t="T&#195;&#161;rcs&#195;&#161;zott sz&#195;&#161;mok"/>
+	<w_phrase i="9" n="wlang_index_dialed" t="T&#195;&#161;rcs&#195;&#161;zott"/>
+	<w_phrase i="10" n="wlang_index_missedcalls" t="Nem fogadott h&#195;&#173;v&#195;&#161;sok"/>
+	<w_phrase i="11" n="wlang_index_missed" t="Nem fogadott"/>
+	<w_phrase i="12" n="wlang_index_receivedcalls" t="Fogadott h&#195;&#173;v&#195;&#161;sok"/>
+	<w_phrase i="13" n="wlang_index_received" t="Fogadott"/>
+	<w_phrase i="14" n="wlang_index_date" t="D&#195;&#161;tum"/>
+	<w_phrase i="15" n="wlang_index_number" t="Telefonsz&#195;&#161;m"/>
+	<w_phrase i="16" n="wlang_leftnav_operation" t="Telefonk&#195;&#182;nyv"/>
+	<w_phrase i="17" n="wlang_leftnav_home" t="Kezd&#197;&#145;lap"/>
+	<w_phrase i="18" n="wlang_leftnav_addressbook" t="K&#195;&#182;nyvt&#195;&#161;r"/>
+	<w_phrase i="19" n="wlang_leftnav_setup" t="Be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok"/>
+	<w_phrase i="20" n="wlang_leftnav_preferences" t="Tulajdons&#195;&#161;gok"/>
+	<w_phrase i="21" n="wlang_leftnav_speeddial" t="Gyors t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s"/>
+	<w_phrase i="22" n="wlang_leftnav_functionkeys" t="Funkci&#195;&#179; billenty&#197;&#177;k"/>
+	<w_phrase i="23" n="wlang_leftnav_lineone" t="Vonal 1"/>
+	<w_phrase i="24" n="wlang_leftnav_linetwo" t="Vonal 2"/>
+	<w_phrase i="25" n="wlang_leftnav_linethree" t="Vonal 3"/>
+	<w_phrase i="26" n="wlang_leftnav_linefour" t="Vonal 4"/>
+	<w_phrase i="27" n="wlang_leftnav_linefive" t="Vonal 5"/>
+	<w_phrase i="28" n="wlang_leftnav_linesix" t="Vonal 6"/>
+	<w_phrase i="29" n="wlang_leftnav_lineseven" t="Vonal 7"/>
+	<w_phrase i="30" n="wlang_leftnav_lineeight" t="Vonal 8"/>
+	<w_phrase i="31" n="wlang_leftnav_linenine" t="Vonal 9"/>
+	<w_phrase i="32" n="wlang_leftnav_lineten" t="Vonal 10"/>
+	<w_phrase i="33" n="wlang_leftnav_lineeleven" t="Vonal 11"/>
+	<w_phrase i="34" n="wlang_leftnav_linetwelve" t="Vonal 12"/>
+	<w_phrase i="35" n="wlang_leftnav_advanced" t="Speci&#195;&#161;lis"/>
+	<w_phrase i="36" n="wlang_leftnav_softupdate" t="Szoftver friss&#195;&#173;t&#195;&#169;s"/>
+	<w_phrase i="37" n="wlang_leftnav_status" t="St&#195;&#161;tusz"/>
+	<w_phrase i="38" n="wlang_leftnav_sysinfo" t="Rendszer Inform&#195;&#161;ci&#195;&#179;"/>
+	<w_phrase i="39" n="wlang_leftnav_siptrace" t="SIP Trace"/>
+	<w_phrase i="40" n="wlang_leftnav_upnptrace" t="UPnP Trace"/>
+	<w_phrase i="41" n="wlang_leftnav_dnscache" t="DNS Cache"/>
+	<w_phrase i="42" n="wlang_leftnav_pcaptrace" t="PCAP Trace"/>
+	<w_phrase i="43" n="wlang_leftnav_log" t="Log"/>
+	<w_phrase i="44" n="wlang_leftnav_memory" t="Mem&#195;&#179;ria"/>
+	<w_phrase i="45" n="wlang_leftnav_settings" t="Be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok"/>
+	<w_phrase i="46" n="wlang_leftnav_manual" t="Felhaszn&#195;&#161;l&#195;&#179;i k&#195;&#169;zik&#195;&#182;nyv"/>
+	<w_phrase i="47" n="wlang_adr_name" t="N&#195;&#169;v: "/>
+	<w_phrase i="48" n="wlang_adr_number" t="Telefonsz&#195;&#161;m: "/>
+	<w_phrase i="49" n="wlang_adr_reading" t="Olvas&#195;&#161;s: "/>
+	<w_phrase i="50" n="wlang_adr_contacttype" t="Kapcsolat t&#195;&#173;pus:"/>
+	<w_phrase i="51" n="wlang_adr_edit" t="M&#195;&#179;dos&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="52" n="wlang_adr_delete" t="T&#195;&#182;rl&#195;&#169;s"/>
+	<w_phrase i="53" n="wlang_adr_addeditentry" t="Hozz&#195;&#161;ad&#195;&#161;s vagy bejegyz&#195;&#169;s m&#195;&#179;dos&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="54" n="wlang_adr_ctnone" t="Nincs"/>
+	<w_phrase i="55" n="wlang_adr_ctfriends" t="Bar&#195;&#161;tok"/>
+	<w_phrase i="56" n="wlang_adr_ctfamily" t="Csal&#195;&#161;d"/>
+	<w_phrase i="57" n="wlang_adr_ctcolleagues" t="Koll&#195;&#169;g&#195;&#161;k"/>
+	<w_phrase i="58" n="wlang_adr_ctvip" t="VIP"/>
+	<w_phrase i="59" n="wlang_adr_ctdeny" t="Tilt&#195;&#179; lista"/>
+	<w_phrase i="60" n="wlang_adr_addeditbutton" t="Hozz&#195;&#161;ad/M&#195;&#179;dos&#195;&#173;t"/>
+	<w_phrase i="61" n="wlang_adr_importadrbook" t="Telefonk&#195;&#182;nyv import&#195;&#161;l&#195;&#161;sa (CSV):"/>
+	<w_phrase i="62" n="wlang_adr_namefields" t="N&#195;&#169;v mez&#197;&#145;: "/>
+	<w_phrase i="63" n="wlang_adr_addressfields" t="C&#195;&#173;m mez&#197;&#145;: "/>
+	<w_phrase i="64" n="wlang_adr_readingfields" t="Olvas&#195;&#161;s mez&#197;&#145;: "/>
+	<w_phrase i="65" n="wlang_adr_filename" t="F&#195;&#161;jln&#195;&#169;v:"/>
+	<w_phrase i="66" n="wlang_adr_loadbutton" t="Bet&#195;&#182;lt&#195;&#169;s"/>
+	<w_phrase i="67" n="wlang_adr_saveadrpart1" t="Kattintson"/>
+	<w_phrase i="68" n="wlang_adr_herelink" t="ide"/>
+	<w_phrase i="69" n="wlang_adr_saveadrpart2" t=" a telefonk&#195;&#182;nyv ment&#195;&#169;s&#195;&#169;hez."/>
+	<w_phrase i="70" n="wlang_prefs_generalinfo" t="&#195;&#129;ltal&#195;&#161;nos inform&#195;&#161;ci&#195;&#179;k:"/>
+	<w_phrase i="71" n="wlang_prefs_language" t="Nyelv:"/>
+	<w_phrase i="72" n="wlang_prefs_web_language" t="Web kezel&#197;&#145;fel&#195;&#188;let nyelve: "/>
+	<w_phrase i="73" n="wlang_prefs_displaystyle" t="Sz&#195;&#161;m kijelz&#195;&#169;si st&#195;&#173;lus:"/>
+	<w_phrase i="74" n="wlang_prefs_dsfullcontact" t="Teljes kapcsolat"/>
+	<w_phrase i="75" n="wlang_prefs_dsname" t="N&#195;&#169;v"/>
+	<w_phrase i="76" n="wlang_prefs_dsnumber" t="Telefonsz&#195;&#161;m"/>
+	<w_phrase i="77" n="wlang_prefs_dsnamenumber" t="N&#195;&#169;v + &#195;&#169;s + telefonsz&#195;&#161;m"/>
+	<w_phrase i="78" n="wlang_prefs_tonescheme" t="Hang s&#195;&#169;ma: "/>
+	<w_phrase i="79" n="wlang_prefs_tsaustralia" t="Ausztr&#195;&#161;lia"/>
+	<w_phrase i="80" n="wlang_prefs_tschina" t="K&#195;&#173;na"/>
+	<w_phrase i="81" n="wlang_prefs_tsdenmark" t="D&#195;&#161;nia"/>
+	<w_phrase i="82" n="wlang_prefs_tsgermany" t="N&#195;&#169;metorsz&#195;&#161;g"/>
+	<w_phrase i="83" n="wlang_prefs_tsindia" t="India"/>
+	<w_phrase i="84" n="wlang_prefs_tsjapan" t="Jap&#195;&#161;n"/>
+	<w_phrase i="85" n="wlang_prefs_tsmexico" t="Mexik&#195;&#179;"/>
+	<w_phrase i="86" n="wlang_prefs_tsuk" t="Egyes&#195;&#188;lt Kir&#195;&#161;lys&#195;&#161;g"/>
+	<w_phrase i="87" n="wlang_prefs_tsus" t="Egyes&#195;&#188;lt &#195;&#129;llamok"/>
+	<w_phrase i="88" n="wlang_prefs_mwinotifi" t="MWI &#195;&#137;rtes&#195;&#173;t&#195;&#169;s:"/>
+	<w_phrase i="89" n="wlang_prefs_mwisilent" t="Halk"/>
+	<w_phrase i="90" n="wlang_prefs_mwibeep" t="Csippan&#195;&#161;s"/>
+	<w_phrase i="91" n="wlang_prefs_mwireminder" t="Eml&#195;&#169;keztet&#197;&#145;"/>
+	<w_phrase i="92" n="wlang_prefs_mwidialtone" t="&#195;&#156;zenet jelz&#197;&#145; t&#195;&#161;rcsahang:"/>
+	<w_phrase i="93" n="wlang_prefs_mwidialnormal" t="Norm&#195;&#161;l"/>
+	<w_phrase i="94" n="wlang_prefs_mwidialstutter" t="Szaggatott"/>
+	<w_phrase i="95" n="wlang_prefs_useheadset" t="Fejhallgat&#195;&#179; haszn&#195;&#161;lata:"/>
+	<w_phrase i="96" n="wlang_prefs_hsnone" t="Nincs"/>
+	<w_phrase i="97" n="wlang_prefs_hschinch" t="RCA csatlakoz&#195;&#179;"/>
+	<w_phrase i="98" n="wlang_prefs_hsrj" t="RJ csatlakoz&#195;&#179;"/>
+	<w_phrase i="99" n="wlang_prefs_redirection" t="H&#195;&#173;v&#195;&#161;s tov&#195;&#161;bb&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="100" n="wlang_prefs_event" t="Esem&#195;&#169;ny:"/>
+	<w_phrase i="101" n="wlang_prefs_evnever" t="Soha"/>
+	<w_phrase i="102" n="wlang_prefs_evalways" t="Mindig"/>
+	<w_phrase i="103" n="wlang_prefs_evbusy" t="Foglalts&#195;&#161;g eset&#195;&#169;n"/>
+	<w_phrase i="104" n="wlang_prefs_evtimeout" t="Id&#197;&#145;intervallum ut&#195;&#161;n"/>
+	<w_phrase i="105" n="wlang_prefs_timeout" t="Id&#197;&#145;intervallum (m&#195;&#161;sodperc):"/>
+	<w_phrase i="106" n="wlang_prefs_ssi_numberredirect" t="Telefonsz&#195;&#161;m+(&#195;&#161;tir&#195;&#161;ny&#195;&#173;t)"/>
+	<w_phrase i="107" n="wlang_prefs_ssi_numberbusy" t="Telefonsz&#195;&#161;m+(Foglalt)"/>
+	<w_phrase i="108" n="wlang_prefs_ringtones" t="Cseng&#197;&#145;hangok:"/>
+	<w_phrase i="109" n="wlang_prefs_defaultsection" t="Alap&#195;&#169;rtelmezett kiv&#195;&#161;laszt&#195;&#161;s:"/>
+	<w_phrase i="110" n="wlang_prefs_defsource" t="Forr&#195;&#161;s"/>
+	<w_phrase i="111" n="wlang_prefs_defdestination" t="C&#195;&#169;l&#195;&#161;llom&#195;&#161;s"/>
+	<w_phrase i="112" n="wlang_prefs_friends" t="Bar&#195;&#161;tok"/>
+	<w_phrase i="113" n="wlang_prefs_ringer1" t="Cseng&#197;&#145;hang 1"/>
+	<w_phrase i="114" n="wlang_prefs_ringer2" t="Cseng&#197;&#145;hang 2"/>
+	<w_phrase i="115" n="wlang_prefs_ringer3" t="Cseng&#197;&#145;hang 3"/>
+	<w_phrase i="116" n="wlang_prefs_ringer4" t="Cseng&#197;&#145;hang 4"/>
+	<w_phrase i="117" n="wlang_prefs_ringer5" t="Cseng&#197;&#145;hang 5"/>
+	<w_phrase i="118" n="wlang_prefs_ringer6" t="Cseng&#197;&#145;hang 6"/>
+	<w_phrase i="119" n="wlang_prefs_ringer7" t="Cseng&#197;&#145;hang 7"/>
+	<w_phrase i="120" n="wlang_prefs_ringer8" t="Cseng&#197;&#145;hang 8"/>
+	<w_phrase i="121" n="wlang_prefs_ringersilent" t="N&#195;&#169;ma"/>
+	<w_phrase i="122" n="wlang_prefs_family" t="Csal&#195;&#161;d"/>
+	<w_phrase i="123" n="wlang_prefs_colleagues" t="Koll&#195;&#169;g&#195;&#161;k"/>
+	<w_phrase i="124" n="wlang_prefs_ringdeviceheadset" t="Cseng&#195;&#169;s fejhallgat&#195;&#179; haszn&#195;&#161;latakor:"/>
+	<w_phrase i="125" n="wlang_prefs_ringspeaker" t="Telefon"/>
+	<w_phrase i="126" n="wlang_prefs_ringheadset" t="Fejhallgat&#195;&#179;"/>
+	<w_phrase i="127" n="wlang_prefs_defaultringer" t="Alap&#195;&#169;rtelmezett cseng&#197;&#145;hang:"/>
+	<w_phrase i="128" n="wlang_prefs_ssi_custommelody" t="Speci&#195;&#161;lis+cseng&#197;&#145;hang+URL:"/>
+	<w_phrase i="129" n="wlang_prefs_autoanswer" t="Automatikus v&#195;&#161;lasz:"/>
+	<w_phrase i="130" n="wlang_prefs_ssi_aaautoanswer" t="Automatikus+v&#195;&#161;lasz:"/>
+	<w_phrase i="131" n="wlang_prefs_ssi_aaindication" t="Automatikus+v&#195;&#161;lasz+jelz&#195;&#169;s:"/>
+	<w_phrase i="132" n="wlang_prefs_typeanswering" t="V&#195;&#161;lasz t&#195;&#173;pusa:"/>
+	<w_phrase i="133" n="wlang_prefs_tahandsfree" t="K&#195;&#169;z n&#195;&#169;lk&#195;&#188;l"/>
+	<w_phrase i="134" n="wlang_prefs_tahandset" t="K&#195;&#169;zibesz&#195;&#169;l&#197;&#145;"/>
+	<w_phrase i="135" n="wlang_prefs_taheadset" t="Fejhallgat&#195;&#179;"/>
+	<w_phrase i="136" n="wlang_prefs_privacysetting" t="Biztons&#195;&#161;gi Be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok: "/>
+	<w_phrase i="137" n="wlang_prefs_ssi_privclip" t="H&#195;&#173;v&#195;&#179;sz&#195;&#161;m+kijelz&#195;&#169;se+(CLIP) "/>
+	<w_phrase i="138" n="wlang_prefs_ssi_privclir" t="H&#195;&#173;v&#195;&#179;sz&#195;&#161;m+tilt&#195;&#161;sa+(CLIR)"/>
+	<w_phrase i="139" n="wlang_prefs_ssi_inactivitytimeout" t="Jelenl&#195;&#169;t+elavul&#195;&#161;sa+(perc):"/>
+	<w_phrase i="140" n="wlang_prefs_hide" t="Elrejt"/>
+	<w_phrase i="141" n="wlang_prefs_show" t="Mutat"/>
+	<w_phrase i="142" n="wlang_prefs_reject" t="Elutas&#195;&#173;t"/>
+	<w_phrase i="143" n="wlang_prefs_accept" t="Elfogad"/>
+	<w_phrase i="144" n="wlang_prefs_savebutton" t="Ment&#195;&#169;s"/>
+	<w_phrase i="145" n="wlang_speed_speeddialtable" t="Gyors t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s t&#195;&#161;bla: "/>
+	<w_phrase i="146" n="wlang_speed_savebutton" t="Ment&#195;&#169;s"/>
+	<w_phrase i="147" n="wlang_fkeys_keysettings" t="Billenty&#197;&#177; be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="148" n="wlang_fkeys_ssi_number" t="Telefonsz&#195;&#161;m"/>
+	<w_phrase i="149" n="wlang_fkeys_ssi_line" t="Vonal"/>
+	<w_phrase i="150" n="wlang_fkeys_ssi_dest" t="Mell&#195;&#169;k"/>
+	<w_phrase i="151" n="wlang_fkeys_ssi_intercom" t="Intercom"/>
+	<w_phrase i="152" n="wlang_fkeys_ssi_parkorbit" t="H&#195;&#173;v&#195;&#161;s keringet&#195;&#169;s"/>
+	<w_phrase i="153" n="wlang_fkeys_ssi_voicerecorder" t="Hang&#195;&#188;zenet"/>
+	<w_phrase i="154" n="wlang_fkeys_ssi_dtmf" t="DTMF"/>
+	<w_phrase i="155" n="wlang_fkeys_savebutton" t="Ment&#195;&#169;s"/>
+	<w_phrase i="156" n="wlang_line_logininfo" t="Bejelentkez&#195;&#169;si Inform&#195;&#161;ci&#195;&#179;:"/>
+	<w_phrase i="157" n="wlang_line_ssi_name" t="Kijelz&#195;&#169;si n&#195;&#169;v:"/>
+	<w_phrase i="158" n="wlang_line_ssi_account" t="Felhaszn&#195;&#161;l&#195;&#179;n&#195;&#169;v:"/>
+	<w_phrase i="159" n="wlang_line_ssi_password" t="Jelsz&#195;&#179;:"/>
+	<w_phrase i="160" n="wlang_line_ssi_registrar" t="Regisztr&#195;&#161;ci&#195;&#179;s szerver:"/>
+	<w_phrase i="161" n="wlang_line_status" t="St&#195;&#161;tusz:"/>
+	<w_phrase i="162" n="wlang_line_ssi_mailbox" t="Postafi&#195;&#179;k:"/>
+	<w_phrase i="163" n="wlang_line_ringtone" t="Cseng&#197;&#145;hang:"/>
+	<w_phrase i="164" n="wlang_line_ringer1" t="Cseng&#197;&#145;hang 1"/>
+	<w_phrase i="165" n="wlang_line_ringer2" t="Cseng&#197;&#145;hang 2"/>
+	<w_phrase i="166" n="wlang_line_ringer3" t="Cseng&#197;&#145;hang 3"/>
+	<w_phrase i="167" n="wlang_line_ringer4" t="Cseng&#197;&#145;hang 4"/>
+	<w_phrase i="168" n="wlang_line_ringer5" t="Cseng&#197;&#145;hang 5"/>
+	<w_phrase i="169" n="wlang_line_ringer6" t="Cseng&#197;&#145;hang 6"/>
+	<w_phrase i="170" n="wlang_line_ringer7" t="Cseng&#197;&#145;hang 7"/>
+	<w_phrase i="171" n="wlang_line_ringer8" t="Cseng&#197;&#145;hang 8"/>
+	<w_phrase i="172" n="wlang_line_ringer9" t="Cseng&#197;&#145;hang 9"/>
+	<w_phrase i="173" n="wlang_line_ringer10" t="Cseng&#197;&#145;hang 10"/>
+	<w_phrase i="174" n="wlang_line_silent" t="N&#195;&#169;ma"/>
+	<w_phrase i="175" n="wlang_line_ssi_outboundproxy" t="Kimen&#197;&#145;+Proxy+Szerver:"/>
+	<w_phrase i="176" n="wlang_line_ssi_dialplan" t="H&#195;&#173;v&#195;&#161;s+szab&#195;&#161;lyok:"/>
+	<w_phrase i="177" n="wlang_line_qvalue" t="Q-&#195;&#169;rt&#195;&#169;k:"/>
+	<w_phrase i="178" n="wlang_line_expire" t="Tervezett lej&#195;&#161;rat:"/>
+	<w_phrase i="179" n="wlang_line_qday" t="nap"/>
+	<w_phrase i="180" n="wlang_line_qhours" t="&#195;&#179;r&#195;&#161;k"/>
+	<w_phrase i="181" n="wlang_line_qhour" t="&#195;&#179;ra"/>
+	<w_phrase i="182" n="wlang_line_qmins" t="percek"/>
+	<w_phrase i="183" n="wlang_line_qmin" t="perc"/>
+	<w_phrase i="184" n="wlang_line_transport" t="&#195;&#129;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="185" n="wlang_line_tauto" t="aut&#195;&#179;mata"/>
+	<w_phrase i="186" n="wlang_line_tudp" t="udp"/>
+	<w_phrase i="187" n="wlang_line_ttcp" t="tcp"/>
+	<w_phrase i="188" n="wlang_line_ttls" t="tls"/>
+	<w_phrase i="189" n="wlang_line_ssi_offerice" t="Offer+ICE:"/>
+	<w_phrase i="190" n="wlang_line_codec" t="K&#195;&#179;dek"/>
+	<w_phrase i="191" n="wlang_line_packetsize" t="Csomag M&#195;&#169;ret:"/>
+	<w_phrase i="192" n="wlang_line_ssi_rtpencryption" t="RTP+Titkos&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="193" n="wlang_line_savebutton" t="Ment&#195;&#169;s"/>
+	<w_phrase i="194" n="wlang_update_info" t="Pontosan specifik&#195;&#161;lhat&#195;&#179;, hogy mely szoftver verzi&#195;&#179;t szeretn&#195;&#169; haszn&#195;&#161;lni ezen a telefonon. T&#195;&#182;ltse ki mez&#197;&#145;t olyan http URL-el, amely arra a firmware-re mutat, amelyet haszn&#195;&#161;lni szeretne. K&#195;&#169;rem &lt;b&gt; csak teljes http URL-t haszn&#195;&#161;ljon.&lt;/b&gt; (mint p&#195;&#169;ld&#195;&#161;ul http://www.snom.com/download/share/snomXXX-YYY.bin). A telefon &#195;&#186;jraindul, miut&#195;&#161;n megnyomta a T&#195;&#182;lt&#195;&#169;s gombot. "/>
+	<w_phrase i="195" n="wlang_update_manualsoftup" t="K&#195;&#169;zi Szoftver Friss&#195;&#173;t&#195;&#169;s:"/>
+	<w_phrase i="196" n="wlang_update_ssi_bootloader" t="Ind&#195;&#173;t&#195;&#161;sbet&#195;&#182;lt&#197;&#145;:"/>
+	<w_phrase i="197" n="wlang_update_ssi_firmware" t="Firmware: "/>
+	<w_phrase i="198" n="wlang_update_loadbutton" t="T&#195;&#182;lt&#195;&#169;s"/>
+	<w_phrase i="199" n="wlang_info_phonetype" t="Telefon t&#195;&#173;pus:"/>
+	<w_phrase i="200" n="wlang_info_macaddress" t="MAC-c&#195;&#173;m:"/>
+	<w_phrase i="201" n="wlang_info_ipaddress" t="IP-c&#195;&#173;m:"/>
+	<w_phrase i="202" n="wlang_info_application_version" t="Alkalmaz&#195;&#161;s-verzi&#195;&#179;:"/>
+	<w_phrase i="203" n="wlang_info_firmware_url" t="Firmware URL:"/>
+	<w_phrase i="204" n="wlang_info_rootfs_version" t="Rootfs-verzi&#195;&#179;:"/>
+	<w_phrase i="205" n="wlang_trace_clearbutton" t="T&#195;&#182;r&#195;&#182;l"/>
+	<w_phrase i="206" n="wlang_trace_reloadbutton" t="&#195;&#154;jrat&#195;&#182;lt"/>
+	<w_phrase i="207" n="wlang_log_level" t="Log szint"/>
+	<w_phrase i="208" n="wlang_log_savebutton" t="Ment&#195;&#169;s"/>
+	<w_phrase i="209" n="wlang_log_clearbutton" t="T&#195;&#182;r&#195;&#182;l"/>
+	<w_phrase i="210" n="wlang_advanced_network" t="H&#195;&#161;l&#195;&#179;zat:"/>
+	<w_phrase i="211" n="wlang_advanced_ssi_dhcp" t="DHCP:"/>
+	<w_phrase i="212" n="wlang_advanced_ssi_on" t="Be"/>
+	<w_phrase i="213" n="wlang_advanced_ssi_off" t="Ki"/>
+	<w_phrase i="214" n="wlang_advanced_ssi_ipaddress" t="IP+c&#195;&#173;m:"/>
+	<w_phrase i="215" n="wlang_advanced_ssi_netmask" t="Alh&#195;&#161;l&#195;&#179;zati+maszk:"/>
+	<w_phrase i="216" n="wlang_advanced_ssi_phonename" t="Szerver+n&#195;&#169;v:"/>
+	<w_phrase i="217" n="wlang_advanced_ssi_ipgateway" t="IP+&#195;&#161;tj&#195;&#161;r&#195;&#179;:"/>
+	<w_phrase i="218" n="wlang_advanced_dns" t="DNS:"/>
+	<w_phrase i="219" n="wlang_advanced_ssi_domain" t="Tartom&#195;&#161;ny:"/>
+	<w_phrase i="220" n="wlang_advanced_ssi_dnsserver1" t="DNS+szerver+1:"/>
+	<w_phrase i="221" n="wlang_advanced_ssi_dnsserver2" t="DNS+szerver+2:"/>
+	<w_phrase i="222" n="wlang_advanced_time" t="Id&#197;&#145;:"/>
+	<w_phrase i="223" n="wlang_advanced_ssi_ntptimeserver" t="NTP+id&#197;&#145;+szerver:"/>
+	<w_phrase i="224" n="wlang_advanced_timezone" t="Id&#197;&#145;z&#195;&#179;na:"/>
+	<w_phrase i="225" n="wlang_advanced_http" t="HTTP:"/>
+	<w_phrase i="226" n="wlang_advanced_ssi_user" t="Felhaszn&#195;&#161;l&#195;&#179;:"/>
+	<w_phrase i="227" n="wlang_advanced_ssi_password" t="Jelsz&#195;&#179;:"/>
+	<w_phrase i="228" n="wlang_advanced_ssi_httpproxy" t="HTTP+Proxy:"/>
+	<w_phrase i="229" n="wlang_advanced_ssi_httpport" t="HTTP+Port:"/>
+	<w_phrase i="230" n="wlang_advanced_ssi_httpsport" t="HTTPS+port:"/>
+	<w_phrase i="231" n="wlang_advanced_webservercon" t="Webszerver kapcsolat t&#195;&#173;pus:"/>
+	<w_phrase i="232" n="wlang_advanced_httponly" t="csak http"/>
+	<w_phrase i="233" n="wlang_advanced_httpsonly" t="csak https"/>
+	<w_phrase i="234" n="wlang_advanced_httphttps" t="http vagy https"/>
+	<w_phrase i="235" n="wlang_advanced_off" t="kikapcsolva"/>
+	<w_phrase i="236" n="wlang_advanced_phonebehavior" t="Telefon viselked&#195;&#169;s:"/>
+	<w_phrase i="237" n="wlang_advanced_ssi_callcompletion" t="H&#195;&#173;v&#195;&#161;s+v&#195;&#169;gz&#197;&#145;dtet&#195;&#169;s:"/>
+	<w_phrase i="238" n="wlang_advanced_ssi_idnasupport" t="IDNA+(RFC+3490)+t&#195;&#161;mogat&#195;&#161;s:"/>
+	<w_phrase i="239" n="wlang_advanced_actionethernet" t="Mi t&#195;&#182;rt&#195;&#169;njen a h&#195;&#161;l&#195;&#179;zati k&#195;&#161;bel &#195;&#186;jracsatlakoztat&#195;&#161;sakor:"/>
+	<w_phrase i="240" n="wlang_advanced_reboot" t="&#195;&#154;jraind&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="241" n="wlang_advanced_donothing" t="Semmit ne csin&#195;&#161;ljon"/>
+	<w_phrase i="242" n="wlang_advanced_autodial" t="Automatikus t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s"/>
+	<w_phrase i="243" n="wlang_advanced_after2sec" t="2 m&#195;&#161;sodperc ut&#195;&#161;n"/>
+	<w_phrase i="244" n="wlang_advanced_after5sec" t="5 m&#195;&#161;sodperc ut&#195;&#161;n"/>
+	<w_phrase i="245" n="wlang_advanced_after10sec" t="10 m&#195;&#161;sodperc ut&#195;&#161;n"/>
+	<w_phrase i="246" n="wlang_advanced_after15sec" t="15 m&#195;&#161;sodperc ut&#195;&#161;n"/>
+	<w_phrase i="247" n="wlang_advanced_ssi_numberguessing" t="Predikt&#195;&#173;v+t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s:"/>
+	<w_phrase i="248" n="wlang_advanced_ssi_blockurldialing" t="URL+t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s+blokkol&#195;&#161;sa:"/>
+	<w_phrase i="249" n="wlang_advanced_ssi_denyallfeature" t="Minden+tulajdons&#195;&#161;g+kikapcsol&#195;&#161;sa:"/>
+	<w_phrase i="250" n="wlang_advanced_ssi_challengeresponse" t="Challenge+Response+on+Phone:"/>
+	<w_phrase i="251" n="wlang_advanced_ssi_broadsoftcallcontrol" t="Broadsoft+h&#195;&#173;v&#195;&#161;s+ir&#195;&#161;ny&#195;&#173;t&#195;&#161;si+szolg&#195;&#161;ltat&#195;&#161;sok:"/>
+	<w_phrase i="252" n="wlang_advanced_ssi_callwaitingindi" t="H&#195;&#173;v&#195;&#161;s v&#195;&#161;rakoz&#195;&#161;s kijelz&#195;&#169;s:"/>
+	<w_phrase i="253" n="wlang_advanced_ssi_dialtonehold" t="T&#195;&#161;rcsahang+a+h&#195;&#173;v&#195;&#161;start&#195;&#161;s+alatt:"/>
+	<w_phrase i="254" n="wlang_advanced_ssi_disconnectonhook" t="H&#195;&#173;v&#195;&#161;smegszak&#195;&#173;t&#195;&#161;s+a+k&#195;&#169;zibesz&#195;&#169;l&#197;&#145;+let&#195;&#169;telekor:"/>
+	<w_phrase i="255" n="wlang_advanced_keys" t="Billenty&#197;&#177;k:"/>
+	<w_phrase i="256" n="wlang_advanced_ssi_breakkey" t="Sz&#195;&#188;net+billenty&#197;&#177;:"/>
+	<w_phrase i="257" n="wlang_advanced_ssi_transferonhook" t="&#195;&#129;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s+a+k&#195;&#169;zibesz&#195;&#169;l&#197;&#145;+let&#195;&#169;telekor:"/>
+	<w_phrase i="258" n="wlang_advanced_ssi_blockdnd" t="Ne+zavarj+blokkol&#195;&#161;sa:"/>
+	<w_phrase i="259" n="wlang_advanced_ssi_logonwizard" t="Bejelentkez&#195;&#169;s+var&#195;&#161;zsl&#195;&#179;:"/>
+	<w_phrase i="260" n="wlang_advanced_preselection" t="El&#197;&#145;v&#195;&#161;laszt&#195;&#161;s:"/>
+	<w_phrase i="261" n="wlang_advanced_ssi_prefix" t="K&#195;&#182;rzetsz&#195;&#161;m:"/>
+	<w_phrase i="262" n="wlang_advanced_ssi_externlineprefix" t="K&#195;&#188;ls&#197;&#145;+vonal+k&#195;&#182;rzetsz&#195;&#161;ma:"/>
+	<w_phrase i="263" n="wlang_advanced_ssi_gatewayprefix" t="&#195;&#129;tj&#195;&#161;r&#195;&#179;+k&#195;&#182;rzetsz&#195;&#161;ma:"/>
+	<w_phrase i="264" n="wlang_advanced_pbxkeycodes" t="PBX Billenty&#197;&#177;k&#195;&#179;dok:"/>
+	<w_phrase i="265" n="wlang_advanced_ssi_holdstart" t="Tart&#195;&#161;s+elkezd&#195;&#169;se"/>
+	<w_phrase i="266" n="wlang_advanced_ssi_holdend" t="Tart&#195;&#161;s+befejez&#195;&#169;se"/>
+	<w_phrase i="267" n="wlang_advanced_ssi_blindtransfer" t="Vak+&#195;&#161;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="268" n="wlang_advanced_ssi_transferwithconsult" t="&#195;&#129;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s+megbesz&#195;&#169;l&#195;&#169;ssel"/>
+	<w_phrase i="269" n="wlang_advanced_ssi_divert" t="Elt&#195;&#169;r&#195;&#173;t"/>
+	<w_phrase i="270" n="wlang_advanced_ssi_conferenceon" t="Konferencia+bekapcsol&#195;&#161;sa"/>
+	<w_phrase i="271" n="wlang_advanced_ssi_conferenceoff" t="Konferencia+kikapcsol&#195;&#161;sa"/>
+	<w_phrase i="272" n="wlang_advanced_ssi_pickup" t="Felvesz"/>
+	<w_phrase i="273" n="wlang_advanced_ssi_endsymbol" t="Befejez&#195;&#169;s+karakter"/>
+	<w_phrase i="274" n="wlang_advanced_ssi_singlecallmode" t="Egyszer&#197;&#177;+h&#195;&#173;v&#195;&#161;s+m&#195;&#179;d:"/>
+	<w_phrase i="275" n="wlang_advanced_audio" t="Audi&#195;&#179;:"/>
+	<w_phrase i="276" n="wlang_advanced_ssi_mutemicrophone" t="Mikrofon n&#195;&#169;m&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="277" n="wlang_advanced_ssi_disablecasingspeaker" t="Kihangos&#195;&#173;t&#195;&#161;s+kikapcsol&#195;&#161;sa:"/>
+	<w_phrase i="278" n="wlang_advanced_ssi_dtmfechospeaker" t="DTMF+t&#195;&#161;rcsahangok+bekapcsol&#195;&#161;sa+t&#195;&#161;rcs&#195;&#161;z&#195;&#161;skor:"/>
+	<w_phrase i="279" n="wlang_advanced_ssi_callreleasednotify" t="H&#195;&#173;v&#195;&#161;s+megszak&#195;&#173;t&#195;&#161;s+&#195;&#169;rtes&#195;&#173;t&#195;&#169;s:"/>
+	<w_phrase i="280" n="wlang_advanced_advancednetwork" t="Speci&#195;&#161;lis h&#195;&#161;l&#195;&#179;zati be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="281" n="wlang_advanced_natdetection" t="NAT felismer&#195;&#169;s:"/>
+	<w_phrase i="282" n="wlang_advanced_ndautomatic" t="Automata"/>
+	<w_phrase i="283" n="wlang_advanced_ndupnp" t="UPnP"/>
+	<w_phrase i="284" n="wlang_advanced_ndstun" t="STUN"/>
+	<w_phrase i="285" n="wlang_advanced_ndstatic" t="Statikus"/>
+	<w_phrase i="286" n="wlang_line_ssi_stunserver" t="STUN+szerver+(IP c&#195;&#173;m:port):"/>
+	<w_phrase i="287" n="wlang_line_ssi_keepaliveint" t="Keepalive+intervallum+(mp):"/>
+	<w_phrase i="288" n="wlang_advanced_ssi_usemappedaddress" t="Mapped+c&#195;&#173;m+haszn&#195;&#161;lata:"/>
+	<w_phrase i="289" n="wlang_advanced_ssi_dynamicrtpstart" t="Dinamikus+RTP+els&#197;&#145;+port:"/>
+	<w_phrase i="290" n="wlang_advanced_ssi_dynamicrtpstop" t="Dinamikus+RTP+utols&#195;&#179;+port:"/>
+	<w_phrase i="291" n="wlang_advanced_ssi_typeofservice" t="RTP+TOS:"/>
+	<w_phrase i="292" n="wlang_advanced_ssi_payloadtype" t="DTMF+&#195;&#161;tvitel:"/>
+	<w_phrase i="293" n="wlang_advanced_ssi_networkidenthost" t="H&#195;&#161;l&#195;&#179;zati+azonos&#195;&#173;t&#195;&#179;+(hostn&#195;&#169;v):"/>
+	<w_phrase i="294" n="wlang_advanced_ssi_networkidentport" t="H&#195;&#161;l&#195;&#179;zati+azonos&#195;&#173;t&#195;&#179;+(port):"/>
+	<w_phrase i="295" n="wlang_advanced_ssi_sipt1" t="SIP+T1+(mp):"/>
+	<w_phrase i="296" n="wlang_advanced_ssi_sipsessiontimer" t="SIP+Session+id&#197;&#145;z&#195;&#173;t&#197;&#145;+(mp):"/>
+	<w_phrase i="297" n="wlang_advanced_ssi_sipdirtyhostttl" t="SIP+Dirty+Host+TTL+(mp):"/>
+	<w_phrase i="298" n="wlang_advanced_ssi_sipmaxforward" t="SIP+Maximum+tov&#195;&#161;bb&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="299" n="wlang_advanced_ssi_enumsuffix" t="ENUM+ut&#195;&#179;tag:"/>
+	<w_phrase i="300" n="wlang_advanced_ssi_musiconholdserver" t="Music+on+hold+szerver:"/>
+	<w_phrase i="301" n="wlang_advanced_ssi_useuserphone" t="User=phone+haszn&#195;&#161;lata:"/>
+	<w_phrase i="302" n="wlang_advanced_ssi_publishpresence" t="Telefon+&#195;&#161;llaport+publik&#195;&#161;l&#195;&#161;sa:"/>
+	<w_phrase i="303" n="wlang_advanced_ssi_refertobrackets" t="Refer-To+Brackets:"/>
+	<w_phrase i="304" n="wlang_advanced_ssi_requireprack" t="PRACK+sz&#195;&#188;ks&#195;&#169;ges:"/>
+	<w_phrase i="305" n="wlang_advanced_ssi_symmetricrtp" t="Szimmetrikus+RTP:"/>
+	<w_phrase i="306" n="wlang_advanced_update" t="Friss&#195;&#173;t&#195;&#169;s:"/>
+	<w_phrase i="307" n="wlang_advanced_updatepolicy" t="Friss&#195;&#173;t&#195;&#169;si szab&#195;&#161;ly:"/>
+	<w_phrase i="308" n="wlang_advanced_upautomatically" t="Friss&#195;&#173;t&#195;&#169;s automatikusan"/>
+	<w_phrase i="309" n="wlang_advanced_upaskupdate" t="K&#195;&#169;rdezzen r&#195;&#161; a friss&#195;&#173;t&#195;&#169;sre"/>
+	<w_phrase i="310" n="wlang_advanced_upaskupdatebootloader" t="Csak a bootloader friss&#195;&#173;t&#195;&#169;s&#195;&#169;re k&#195;&#169;rdezzen r&#195;&#161;"/>
+	<w_phrase i="311" n="wlang_advanced_upaskupdatefirmware" t="Csak a firmware friss&#195;&#173;t&#195;&#169;s&#195;&#169;re k&#195;&#169;rdezzen r&#195;&#161;"/>
+	<w_phrase i="312" n="wlang_advanced_upneverupdatesetting" t="Sose friss&#195;&#173;tsen, csak a be&#195;&#161;ll&#195;&#173;t&#195;&#161;sokat t&#195;&#182;ltse be"/>
+	<w_phrase i="313" n="wlang_advanced_upneverupdatenosetting" t="Sose friss&#195;&#173;tsen, a be&#195;&#161;ll&#195;&#173;t&#195;&#161;sokat ne t&#195;&#182;ltse be"/>
+	<w_phrase i="314" n="wlang_advanced_ssi_settingurl" t="URL+be&#195;&#161;ll&#195;&#173;t&#195;&#161;sa:"/>
+	<w_phrase i="315" n="wlang_advanced_ssi_subscribe_config" t="Subscribe+konfigur&#195;&#161;ci&#195;&#179;:"/>
+	<w_phrase i="316" n="wlang_advanced_vlaninfo" t="VLAN ID (0..4095) &#195;&#169;s Priorit&#195;&#161;s (0..7)&lt;br&gt;sz&#195;&#179;k&#195;&#182;zzel elv&#195;&#161;lasztva (pl.: &apos;128 5&apos;):"/>
+	<w_phrase i="317" n="wlang_advanced_ssi_idpriority" t="ID+&#195;&#169;s+Priorit&#195;&#161;s:"/>
+	<w_phrase i="318" n="wlang_advanced_debug" t="Hibakeres&#195;&#169;s:"/>
+	<w_phrase i="319" n="wlang_advanced_ssi_lcserver" t="LCSzerver:"/>
+	<w_phrase i="320" n="wlang_advanced_resetbutton" t="Gy&#195;&#161;ri konfigur&#195;&#161;ci&#195;&#179; bet&#195;&#182;lt&#195;&#169;se"/>
+	<w_phrase i="321" n="wlang_advanced_rebootbutton" t="&#195;&#154;jraind&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="322" n="wlang_advanced_security" t="Biztons&#195;&#161;g:"/>
+	<w_phrase i="323" n="wlang_advanced_ssi_adminmode" t="Adminisztr&#195;&#161;tor+m&#195;&#179;d:"/>
+	<w_phrase i="324" n="wlang_advanced_ssi_adminpassword" t="Adminisztr&#195;&#161;tor+jelsz&#195;&#179;:"/>
+	<w_phrase i="325" n="wlang_advanced_ssi_adminpassconf" t="Adminisztr&#195;&#161;tor+jelsz&#195;&#179;+(meger&#197;&#145;s&#195;&#173;t&#195;&#169;s):"/>
+	<w_phrase i="326" n="wlang_advanced_ssi_adminlogin" t="Adminisztr&#195;&#161;tor+Bel&#195;&#169;p&#195;&#169;s:"/>
+	<w_phrase i="327" n="wlang_advanced_savebutton" t="Ment&#195;&#169;s"/>
+	<w_phrase i="328" n="wlang_advanced_tmz_USAm10" t="-10 Egyes&#195;&#188;lt &#195;&#129;llamok - Hawaii-Aleutian"/>
+	<w_phrase i="329" n="wlang_advanced_tmz_USAm9" t="-9 Egyes&#195;&#188;lt &#195;&#129;llamok - Alaszkai Id&#197;&#145;"/>
+	<w_phrase i="330" n="wlang_advanced_tmz_CANm8" t="-8 Kanada (Vancouver, Whitehorse)"/>
+	<w_phrase i="331" n="wlang_advanced_tmz_MEXm8" t="-8 Mexik&#195;&#179; (Tijuana, Mexicali)"/>
+	<w_phrase i="332" n="wlang_advanced_tmz_USAm8" t="-8 Egyes&#195;&#188;lt &#195;&#129;llamok - Pacific Time"/>
+	<w_phrase i="333" n="wlang_advanced_tmz_CANm7" t="-7 Kanada (Edmonton, Calgary)"/>
+	<w_phrase i="334" n="wlang_advanced_tmz_MEXm7" t="-7 Mexik&#195;&#179; (Mazatlan, Chihuahua)"/>
+	<w_phrase i="335" n="wlang_advanced_tmz_USAm7" t="-7 Egyes&#195;&#188;lt &#195;&#129;llamok - Mountain Time"/>
+	<w_phrase i="336" n="wlang_advanced_tmz_CANm6" t="-6 Kanada - Manitoba (Winnipeg)"/>
+	<w_phrase i="337" n="wlang_advanced_tmz_CHLm6" t="-6 Cs&#195;&#173;le (Easter Islands)"/>
+	<w_phrase i="338" n="wlang_advanced_tmz_MEXm6" t="-6 Mexik&#195;&#179; (Mexico City, Acapulco)"/>
+	<w_phrase i="339" n="wlang_advanced_tmz_USAm6" t="-6 Egyes&#195;&#188;lt &#195;&#129;llamok - Central Time"/>
+	<w_phrase i="340" n="wlang_advanced_tmz_BHSm5" t="-5 Baham&#195;&#161;k (Nassau)"/>
+	<w_phrase i="341" n="wlang_advanced_tmz_CANm5" t="-5 Kanada (Montreal, Ottawa, Quebec)"/>
+	<w_phrase i="342" n="wlang_advanced_tmz_CUBm5" t="-5 Kuba (Havana)"/>
+	<w_phrase i="343" n="wlang_advanced_tmz_USAm5" t="-5 Egyes&#195;&#188;lt &#195;&#129;llamok - Eastern Time"/>
+	<w_phrase i="344" n="wlang_advanced_tmz_CANm4" t="-4 Kanada (Halifax, Saint John)"/>
+	<w_phrase i="345" n="wlang_advanced_tmz_CHLm4" t="-4 Cs&#195;&#173;le (Santiago)"/>
+	<w_phrase i="346" n="wlang_advanced_tmz_PRYm4" t="-4 Paraguay (Asun&amp;ccedil;ion)"/>
+	<w_phrase i="347" n="wlang_advanced_tmz_BMUm4" t="-4 Egyes&#195;&#188;lt Kir&#195;&#161;lys&#195;&#161;g - Bermuda (Bermuda)"/>
+	<w_phrase i="348" n="wlang_advanced_tmz_FLKm4" t="-4 Egyes&#195;&#188;lt Kir&#195;&#161;lys&#195;&#161;g (Falkland Islands)"/>
+	<w_phrase i="349" n="wlang_advanced_tmz_CANm35" t="-3.5 Kanada - New Foundland (St. Johns)"/>
+	<w_phrase i="350" n="wlang_advanced_tmz_GRLm3" t="-3 D&#195;&#161;nia - Greenland (Nuuk)"/>
+	<w_phrase i="351" n="wlang_advanced_tmz_PRTm1" t="-1 Portug&#195;&#161;lia (Azores)"/>
+	<w_phrase i="352" n="wlang_advanced_tmz_FROm0" t="0 D&#195;&#161;nia - Faroe Islands (Torshaven)"/>
+	<w_phrase i="353" n="wlang_advanced_tmz_IRLm0" t="0 &#195;&#141;rorsz&#195;&#161;g (Dublin)"/>
+	<w_phrase i="354" n="wlang_advanced_tmz_PRTm0" t="0 Portug&#195;&#161;lia (Lisboa, Porto, Funchal)"/>
+	<w_phrase i="355" n="wlang_advanced_tmz_ESPm0" t="0 Spanyolorsz&#195;&#161;g - Canary Islands (Las Palmas)"/>
+	<w_phrase i="356" n="wlang_advanced_tmz_GBRm0" t="0 Egyes&#195;&#188;lt Kir&#195;&#161;lys&#195;&#161;g (London)"/>
+	<w_phrase i="357" n="wlang_advanced_tmz_ALBp1" t="+1 Alb&#195;&#161;nia (Tirane)"/>
+	<w_phrase i="358" n="wlang_advanced_tmz_AUTp1" t="+1 Ausztria (B&#195;&#169;cs)"/>
+	<w_phrase i="359" n="wlang_advanced_tmz_BELp1" t="+1 Belgium (Br&#195;&#188;sszel)"/>
+	<w_phrase i="360" n="wlang_advanced_tmz_CAIp1" t="+1 Caicos"/>
+	<w_phrase i="361" n="wlang_advanced_tmz_CHAp1" t="+1 Chatam"/>
+	<w_phrase i="362" n="wlang_advanced_tmz_HRVp1" t="+1 Horv&#195;&#161;torsz&#195;&#161;g (Z&#195;&#161;gr&#195;&#161;b)"/>
+	<w_phrase i="363" n="wlang_advanced_tmz_CZEp1" t="+1 Csehorsz&#195;&#161;g (Pr&#195;&#161;ga)"/>
+	<w_phrase i="364" n="wlang_advanced_tmz_DNKp1" t="+1 D&#195;&#161;nia (Koppenh&#195;&#161;ga)"/>
+	<w_phrase i="365" n="wlang_advanced_tmz_FRAp1" t="+1 Franciaorsz&#195;&#161;g (Nizza)"/>
+	<w_phrase i="366" n="wlang_advanced_tmz_GERp1" t="+1 N&#195;&#169;metorsz&#195;&#161;g (Berlin)"/>
+	<w_phrase i="367" n="wlang_advanced_tmz_HUNp1" t="+1 Magyarorsz&#195;&#161;g (Budapest)"/>
+	<w_phrase i="368" n="wlang_advanced_tmz_ITAp1" t="+1 Olaszorsz&#195;&#161;g (R&#195;&#179;ma)"/>
+	<w_phrase i="369" n="wlang_advanced_tmz_LUXp1" t="+1 Luxembourg (Luxembourg)"/>
+	<w_phrase i="370" n="wlang_advanced_tmz_MAKp1" t="+1 Maked&#195;&#179;nia (Skopje)"/>
+	<w_phrase i="371" n="wlang_advanced_tmz_NLDp1" t="+1 Hollandia (Amszterdam)"/>
+	<w_phrase i="372" n="wlang_advanced_tmz_NAMp1" t="+1 Nam&#195;&#173;bia (Windhoek)"/>
+	<w_phrase i="373" n="wlang_advanced_tmz_NORp1" t="+1 Norv&#195;&#169;gia (Oslo)"/>
+	<w_phrase i="374" n="wlang_advanced_tmz_POLp1" t="+1 Lengyelorsz&#195;&#161;g (Vars&#195;&#179;)"/>
+	<w_phrase i="375" n="wlang_advanced_tmz_SVKp1" t="+1 Szlov&#195;&#161;kia (Pozsony)"/>
+	<w_phrase i="376" n="wlang_advanced_tmz_ESPp1" t="+1 Spanyolorsz&#195;&#161;g (Madrid, Palma)"/>
+	<w_phrase i="377" n="wlang_advanced_tmz_SWEp1" t="+1 Sv&#195;&#169;dorsz&#195;&#161;g (Stockholm)"/>
+	<w_phrase i="378" n="wlang_advanced_tmz_CHEp1" t="+1 Sv&#195;&#161;jc (Bern)"/>
+	<w_phrase i="379" n="wlang_advanced_tmz_GIBp1" t="+1 Egyes&#195;&#188;lt Kir&#195;&#161;lys&#195;&#161;g (Gibraltar)"/>
+	<w_phrase i="380" n="wlang_advanced_tmz_YUGp1" t="+1 Szerbia Montenegro (Belgr&#195;&#161;d)"/>
+	<w_phrase i="381" n="wlang_advanced_tmz_BLRp2" t="+2 Feh&#195;&#169;roroszorsz&#195;&#161;g (Minszk)"/>
+	<w_phrase i="382" n="wlang_advanced_tmz_BGRp2" t="+2 Bulg&#195;&#161;ria (Sofia)"/>
+	<w_phrase i="383" n="wlang_advanced_tmz_CYPp2" t="+2 Ciprus (Nicosia)"/>
+	<w_phrase i="384" n="wlang_advanced_tmz_EGYp2" t="+2 Egyiptom (Cairo)"/>
+	<w_phrase i="385" n="wlang_advanced_tmz_ESTp2" t="+2 &#195;&#137;sztorsz&#195;&#161;g (Tallinn)"/>
+	<w_phrase i="386" n="wlang_advanced_tmz_FINp2" t="+2 Finnorsz&#195;&#161;g (Helsinki)"/>
+	<w_phrase i="387" n="wlang_advanced_tmz_GAZp2" t="+2 G&#195;&#161;zai &#195;&#150;vezet (Gaza)"/>
+	<w_phrase i="388" n="wlang_advanced_tmz_GRCp2" t="+2 G&#195;&#182;r&#195;&#182;gorsz&#195;&#161;g (At&#195;&#169;n)"/>
+	<w_phrase i="389" n="wlang_advanced_tmz_ISRp2" t="+2 Izrael (Tel Aviv)"/>
+	<w_phrase i="390" n="wlang_advanced_tmz_JORp2" t="+2 Jord&#195;&#161;nia (Amman)"/>
+	<w_phrase i="391" n="wlang_advanced_tmz_LVAp2" t="+2 Lettorsz&#195;&#161;g (Riga)"/>
+	<w_phrase i="392" n="wlang_advanced_tmz_LBNp2" t="+2 Libanon (Beirut)"/>
+	<w_phrase i="393" n="wlang_advanced_tmz_MDAp2" t="+2 Moldova (Kishinev)"/>
+	<w_phrase i="394" n="wlang_advanced_tmz_RUSp2" t="+2 Oroszorsz&#195;&#161;g (Kaliningrad)"/>
+	<w_phrase i="395" n="wlang_advanced_tmz_ROUp2" t="+2 Rom&#195;&#161;nia (Bukarest)"/>
+	<w_phrase i="396" n="wlang_advanced_tmz_SYRp2" t="+2 Sz&#195;&#173;ria (Damascus)"/>
+	<w_phrase i="397" n="wlang_advanced_tmz_TURp2" t="+2 T&#195;&#182;r&#195;&#182;korsz&#195;&#161;g (Ankara)"/>
+	<w_phrase i="398" n="wlang_advanced_tmz_UKRp2" t="+2 Ukrajna (Kyiv, Odessa)"/>
+	<w_phrase i="399" n="wlang_advanced_tmz_IRQp3" t="+3 Irak (Baghdad)"/>
+	<w_phrase i="400" n="wlang_advanced_tmz_RUSp3" t="+3 Oroszorsz&#195;&#161;g (Moszkva)"/>
+	<w_phrase i="401" n="wlang_advanced_tmz_IRNp35" t="+3.5 Ir&#195;&#161;n (Teheran)"/>
+	<w_phrase i="402" n="wlang_advanced_tmz_ARMp4" t="+4 &#195;&#150;rm&#195;&#169;nyorsz&#195;&#161;g (Jerev&#195;&#161;n)"/>
+	<w_phrase i="403" n="wlang_advanced_tmz_AZEp4" t="+4 Azerbajdzs&#195;&#161;n (Baku)"/>
+	<w_phrase i="404" n="wlang_advanced_tmz_GEOp4" t="+4 Gr&#195;&#186;zia (Tbiliszi)"/>
+	<w_phrase i="405" n="wlang_advanced_tmz_KAZp4" t="+4 Kazahszt&#195;&#161;n (Aqtau)"/>
+	<w_phrase i="406" n="wlang_advanced_tmz_RUSp4" t="+4 Oroszorsz&#195;&#161;g (Samara)"/>
+	<w_phrase i="407" n="wlang_advanced_tmz_KAZp5" t="+5 Kazahszt&#195;&#161;n (Aqtobe)"/>
+	<w_phrase i="408" n="wlang_advanced_tmz_KGZp5" t="+5 Kirgiziszt&#195;&#161;n (Bishkek)"/>
+	<w_phrase i="409" n="wlang_advanced_tmz_PAKp5" t="+5 Pakiszt&#195;&#161;n (Islamabad)"/>
+	<w_phrase i="410" n="wlang_advanced_tmz_RUSp5" t="+5 Oroszorsz&#195;&#161;g (Chelyabinsk)"/>
+	<w_phrase i="411" n="wlang_advanced_tmz_INDp55" t="+5.5 India (Kalkutta)"/>
+	<w_phrase i="412" n="wlang_advanced_tmz_KAZp6" t="+6 Kazahszt&#195;&#161;n (Astana, Almaty)"/>
+	<w_phrase i="413" n="wlang_advanced_tmz_RUSp6" t="+6 Oroszorsz&#195;&#161;g (Novosibirsk, Omsk)"/>
+	<w_phrase i="414" n="wlang_advanced_tmz_CHNp7" t="+8 K&#195;&#173;na (Peking)"/>
+	<w_phrase i="415" n="wlang_advanced_tmz_RUSp7" t="+7 Oroszorsz&#195;&#161;g (Krasnoyarsk)"/>
+	<w_phrase i="416" n="wlang_advanced_tmz_THAp7" t="+7 Thaif&#195;&#182;ld (Bangkok)"/>
+	<w_phrase i="417" n="wlang_advanced_tmz_SGPp8" t="+8 Szingap&#195;&#186;r (Singapore)"/>
+	<w_phrase i="418" n="wlang_advanced_tmz_KORp8" t="+8 Korea (Seoul)"/>
+	<w_phrase i="419" n="wlang_advanced_tmz_JPNp9" t="+9 Jap&#195;&#161;n (Tokyo)"/>
+	<w_phrase i="420" n="wlang_advanced_tmz_AUSp95" t="+9.5 Ausztr&#195;&#161;lia (Adelaide)"/>
+	<w_phrase i="421" n="wlang_advanced_tmz_AUSp10" t="+10 Ausztr&#195;&#161;lia (Sydney, Melbourne, Canberra)"/>
+	<w_phrase i="422" n="wlang_advanced_tmz_AUS2p10" t="+10 Ausztr&#195;&#161;lia (Brisbane)"/>
+	<w_phrase i="423" n="wlang_advanced_tmz_RUSp10" t="+10 Oroszorsz&#195;&#161;g (Vlagyivosztok)"/>
+	<w_phrase i="424" n="wlang_advanced_tmz_AUSp105" t="+10.5 Ausztr&#195;&#161;lia (Lord Howe Islands)"/>
+	<w_phrase i="425" n="wlang_advanced_tmz_NZLp12" t="+12 &#195;&#154;j Z&#195;&#169;land (Wellington, Auckland)"/>
+	<w_phrase i="426" n="wlang_advanced_tmz_RUSp12" t="+12 Oroszorsz&#195;&#161;g (Anadyr, Kamchatka)"/>
+	<w_phrase i="427" n="wlang_advanced_tmz_NZLp1275" t="+12.75 &#195;&#154;j Z&#195;&#169;land (Chatham Islands)"/>
+	<w_phrase i="428" n="wlang_advanced_tmz_TONp13" t="+13 Tonga (Nukualofa)"/>
+	<w_phrase i="429" n="wlang_adr_ssi_title" t=""/>
+	<w_phrase i="430" n="wlang_advanced_ssi_title" t="Speci&#195;&#161;lis+Be&#195;&#161;ll&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="431" n="wlang_fkeys_ssi_title" t="Funkci&#195;&#179;+Billenty&#197;&#177;k"/>
+	<w_phrase i="432" n="wlang_index_ssi_title" t="&#195;&#156;dv&#195;&#182;zli+&#195;&#150;nt+a+telefon"/>
+	<w_phrase i="433" n="wlang_info_ssi_title" t="Rendszer+Inform&#195;&#161;ci&#195;&#179;"/>
+	<w_phrase i="434" n="wlang_line1_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 1 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="435" n="wlang_line2_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 2 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="436" n="wlang_line3_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 3 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="437" n="wlang_line4_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 4 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="438" n="wlang_line5_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 5 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="439" n="wlang_line6_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 6 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="440" n="wlang_line7_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 7 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="441" n="wlang_line8_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 8 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="442" n="wlang_line9_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 9 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="443" n="wlang_line10_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 10 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="444" n="wlang_line11_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 11 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="445" n="wlang_line12_ssi_title" t="Azonos&#195;&#173;t&#195;&#179; 12 konfigur&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="446" n="wlang_log_ssi_title" t="Rendszer+Log"/>
+	<w_phrase i="447" n="wlang_memstat_ssi_title" t="Mem&#195;&#179;ria+Inform&#195;&#161;ci&#195;&#179;"/>
+	<w_phrase i="448" n="wlang_prefs_ssi_title" t="Tulajdons&#195;&#161;gok"/>
+	<w_phrase i="449" n="wlang_settings_ssi_title" t="Be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok"/>
+	<w_phrase i="450" n="wlang_speed_ssi_title" t="Gyors+T&#195;&#161;rcs&#195;&#161;z&#195;&#161;s"/>
+	<w_phrase i="451" n="wlang_sip_trace_ssi_title" t="SIP+Trace"/>
+	<w_phrase i="452" n="wlang_update_ssi_title" t="K&#195;&#169;zi+Szoftver+friss&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="453" n="wlang_upnp_ssi_title" t="UPnP+Trace"/>
+	<w_phrase i="454" n="wlang_advanced_ssi_use_nw_port" t="Helyi SIP port"/>
+	<w_phrase i="455" n="wlang_advanced_ssi_use_nw_port_nw" t="H&#195;&#161;l&#195;&#179;zati port"/>
+	<w_phrase i="456" n="wlang_advanced_ssi_use_nw_port_default" t="Alap&#195;&#169;rtelmezett SIP port"/>
+	<w_phrase i="457" n="wlang_adr_preview_name" t="N&#195;&#169;v"/>
+	<w_phrase i="458" n="wlang_adr_preview_number" t="Telefonsz&#195;&#161;m"/>
+	<w_phrase i="459" n="wlang_adr_preview_reading" t="Olvasott"/>
+	<w_phrase i="460" n="wlang_adr_preview_contact_type" t="Kapcsolat t&#195;&#173;pus"/>
+	<w_phrase i="461" n="wlang_adr_preview_ignore" t="Elvet"/>
+	<w_phrase i="462" n="wlang_adr_file_type" t="F&#195;&#161;jlt&#195;&#173;pus:"/>
+	<w_phrase i="463" n="wlang_adr_first_line" t="Els&#197;&#145; sor:"/>
+	<w_phrase i="464" n="wlang_adr_with_header" t="Fejl&#195;&#169;ccel"/>
+	<w_phrase i="465" n="wlang_adr_without_header" t="Fejl&#195;&#169;c n&#195;&#169;lk&#195;&#188;l"/>
+	<w_phrase i="466" n="wlang_adr_load_file" t="Bet&#195;&#182;lt&#195;&#169;s f&#195;&#161;jlb&#195;&#179;l:"/>
+	<w_phrase i="467" n="wlang_adr_file_csv" t="CSV f&#195;&#161;jl: "/>
+	<w_phrase i="468" n="wlang_adr_file_csv_jis" t="CSV f&#195;&#161;jl, Shift-JIS"/>
+	<w_phrase i="469" n="wlang_adr_file_unicode" t="Unicode Tabul&#195;&#161;torral elv&#195;&#161;lasztott"/>
+	<w_phrase i="470" n="wlang_adr_save_preview_button" t="Ment&#195;&#169;s"/>
+	<w_phrase i="471" n="wlang_adr_prev_ssi_title" t="Import&#195;&#161;l&#195;&#161;s el&#197;&#145;n&#195;&#169;zete"/>
+	<w_phrase i="472" n="wlang_adr_prev_description" t="K&#195;&#169;rem ellen&#197;&#145;rizze le a telefonk&#195;&#182;nyv mez&#197;&#145;inek az oszlopokhoz val&#195;&#179; illeszked&#195;&#169;s&#195;&#169;t, majd ha k&#195;&#169;szen van, nyomja meg a ment&#195;&#169;s gombot. "/>
+	<w_phrase i="473" n="wlang_adr_prev_apply" t=""/>
+	<w_phrase i="474" n="wlang_advanced_ssi_http_register" t="HTTP kapcsolat regisztr&#195;&#161;l&#195;&#161;sa"/>
+	<w_phrase i="475" n="wlang_advanced_ssi_auth_scheme" t="Azonos&#195;&#173;t&#195;&#161;si s&#195;&#169;ma"/>
+	<w_phrase i="476" n="wlang_advanced_ssi_digest" t="Digest"/>
+	<w_phrase i="477" n="wlang_advanced_ssi_basic" t="Alap"/>
+	<w_phrase i="478" n="wlang_not_supported" t="(Ebben a szoftver verzi&#195;&#179;ban nem t&#195;&#161;mogatott.)"/>
+	<w_phrase i="479" n="wlang_advanced_ssi_callpickup_dialoginfo" t="Dialog-Info Call Pickup:"/>
+	<w_phrase i="480" n="wlang_advanced_ssi_pcap_trace" t="PCAP Trace:"/>
+	<w_phrase i="481" n="wlang_advanced_save_pcap_part1" t="Kattintson"/>
+	<w_phrase i="482" n="wlang_advanced_herelink" t="ide"/>
+	<w_phrase i="483" n="wlang_advanced_save_pcap_part2" t="a jelenlegi PCAP trace elment&#195;&#169;s&#195;&#169;hez. "/>
+	<w_phrase i="484" n="wlang_advanced_ssi_offer_gruu" t="Offer GRUU:"/>
+	<w_phrase i="485" n="wlang_line_e164_num" t="E.164 Number:"/>
+	<w_phrase i="486" n="wlang_line_h323_id" t="H.323 Azonos&#195;&#173;t&#195;&#179;:"/>
+	<w_phrase i="487" n="wlang_line_url_id" t="URL Azonos&#195;&#173;t&#195;&#179;"/>
+	<w_phrase i="488" n="wlang_line_gkgw_domain" t="GK /GW Tartom&#195;&#161;ny:"/>
+	<w_phrase i="489" n="wlang_line_gkgw_mode" t="GK /GW M&#195;&#179;d:"/>
+	<w_phrase i="490" n="wlang_line_gatekeeper" t="Gatekeeper"/>
+	<w_phrase i="491" n="wlang_line_gateway" t="&#195;&#129;tj&#195;&#161;r&#195;&#179;"/>
+	<w_phrase i="492" n="wlang_line_auto" t="Automata"/>
+	<w_phrase i="493" n="wlang_line_none" t="Nincs"/>
+	<w_phrase i="494" n="wlang_line_gk_ttl" t="GK TTL:"/>
+	<w_phrase i="495" n="wlang_line_msg_ctr_num" t="&#195;&#156;zenet k&#195;&#182;zpont sz&#195;&#161;ma:"/>
+	<w_phrase i="496" n="wlang_line_fast_start" t="Gyors Ind&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="497" n="wlang_line_early_start" t="Korai Ind&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="498" n="wlang_line_h245_tunneling" t="H.245 Tunneling:"/>
+	<w_phrase i="499" n="wlang_line_h450_services" t="H.450 Szolg&#195;&#161;ltat&#195;&#161;sok:"/>
+	<w_phrase i="500" n="wlang_line_external_line_prefix" t="K&#195;&#188;ls&#197;&#145; vonali k&#195;&#182;rzetsz&#195;&#161;m:"/>
+	<w_phrase i="501" n="wlang_line_gateway_prefix" t="Gateway k&#195;&#182;rzetsz&#195;&#161;m:"/>
+	<w_phrase i="502" n="wlang_advanced_ssi_offer_mpo" t="Offer MPO:"/>
+	<w_phrase i="503" n="wlang_leftnav_h323_settings" t="H323 be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="504" n="wlang_leftnav_h323trace" t="H323 Trace"/>
+	<w_phrase i="505" n="wlang_h323_trace_ssi_title" t="H323+Trace"/>
+	<w_phrase i="506" n="wlang_advanced_ssi_cmc_feature" t="CMC Tulajdons&#195;&#161;g:"/>
+	<w_phrase i="507" n="wlang_advanced_ssi_challenge_reboot" t="Azonos&#195;&#173;t&#195;&#161;s SIP &#195;&#186;jraindul&#195;&#161;skor"/>
+	<w_phrase i="508" n="wlang_advanced_ssi_challenge_checksync" t="Azonos&#195;&#173;t&#195;&#161;s SIP Check-Sync-kor:"/>
+	<w_phrase i="509" n="wlang_dns_ssi_title" t="DNS+Cache"/>
+	<w_phrase i="510" n="wlang_h323_settings_ssi_title" t="H323+Be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok"/>
+	<w_phrase i="511" n="wlang_pcap_trace_ssi_title" t="PCAP+Trace"/>
+	<w_phrase i="512" n="wlang_pcap_text" t="A h&#195;&#161;l&#195;&#179;zati forgalom figyel&#195;&#169;s&#195;&#169;hez ezen az oldalon PCAP f&#195;&#161;jlokat gener&#195;&#161;lhat. Ezek a f&#195;&#161;jlok k&#195;&#188;l&#195;&#182;nb&#195;&#182;z&#197;&#145; h&#195;&#161;l&#195;&#179;zati eszk&#195;&#182;z&#195;&#182;kkel olvashat&#195;&#179;k, mint p&#195;&#169;ld&#195;&#161;ul a Wireshark. A figyel&#195;&#169;s elkezd&#195;&#169;s&#195;&#169;hez kattintson a Start gombra, befejez&#195;&#169;s&#195;&#169;hez a Stop gombra. K&#195;&#169;rem figyeljen arra, hogy az adatok egy k&#195;&#182;rk&#195;&#182;r&#195;&#182;s pufferben vannak elt&#195;&#161;rolva (a t&#195;&#186;lcsordul&#195;&#161;s elker&#195;&#188;l&#195;&#169;se &#195;&#169;rdek&#195;&#169;ben) &#195;&#169;s a figyel&#195;&#169;s negat&#195;&#173;v hat&#195;&#161;ssal lehet a telefon teljes&#195;&#173;tm&#195;&#169;ny&#195;&#169;re. "/>
+	<w_phrase i="513" n="wlang_prefs_ssi_use_backlight" t="H&#195;&#161;tt&#195;&#169;rvil&#195;&#161;g&#195;&#173;t&#195;&#161;s haszn&#195;&#161;lata:"/>
+	<w_phrase i="514" n="wlang_advanced_ssi_moh_streaming_url" t="H&#195;&#173;v&#195;&#161;start&#195;&#161;s+zene+URL:"/>
+	<w_phrase i="515" n="wlang_leftnav_action" t="Funkci&#195;&#179; URL be&#195;&#161;ll&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="516" n="wlang_action_ssi_title" t="Funkci&#195;&#179;+URL+be&#195;&#161;ll&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="517" n="wlang_action_settings" t="Funkci&#195;&#179; URL be&#195;&#161;ll&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="518" n="wlang_action_ssi_dnd_on" t="DND+be:"/>
+	<w_phrase i="519" n="wlang_action_ssi_dnd_off" t="DND+ki:"/>
+	<w_phrase i="520" n="wlang_action_ssi_redirection_on" t="H&#195;&#173;v&#195;&#161;s+tov&#195;&#161;bb&#195;&#173;t&#195;&#161;s+be:"/>
+	<w_phrase i="521" n="wlang_action_ssi_redirection_off" t="H&#195;&#173;v&#195;&#161;s+tov&#195;&#161;bb&#195;&#173;t&#195;&#161;s+ki:"/>
+	<w_phrase i="522" n="wlang_action_ssi_incoming" t="Bej&#195;&#182;v&#197;&#145;+h&#195;&#173;v&#195;&#161;s:"/>
+	<w_phrase i="523" n="wlang_action_ssi_outgoing" t="Kimen&#197;&#145;+h&#195;&#173;v&#195;&#161;s:"/>
+	<w_phrase i="524" n="wlang_action_ssi_setup" t="Be&#195;&#161;ll&#195;&#173;t&#195;&#161;s+befejez&#197;&#145;d&#195;&#182;tt:"/>
+	<w_phrase i="525" n="wlang_action_ssi_offhook" t="K&#195;&#169;zibesz&#195;&#169;l&#197;&#145;+felemel&#195;&#169;sekor+be:"/>
+	<w_phrase i="526" n="wlang_action_ssi_onhook" t="K&#195;&#169;zibesz&#195;&#169;l&#197;&#145;+let&#195;&#169;telekor+be:"/>
+	<w_phrase i="527" n="wlang_leftnav_radcom" t="Automata Visszaj&#195;&#161;tsz&#195;&#161;s/id&#197;&#145;z&#195;&#173;t&#195;&#169;s"/>
+	<w_phrase i="528" n="wlang_radcom_ssi_title" t="Automata Visszaj&#195;&#161;tsz&#195;&#161;s/id&#197;&#145;z&#195;&#173;t&#195;&#169;s"/>
+	<w_phrase i="529" n="wlang_playback_ssi_settings" t="Automata visszaj&#195;&#161;tsz&#195;&#161;s be&#195;&#161;ll&#195;&#173;t&#195;&#161;sa:"/>
+	<w_phrase i="530" n="wlang_playback_ssi_feature" t="Automata+visszaj&#195;&#161;tsz&#195;&#161;s:"/>
+	<w_phrase i="531" n="wlang_playback_ssi_url" t="WAV+file+URL:"/>
+	<w_phrase i="532" n="wlang_leftnav_scheduling" t="&#195;&#156;temez&#195;&#169;si be&#195;&#161;ll&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="533" n="wlang_scheduling_ssi_title" t="&#195;&#156;temez&#195;&#169;si+be&#195;&#161;ll&#195;&#173;t&#195;&#161;s"/>
+	<w_phrase i="534" n="wlang_scheduling_ssi_settings" t="&#195;&#156;temez&#195;&#169;si be&#195;&#161;ll&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="535" n="wlang_scheduling_ssi_feature" t="&#195;&#156;temez&#195;&#169;s:"/>
+	<w_phrase i="536" n="wlang_scheduling_ssi_frequency" t="H&#195;&#173;vjon minden:"/>
+	<w_phrase i="537" n="wlang_scheduling_ssi_day" t="nap"/>
+	<w_phrase i="538" n="wlang_scheduling_ssi_hour" t="&#195;&#179;rakor"/>
+	<w_phrase i="539" n="wlang_scheduling_ssi_minute" t="perckor"/>
+	<w_phrase i="540" n="wlang_scheduling_ssi_number" t="H&#195;&#173;vand&#195;&#179;+sz&#195;&#161;m:"/>
+	<w_phrase i="541" n="wlang_scheduling_ssi_start" t="Kezd&#195;&#169;s+ideje+(nn.hh.&#195;&#169;&#195;&#169;&#195;&#169;&#195;&#169;+&#195;&#179;&#195;&#179;:pp):"/>
+	<w_phrase i="542" n="wlang_scheduling_ssi_end" t="Befejez&#195;&#169;s+ideje+(nn.hh.&#195;&#169;&#195;&#169;&#195;&#169;&#195;&#169;+&#195;&#179;&#195;&#179;:pp):"/>
+	<w_phrase i="543" n="wlang_scheduling_ssi_call_duration" t="H&#195;&#173;v&#195;&#161;s befejez&#195;&#169;se automatikusan m&#195;&#161;sodperc ut&#195;&#161;n:"/>
+	<w_phrase i="544" n="wlang_index_time" t="Id&#197;&#145;"/>
+	<w_phrase i="545" n="wlang_index_duration" t="Id&#197;&#145;tartam"/>
+	<w_phrase i="546" n="wlang_advanced_ssi_user_pic" t="Felhaszn&#195;&#161;l&#195;&#179;i+k&#195;&#169;p+URL:"/>
+	<w_phrase i="547" n="wlang_line_custom" t="Saj&#195;&#161;t Cseng&#197;&#145;hang"/>
+	<w_phrase i="548" n="wlang_prefs_vip" t="VIP"/>
+	<w_phrase i="549" n="wlang_prefs_ssi_date_us_format" t="U.S.+d&#195;&#161;tum+form&#195;&#161;tum+(hh/nn):"/>
+	<w_phrase i="550" n="wlang_prefs_ssi_time_24_format" t="24+&#195;&#179;r&#195;&#161;s+id&#197;&#145;form&#195;&#161;tum:"/>
+	<w_phrase i="551" n="wlang_advanced_ssi_call_join_xfer" t="H&#195;&#173;v&#195;&#161;s+csatlakoz&#195;&#161;s+Tov&#195;&#161;bb&#195;&#173;t&#195;&#161;s+(2+h&#195;&#173;v&#195;&#161;s)"/>
+	<w_phrase i="552" n="wlang_prefs_tssweden" t="Sv&#195;&#169;dorsz&#195;&#161;g"/>
+	<w_phrase i="553" n="wlang_prefs_tsswitzerland" t="Sv&#195;&#161;jc"/>
+	<w_phrase i="554" n="wlang_advanced_ssi_session_refresher_client" t="Session friss&#195;&#173;t&#195;&#169;s:"/>
+	<w_phrase i="555" n="wlang_advanced_ssi_client" t="Kliens"/>
+	<w_phrase i="556" n="wlang_advanced_ssi_server" t="Szerver"/>
+	<w_phrase i="557" n="wlang_line_ssi_idle_text" t="Sz&#195;&#182;veg+megjelen&#195;&#173;t&#195;&#169;se+amikor+nincs+semmi+a+kijelz&#197;&#145;n:"/>
+	<w_phrase i="558" n="wlang_line_ssi_alert_info" t="Alert+Info+URL:"/>
+	<w_phrase i="559" n="wlang_advanced_ssi_alert_info_playback" t="Alert+Info+playback:"/>
+	<w_phrase i="560" n="wlang_advanced_ssi_silence_suppression" t="Csend+elnyom&#195;&#161;s:"/>
+	<w_phrase i="561" n="wlang_advanced_ssi_syslog_server" t="Syslog szerver:"/>
+	<w_phrase i="562" n="wlang_fkeys_ssi_mult" t="Osztott vonal"/>
+	<w_phrase i="563" n="wlang_advanced_ssi_ss_timeout" t="K&#195;&#169;perny&#197;&#145;+k&#195;&#173;m&#195;&#169;l&#197;&#145;+bekacsol&#195;&#161;sa+(mp):"/>
+	<w_phrase i="564" n="wlang_advanced_ssi_screen_saver" t="K&#195;&#169;perny&#197;&#145; k&#195;&#173;m&#195;&#169;l&#197;&#145;:"/>
+	<w_phrase i="565" n="wlang_advanced_screen_saver1" t="K&#195;&#169;perny&#197;&#145; k&#195;&#173;m&#195;&#169;l&#197;&#145; 1"/>
+	<w_phrase i="566" n="wlang_advanced_screen_saver2" t="K&#195;&#169;perny&#197;&#145; k&#195;&#173;m&#195;&#169;l&#197;&#145; 2"/>
+	<w_phrase i="567" n="wlang_advanced_ssi_aoc_pulse_currency" t="P&#195;&#169;nznem+jele:"/>
+	<w_phrase i="568" n="wlang_advanced_ssi_aoc_cost_pulse" t="Impulzusonk&#195;&#169;nti+k&#195;&#182;lts&#195;&#169;g:"/>
+	<w_phrase i="569" n="wlang_advanced_ssi_sess_keep_alive_info" t="Session keep alive via INFO (mp):"/>
+	<w_phrase i="570" n="wlang_advanced_aoc_amount_display" t="K&#195;&#182;lts&#195;&#169;g kijelz&#195;&#169;se:"/>
+	<w_phrase i="571" n="wlang_advanced_aoc_amount_charged" t="Elsz&#195;&#161;molt"/>
+	<w_phrase i="572" n="wlang_advanced_aoc_amount_balance" t="Egyenleg"/>
+	<w_phrase i="573" n="wlang_advanced_audio_device_indicator" t="Hang eszk&#195;&#182;z felismer&#197;&#145;"/>
+	<w_phrase i="574" n="wlang_prefs_ringtone_defaults" t="Cseng&#197;&#145;hang alap&#195;&#169;rtelmez&#195;&#169;s"/>
+	<w_phrase i="575" n="wlang_prefs_ringtone_addressbook" t="Telefonk&#195;&#182;nyv cseng&#197;&#145;hang"/>
+	<w_phrase i="576" n="wlang_leftnav_trusted_cert" t="Megb&#195;&#173;zhat&#195;&#179; tan&#195;&#186;s&#195;&#173;tv&#195;&#161;ny"/>
+	<w_phrase i="577" n="wlang_trst_issued_to" t="Ki&#195;&#161;ll&#195;&#173;tva kinek:"/>
+	<w_phrase i="578" n="wlang_trst_issued_by" t="Ki&#195;&#161;ll&#195;&#173;tva ki &#195;&#161;ltal:"/>
+	<w_phrase i="579" n="wlang_trst_expiration" t="Lej&#195;&#161;rat"/>
+	<w_phrase i="580" n="wlang_trst_ssi_title" t="Megb&#195;&#173;zhat&#195;&#179; tan&#195;&#186;s&#195;&#173;tv&#195;&#161;ny"/>
+	<w_phrase i="581" n="wlang_trst_import_trusted_cert" t="Megb&#195;&#173;zhat&#195;&#179; tan&#195;&#186;s&#195;&#173;tv&#195;&#161;ny import&#195;&#161;l&#195;&#161;sa (.cer):"/>
+	<w_phrase i="582" n="wlang_advanced_on" t="be"/>
+	<w_phrase i="583" n="wlang_advanced_call_waiting_visual" t="csak vizu&#195;&#161;lis"/>
+	<w_phrase i="584" n="wlang_line_ssi_pname" t="Felhaszn&#195;&#161;l&#195;&#179;n&#195;&#169;v:"/>
+	<w_phrase i="585" n="wlang_advanced_ssi_intercom_enabled" t="Intercom+enged&#195;&#169;lyez&#195;&#169;se:"/>
+	<w_phrase i="586" n="wlang_adr_deleteadrbook" t="Teljes k&#195;&#182;nyvt&#195;&#161;r t&#195;&#182;rl&#195;&#169;se"/>
+	<w_phrase i="587" n="wlang_adr_deletebutton" t="T&#195;&#182;rl&#195;&#169;s"/>
+	<w_phrase i="588" n="wlang_adr_prev_del_before" t="Teljes k&#195;&#182;nyvt&#195;&#161;r t&#195;&#182;rl&#195;&#169;se miel&#197;&#145;tt"/>
+	<w_phrase i="589" n="wlang_prefs_with_flash" t="Flash plugin haszn&#195;&#161;lata:"/>
+	<w_phrase i="590" n="wlang_index_connected" t="Kapcsol&#195;&#179;dva"/>
+	<w_phrase i="591" n="wlang_index_incoming" t="Bej&#195;&#182;v&#197;&#145; h&#195;&#173;v&#195;&#161;s"/>
+	<w_phrase i="592" n="wlang_index_busy" t="Foglalt:"/>
+	<w_phrase i="593" n="wlang_index_calling" t="H&#195;&#173;v&#195;&#161;s folyamatban"/>
+	<w_phrase i="594" n="wlang_advanced_ssi_filter_registrar" t="Csomagok sz&#197;&#177;r&#195;&#169;se a Registrart&#195;&#179;l:"/>
+	<w_phrase i="595" n="wlang_line_sipsettings" t="SIP ID be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="596" n="wlang_line_rtpsettings" t="RTP ID be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="597" n="wlang_line_natsettings" t="NAT ID be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok:"/>
+	<w_phrase i="598" n="wlang_line_ssi_descr_contact" t="Hossz&#195;&#186; SIP-Contact (RFC3840):"/>
+	<w_phrase i="599" n="wlang_line_ssi_sipusername_as_line" t="T&#195;&#182;r&#195;&#182;tt regisztr&#195;&#161;ci&#195;&#179; t&#195;&#161;mogat&#195;&#161;sa:"/>
+	<w_phrase i="600" n="wlang_advanced_snmp" t="SNMP:"/>
+	<w_phrase i="601" n="wlang_advanced_ssi_snmp_port" t="Port:"/>
+	<w_phrase i="602" n="wlang_advanced_ssi_snmp_trusted" t="Megb&#195;&#173;zhat&#195;&#179; c&#195;&#173;m:"/>
+	<w_phrase i="603" n="wlang_advanced_ssi_sip_short_form" t="SIP Compact Headers haszn&#195;&#161;lata:"/>
+	<w_phrase i="604" n="wlang_sysinfo_siplinestatus" t="SIP ID st&#195;&#161;tusz:"/>
+	<w_phrase i="605" n="wlang_sysinfo_sysinfo" t="Rendszer inform&#195;&#161;ci&#195;&#179;:"/>
+	<w_phrase i="606" n="wlang_adr_outgoingid" t="Kimen&#197;&#145; azonos&#195;&#173;t&#195;&#179;:"/>
+	<w_phrase i="607" n="wlang_adr_lineid_active" t="Akt&#195;&#173;v"/>
+	<w_phrase i="608" n="wlang_adr_lineid1" t="Azonos&#195;&#173;t&#195;&#179; 1"/>
+	<w_phrase i="609" n="wlang_adr_lineid2" t="Azonos&#195;&#173;t&#195;&#179; 2"/>
+	<w_phrase i="610" n="wlang_adr_lineid3" t="Azonos&#195;&#173;t&#195;&#179; 3"/>
+	<w_phrase i="611" n="wlang_adr_lineid4" t="Azonos&#195;&#173;t&#195;&#179; 4"/>
+	<w_phrase i="612" n="wlang_adr_lineid5" t="Azonos&#195;&#173;t&#195;&#179; 5"/>
+	<w_phrase i="613" n="wlang_adr_lineid6" t="Azonos&#195;&#173;t&#195;&#179; 6"/>
+	<w_phrase i="614" n="wlang_adr_lineid7" t="Azonos&#195;&#173;t&#195;&#179; 7"/>
+	<w_phrase i="615" n="wlang_adr_lineid8" t="Azonos&#195;&#173;t&#195;&#179; 8"/>
+	<w_phrase i="616" n="wlang_adr_lineid9" t="Azonos&#195;&#173;t&#195;&#179; 9"/>
+	<w_phrase i="617" n="wlang_adr_lineid10" t="Azonos&#195;&#173;t&#195;&#179; 10"/>
+	<w_phrase i="618" n="wlang_adr_lineid11" t="Azonos&#195;&#173;t&#195;&#179; 11"/>
+	<w_phrase i="619" n="wlang_adr_lineid12" t="Azonos&#195;&#173;t&#195;&#179; 12"/>
+	<w_phrase i="620" n="wlang_adr_preview_outgoing_id" t="Kimen&#197;&#145; azonos&#195;&#173;t&#195;&#179;"/>
+	<w_phrase i="621" n="wlang_line_ssi_record_missed_calls" t="Elvesztett h&#195;&#173;v&#195;&#161;sok r&#195;&#182;gz&#195;&#173;t&#195;&#169;se:"/>
+	<w_phrase i="622" n="wlang_index_local_identity" t="Helyi azonos&#195;&#173;t&#195;&#179;"/>
+	<w_phrase i="623" n="wlang_advanced_ssi_holding_reminder" t="H&#195;&#173;v&#195;&#161;start&#195;&#161;s eml&#195;&#169;keztet&#197;&#145;:"/>
+	<w_phrase i="624" n="wlang_advanced_ssi_keytones" t="Billenty&#197;&#177;hangok:"/>
+	<w_phrase i="625" n="wlang_info_production_info" t="Term&#195;&#169;kinform&#195;&#161;ci&#195;&#179;:"/>
+	<w_phrase i="626" n="wlang_line_reregister" t="&#195;&#154;jra-Regisztr&#195;&#161;ci&#195;&#179;"/>
+	<w_phrase i="627" n="wlang_confirm_head" t="Figyelem!"/>
+	<w_phrase i="628" n="wlang_confirm_button_yes" t="Igen"/>
+	<w_phrase i="629" n="wlang_confirm_button_no" t="Nem"/>
+	<w_phrase i="630" n="wlang_confirm_ssi_title" t="Meger&#197;&#145;s&#195;&#173;t&#195;&#169;s"/>
+	<w_phrase i="631" n="wlang_conf_text_del_adrbook" t="K&#195;&#169;rem vigy&#195;&#161;zzon, a telefonk&#195;&#182;nyve teljesen el fog veszni! Biztosan t&#195;&#182;r&#195;&#182;lni akarja az &#195;&#182;sszes elemet a telefonk&#195;&#182;nyvb&#197;&#145;l?"/>
+	<w_phrase i="632" n="wlang_conf_text_reset" t="K&#195;&#169;rem vigy&#195;&#161;zzon, mert az &#195;&#182;sszes be&#195;&#161;ll&#195;&#173;t&#195;&#161;sa, telefonsz&#195;&#161;ma, h&#195;&#173;v&#195;&#161;slist&#195;&#161;ja el fog veszni, ha az IGEN-re kattint. Biztos, hogy vissza&#195;&#161;ll&#195;&#173;tja a gy&#195;&#161;ri be&#195;&#161;ll&#195;&#173;t&#195;&#161;sokat a telefonra?"/>
+	<w_phrase i="633" n="wlang_conf_text_reboot" t="Biztos hogy &#195;&#186;jra akarja ind&#195;&#173;tani a telefont?"/>
+	<w_phrase i="634" n="wlang_line_ssi_active" t="ID akt&#195;&#173;v:"/>
+	<w_phrase i="635" n="wlang_line_play" t="Cseng&#197;&#145;hang lej&#195;&#161;tsz&#195;&#161;s"/>
+	<w_phrase i="636" n="wlang_line_ssi_proxyrequire" t="Proxy sz&#195;&#188;ks&#195;&#169;ges:"/>
+	<w_phrase i="637" n="wlang_advanced_detectethernet" t="Ethernet k&#195;&#161;bel kih&#195;&#186;z&#195;&#161;s&#195;&#161;nak felismer&#195;&#169;se"/>
+	<w_phrase i="638" n="wlang_advanced_ssi_rtcp_support" t="RTCP t&#195;&#161;mogat&#195;&#161;s:"/>
+	<w_phrase i="639" n="wlang_update_manuallicense" t="K&#195;&#169;zi licenc felt&#195;&#182;lt&#195;&#169;s:"/>
+	<w_phrase i="640" n="wlang_update_licensefile" t="Licenc f&#195;&#161;jl:"/>
+	<w_phrase i="641" n="wlang_trusted_cert_add" t="Tan&#195;&#186;s&#195;&#173;tv&#195;&#161;ny hozz&#195;&#161;ad&#195;&#161;sa"/>
+	<w_phrase i="642" n="wlang_advanced_ssi_speaker_mic" t="Mikrofon hanger&#197;&#145; (1 - 8):"/>
+	<w_phrase i="643" n="wlang_advanced_ssi_handset_mic" t="K&#195;&#169;zibesz&#195;&#169;l&#197;&#145; mikrofon hanger&#197;&#145; (1 - 8):"/>
+	<w_phrase i="644" n="wlang_advanced_ssi_headset_mic" t="Fejhallgat&#195;&#179; mikrofon hanger&#197;&#145; (1 - 8):"/>
+	<w_phrase i="645" n="wlang_advanced_ssi_partial_lookup" t="Partial Number Lookup:"/>
+	<w_phrase i="646" n="wlang_fkeys_ssi_url" t="Action URL"/>
+	<w_phrase i="647" n="wlang_advanced_ssi_sig_tos" t="SIP+Type+of+Service+(TOS/Diffserv):"/>
+	<w_phrase i="648" n="wlang_advanced_ssi_guess_start_length" t="Telefonsz&#195;&#161;m+kital&#195;&#161;l&#195;&#161;s&#195;&#161;nak+minimum+hossza:"/>
+	<w_phrase i="649" n="wlang_advanced_ethernet" t="Ethernet portok:"/>
+	<w_phrase i="650" n="wlang_advanced_ssi_eth_net_port" t="H&#195;&#161;l&#195;&#179;zati port:"/>
+	<w_phrase i="651" n="wlang_advanced_ssi_eth_pc_port" t="PC port:"/>
+	<w_phrase i="652" n="wlang_advanced_autoneg" t="Automatikus v&#195;&#161;laszt&#195;&#161;s"/>
+	<w_phrase i="653" n="wlang_advanced_10full" t="10 Mbit Full Duplex"/>
+	<w_phrase i="654" n="wlang_advanced_10half" t="10 Mbit Half Duplex"/>
+	<w_phrase i="655" n="wlang_advanced_100full" t="100 Mbit Full Duplex"/>
+	<w_phrase i="656" n="wlang_advanced_100half" t="100 Mbit Half Duplex"/>
+	<w_phrase i="657" n="wlang_sysinfo_ethernet_status" t="Ethernet st&#195;&#161;tusz:"/>
+	<w_phrase i="658" n="wlang_sysinfo_ethernet_status2" t="St&#195;&#161;tusz:"/>
+	<w_phrase i="659" n="wlang_sysinfo_ethernet_connected" t="Kapcsol&#195;&#179;dva"/>
+	<w_phrase i="660" n="wlang_sysinfo_ethernet_not_connected" t="Nincs kapcsolat"/>
+	<w_phrase i="661" n="wlang_sysinfo_ethernet_connection_type" t="Kapcsolat t&#195;&#173;pusa:"/>
+	<w_phrase i="662" n="wlang_index_costs" t="K&#195;&#182;lts&#195;&#169;g:"/>
+	<w_phrase i="663" n="wlang_action_ssi_missed" t="Elveszett+h&#195;&#173;v&#195;&#161;sok:"/>
+	<w_phrase i="664" n="wlang_line_ssi_stunbindint" t="STUN+intervallum+(mp):"/>
+	<w_phrase i="665" n="wlang_action_info" t="Ezen az oldalon a telefon bizonyos esem&#195;&#169;nyeihez be&#195;&#161;ll&#195;&#173;that URL-t. Az URL tartalmazhat v&#195;&#161;ltoz&#195;&#179;nevet, &lt;b&gt;$&lt;/b&gt; kezdettel, &#195;&#169;s a p&#195;&#169;lda=$v&#195;&#161;ltoz&#195;&#179; sztringek el kell legyenek v&#195;&#161;lasztva &lt;b&gt;&amp;&lt;/b&gt; karakterrel, pl.: p&#195;&#169;lda1=$v&#195;&#161;ltoz&#195;&#179;1&amp;p&#195;&#169;lda2=$v&#195;&#161;ltoz&#195;&#179;2 &#195;&#169;s &#195;&#173;gy tov&#195;&#161;bb (pl.: http://internal.server.net/help.xml?redirect=$redirect_number&amp;time=$redirect_time). V&#195;&#161;ltoz&#195;&#179;kat tehet az URL el&#195;&#169;r&#195;&#169;si &#195;&#186;tj&#195;&#161;ba is (pl.: http://snom.com/$mac&amp;/settings.xml), a v&#195;&#161;ltoz&#195;&#179; nev&#195;&#169;nek a &lt;b&gt;$&lt;/b&gt; &#195;&#169;s a &lt;b&gt;&amp;&lt;/b&gt; karakterek k&#195;&#182;z&#195;&#182;tt kell lennie. V&#195;&#161;ltoz&#195;&#179; lehet &#195;&#161;ltal&#195;&#161;nos be&#195;&#161;ll&#195;&#173;t&#195;&#161;s, amit a telefon t&#195;&#161;rol, &#195;&#169;s el&#195;&#169;rhet&#197;&#145; a Be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok &#195;&#129;llapota oldalr&#195;&#179;l. Tov&#195;&#161;bb&#195;&#161; a $local, $remore, $active_url, $active_user, $active_host, $csta_id &#195;&#169;s a $call-id haszn&#195;&#161;lhat&#195;&#179; valamint mind helyi &#195;&#169;s t&#195;&#161;voli URI &#195;&#169;s call-id v&#195;&#161;ltoz&#195;&#179;k behelyettes&#195;&#173;t&#197;&#145;dnek a h&#195;&#173;v&#195;&#161;s idej&#195;&#169;ben. $display_local, $display_remote v&#195;&#161;ltoz&#195;&#179;kkal megjelen&#195;&#173;thet&#197;&#145; a h&#195;&#173;v&#195;&#179; &#195;&#169;s a h&#195;&#173;vott f&#195;&#169;l neve. $expansion_module v&#195;&#161;ltoz&#195;&#179;val megjelen&#195;&#173;thet&#197;&#145;, hogy melyik kieg&#195;&#169;sz&#195;&#173;t&#197;&#145; modul van haszn&#195;&#161;latban, &#195;&#169;s a $active_key v&#195;&#161;ltoz&#195;&#179; mutatja, hogy melyik funkci&#195;&#179;billenty&#197;&#177; tartozik a h&#195;&#173;v&#195;&#161;shoz. A speci&#195;&#161;lis be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok, mint a jelsz&#195;&#179; &#195;&#188;res sztingre cser&#195;&#169;l&#197;&#145;dnek ki az URL-ben. "/>
+	<w_phrase i="666" n="wlang_fkeys_ssi_p2t" t="Push2Talk"/>
+	<w_phrase i="667" n="wlang_advanced_load_certs" t="Szerver tan&#195;&#186;s&#195;&#173;tv&#195;&#161;ny felt&#195;&#182;lt&#195;&#169;se:"/>
+	<w_phrase i="668" n="wlang_advanced_load_sets_manually" t="Be&#195;&#161;ll&#195;&#173;t&#195;&#161;s f&#195;&#161;jl felt&#195;&#182;lt&#195;&#169;se:"/>
+	<w_phrase i="669" n="wlang_advanced_load_warning" t="A &lt;b&gt;Bet&#195;&#182;lt&#195;&#169;s&lt;/b&gt; gombra kattintva a telefon a be&#195;&#161;ll&#195;&#173;t&#195;&#161;sait elveszti, &#195;&#169;s az &#195;&#186;j be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok bet&#195;&#182;lt&#197;&#145;dnek a megadott f&#195;&#161;jlb&#195;&#179;l, &#195;&#169;s a telefon &#195;&#186;jraindul. &lt;b&gt; Az &#195;&#182;sszes jelenlegi be&#195;&#161;ll&#195;&#173;t&#195;&#161;sa el fog veszni! &lt;/b&gt; "/>
+	<w_phrase i="670" n="wlang_advanced_answer_after_policy" t="&#194;&#180;V&#195;&#161;laszol miut&#195;&#161;n&#194;&#180; szab&#195;&#161;ly:"/>
+	<w_phrase i="671" n="wlang_advanced_answer_after_idle" t="csak szabad &#195;&#161;llapotban"/>
+	<w_phrase i="672" n="wlang_advanced_answer_after_always" t="mindig"/>
+	<w_phrase i="673" n="wlang_sina_prefs" t="SINAbox:"/>
+	<w_phrase i="674" n="wlang_sina_address" t="IP c&#195;&#173;m:"/>
+	<w_phrase i="675" n="wlang_sina_trigger_num" t="Trigger k&#195;&#169;r&#195;&#169;s sz&#195;&#161;ma:"/>
+	<w_phrase i="676" n="wlang_ldap_server" t="Szerver c&#195;&#173;m:"/>
+	<w_phrase i="677" n="wlang_ldap_port" t="Port:"/>
+	<w_phrase i="678" n="wlang_ldap_base" t="B&#195;&#161;zis:"/>
+	<w_phrase i="679" n="wlang_ldap_username" t="Felhaszn&#195;&#161;l&#195;&#179;n&#195;&#169;v:"/>
+	<w_phrase i="680" n="wlang_ldap_password" t="Jelsz&#195;&#179;:"/>
+	<w_phrase i="681" n="wlang_ldap_max_hits" t="Maxim&#195;&#161;lis tal&#195;&#161;latok:"/>
+	<w_phrase i="682" n="wlang_ldap_prefs" t="LDAP:"/>
+	<w_phrase i="683" n="wlang_prefs_keyboard_lock" t="Billenty&#197;&#177;k lez&#195;&#161;r&#195;&#161;sa:"/>
+	<w_phrase i="684" n="wlang_prefs_ssi_keyboard_lock" t="Billenty&#197;&#177;z&#195;&#161;r:"/>
+	<w_phrase i="685" n="wlang_prefs_ssi_keyboard_lock_pw" t="PIN k&#195;&#179;d a billenty&#197;&#177;zet lez&#195;&#161;r&#195;&#161;s&#195;&#161;ra, felnyit&#195;&#161;s&#195;&#161;ra"/>
+	<w_phrase i="686" n="wlang_line_ssi_country" t="Orsz&#195;&#161;g k&#195;&#179;d:"/>
+	<w_phrase i="687" n="wlang_line_ssi_area" t="K&#195;&#182;rzetsz&#195;&#161;m:"/>
+	<w_phrase i="688" n="wlang_advanced_ssi_enum" t="ENUM t&#195;&#161;mogat&#195;&#161;s:"/>
+	<w_phrase i="689" n="wlang_advanced_ssi_tcp_listen" t="SIP TCP port:"/>
+	<w_phrase i="690" n="wlang_advanced_tmz_AUSp8" t="+8 Ausztr&#195;&#161;lia (Perth)"/>
+	<w_phrase i="691" n="wlang_advanced_tmz_AUS2p95" t="+9.5 Ausztr&#195;&#161;lia (Darwin)"/>
+	<w_phrase i="692" n="wlang_advanced_tmz_AUS3p10" t="+10 Ausztr&#195;&#161;lia (Hobart)"/>
+	<w_phrase i="693" n="wlang_advanced_tmz_BRA1m3" t="-3 Brazilia (DST)"/>
+	<w_phrase i="694" n="wlang_advanced_tmz_BRA2m3" t="-3 Brazilia (no DST)"/>
+	<w_phrase i="695" n="wlang_advanced_tmz_BRAm2" t="-2 Brazilia (no DST)"/>
+	<w_phrase i="696" n="wlang_advanced_tmz_ARGm3" t="-3 Argentina (Buenos Aires)"/>
+	<w_phrase i="697" n="wlang_advanced_tmz_EATp3" t="+3 East Afrika Time"/>
+	<w_phrase i="698" n="wlang_advanced_tmz_CATp2" t="+2 Central Africa Time"/>
+	<w_phrase i="699" n="wlang_advanced_tmz_WATp1" t="+1 West Africa Time"/>
+	<w_phrase i="700" n="wlang_fkeys_ssi_context" t="Kontextus"/>
+	<w_phrase i="701" n="wlang_fkeys_ssi_type" t="T&#195;&#173;pus"/>
+	<w_phrase i="702" n="wlang_fkeys_ssi_keyevent" t="Billenty&#197;&#177; esem&#195;&#169;ny"/>
+	<w_phrase i="703" n="wlang_advanced_ssi_peer_to_peer_cc" t="&#195;&#156;gyfelek k&#195;&#182;z&#195;&#182;tti h&#195;&#173;v&#195;&#161;s v&#195;&#169;gz&#197;&#145;dtet&#195;&#169;s"/>
+	<w_phrase i="704" n="wlang_advanced_logon_logoff" t="Bejelentkez&#195;&#169;s/Kijelentkez&#195;&#169;s:"/>
+	<w_phrase i="705" n="wlang_advanced_ssi_auto_logoff_time" t=""/>
+	<w_phrase i="706" n="wlang_advanced_logoffall" t="Minden azonos&#195;&#173;t&#195;&#179; elt&#195;&#161;vol&#195;&#173;t&#195;&#161;sa"/>
+	<w_phrase i="707" n="wlang_advanced_logoffline" t="Azonos&#195;&#173;t&#195;&#179; elt&#195;&#161;vol&#195;&#173;t&#195;&#161;sa"/>
+	<w_phrase i="708" n="wlang_conf_text_logoff_all" t="A SIP be&#195;&#161;ll&#195;&#173;t&#195;&#161;sai el fognak veszni. Biztos, hogy el akarja t&#195;&#161;vol&#195;&#173;tani az &#195;&#182;sszes azonos&#195;&#173;t&#195;&#179;t?"/>
+	<w_phrase i="709" n="wlang_fkey_info" t="Ezen az oldalon be tudja &#195;&#161;ll&#195;&#173;tani a programozhat&#195;&#179; billenty&#197;&#177;ket az &#195;&#182;n snom telefonj&#195;&#161;n. Haszn&#195;&#161;lja a &lt;b&gt;Context&lt;/b&gt;-et hogy be&#195;&#161;ll&#195;&#173;tsa az azonos&#195;&#173;t&#195;&#179;  profilt a megfelel&#197;&#145; billenty&#197;&#177;h&#195;&#182;z, pl.: az az azonos&#195;&#173;t&#195;&#179; lesz haszn&#195;&#161;lva a meghat&#195;&#161;rozott mell&#195;&#169;ken. &lt;b&gt;Type&lt;/b&gt; kiv&#195;&#161;lasztja a megfelel&#197;&#145; mell&#195;&#169;ket. Az utols&#195;&#179; argument mez&#197;&#145;ben a &lt;b&gt;Number&lt;/b&gt;, az aktu&#195;&#161;lis telefonsz&#195;&#161;m, sip url, dtmf sorrend, action url, &#195;&#169;s billenty&#197;&#177; t&#195;&#173;pus (pl.: F_REC, F_RETRIEVE, F_REDIAL, F_HELP, F_CONFERENCE, F_TRANSFER, F_HOLD, F_DND, F_ADR_BOOK, F_REDIRECT, F_SNOM) t&#195;&#161;rolhat&#195;&#179;. R&#195;&#169;szletek&#195;&#169;rt k&#195;&#169;rem n&#195;&#169;zze meg a telefon felhaszn&#195;&#161;l&#195;&#179;i k&#195;&#169;zik&#195;&#182;nyv&#195;&#169;t. "/>
+	<w_phrase i="710" n="wlang_advanced_tmz_TTBm4" t="-4 Trinidad&amp;Tobago"/>
+	<w_phrase i="711" n="wlang_line_ssi_shared_line" t="Megosztott vonal:"/>
+	<w_phrase i="712" n="wlang_advanced_ssi_text_softkey" t=""/>
+	<w_phrase i="713" n="wlang_line_ssi_dtmf_info" t="DTMF via SIP INFO:"/>
+	<w_phrase i="714" n="wlang_line_ssi_xml_screen_url" t="XML Idle Screen URL:"/>
+	<w_phrase i="715" n="wlang_prefs_ssi_ringer_animation" t="Cs&#195;&#182;rg&#195;&#169;s anim&#195;&#161;ci&#195;&#179;:"/>
+	<w_phrase i="716" n="wlang_advanced_ssi_speaker_dialer" t="Speaker gomb haszn&#195;&#161;lata t&#195;&#161;rcs&#195;&#161;z&#195;&#161;shoz:"/>
+	<w_phrase i="717" n="wlang_action_ssi_connected" t="Kapcsol&#195;&#179;dva:"/>
+	<w_phrase i="718" n="wlang_action_ssi_disconnected" t="Nem+kapcsol&#195;&#179;dva:"/>
+	<w_phrase i="719" n="wlang_advanced_ssi_overlap_dialing" t="Overlap+t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s:"/>
+	<w_phrase i="720" n="wlang_fkeys_ssi_speed" t="Gyors t&#195;&#161;rcs&#195;&#161;z&#195;&#161;s"/>
+	<w_phrase i="721" n="wlang_fkeys_ssi_none" t="Nincs"/>
+	<w_phrase i="722" n="wlang_prefs_ssi_redundant_softkeys" t="Redund&#195;&#161;ns programozhat&#195;&#179; billenty&#197;&#177;k:"/>
+	<w_phrase i="723" n="wlang_advanced_ssi_web_logout" t="Automatikus kijelentkez&#195;&#169;s (perc):"/>
+	<w_phrase i="724" n="wlang_prefs_ringer9" t="Cs&#195;&#182;rg&#195;&#169;s 9"/>
+	<w_phrase i="725" n="wlang_prefs_ringer10" t="Cs&#195;&#182;rg&#195;&#169;s 10"/>
+	<w_phrase i="726" n="wlang_advanced_ssi_cancel_on_hold" t="M&#195;&#169;gse billenty&#197;&#177; tartott h&#195;&#173;v&#195;&#161;sn&#195;&#161;l:"/>
+	<w_phrase i="727" n="wlang_advanced_call_waiting_ringer" t="cs&#195;&#182;rg&#195;&#169;s"/>
+	<w_phrase i="728" n="wlang_advanced_ssi_ntp_refresh" t="NTP+szerver+friss&#195;&#173;t&#195;&#169;si+ideje+(mp):"/>
+	<w_phrase i="729" n="wlang_line_ssi_ring_after_delay" t="Cs&#195;&#182;rg&#195;&#169;s+k&#195;&#169;sleltet&#195;&#169;s+(mp):"/>
+	<w_phrase i="730" n="wlang_advanced_reboot_on_nr" t="&#195;&#154;jraind&#195;&#173;t&#195;&#161;s nem regisztr&#195;&#161;lt st&#195;&#161;tusz ut&#195;&#161;n (perc):"/>
+	<w_phrase i="731" n="wlang_prefs_ssi_redirect_on_code" t="&#195;&#129;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s be k&#195;&#179;d:"/>
+	<w_phrase i="732" n="wlang_prefs_ssi_redirect_off_code" t="&#195;&#129;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s ki k&#195;&#179;d:"/>
+	<w_phrase i="733" n="wlang_prefs_redirection_always" t="Mindig"/>
+	<w_phrase i="734" n="wlang_prefs_redirection_busy" t="Foglalt"/>
+	<w_phrase i="735" n="wlang_prefs_redirection_time" t="Timeout"/>
+	<w_phrase i="736" n="wlang_prefs_dnd" t="DND:"/>
+	<w_phrase i="737" n="wlang_prefs_redirect_number" t="Telefonsz&#195;&#161;m:"/>
+	<w_phrase i="738" n="wlang_advanced_ssi_pnp_config" t="PnP+Konfigur&#195;&#161;ci&#195;&#179;:"/>
+	<w_phrase i="739" n="wlang_advanced_ssi_flood_tracing" t="SIP+Trace+for+REGISTER/SUBSCRIBE/NOTIFY:"/>
+	<w_phrase i="740" n="wlang_reboot_ssi_title" t="&#195;&#154;jraind&#195;&#173;t&#195;&#161;s&#226;&#128;&#166;"/>
+	<w_phrase i="741" n="wlang_text_reboot_info" t="Az &#195;&#150;n snom telefonja &#195;&#186;jraindul. K&#195;&#169;rem legyen t&#195;&#188;relemmel, az &#195;&#186;jraindul&#195;&#161;s meg nem t&#195;&#182;rt&#195;&#169;nik. Amennyiben a j&#195;&#179;l ismert k&#195;&#169;perny&#197;&#145; megjelenik a kijelz&#197;&#145;n, akkor a telefon m&#195;&#161;r haszn&#195;&#161;lhat&#195;&#179; a Webes fel&#195;&#188;lettel egy&#195;&#188;tt.  "/>
+	<w_phrase i="742" n="wlang_line_ssi_send_local_name" t="INVITE-n&#195;&#161;l+k&#195;&#188;ldje+el+a+kijelz&#195;&#169;si+nevet:"/>
+	<w_phrase i="743" n="wlang_advanced_ssi_xml_notify" t="XML NOTIFY t&#195;&#161;mogat&#195;&#161;s:"/>
+	<w_phrase i="744" n="wlang_minibrowser_pref" t="Minibrowser:"/>
+	<w_phrase i="745" n="wlang_advanced_ssi_enable_timer_support" t="Timer t&#195;&#161;mogat&#195;&#161;s (RFC4028):"/>
+	<w_phrase i="746" n="wlang_prefs_dsnumbername" t="Telefonsz&#195;&#161;m + N&#195;&#169;v"/>
+	<w_phrase i="747" n="wlang_prefs_ssi_message_led_other" t="&quot;&quot;Message&quot;&quot; kijelz&#197;&#145; a Dialog State-re/elvesztett h&#195;&#173;v&#195;&#161;sokra:"/>
+	<w_phrase i="748" n="wlang_info_snom_linux_type" t="Kernel verzi&#195;&#179;:"/>
+	<w_phrase i="749" n="wlang_prefs_ssi_keyboard_lock_dp" t="V&#195;&#169;sz h&#195;&#173;v&#195;&#179;sz&#195;&#161;mok (sz&#195;&#179;k&#195;&#182;zzel elv&#195;&#161;lasztva):"/>
+	<w_phrase i="750" n="wlang_prefs_alert_internal_text" t="Bels&#197;&#145; figyelmeztet&#197;&#145; sz&#195;&#182;veg:"/>
+	<w_phrase i="751" n="wlang_prefs_ssi_alert_internal_sound" t="Bels&#197;&#145; figyelmeztet&#197;&#145; cseng&#197;&#145;hang:"/>
+	<w_phrase i="752" n="wlang_prefs_alert_external_text" t="K&#195;&#188;ls&#197;&#145; figyelmeztet&#197;&#145; sz&#195;&#182;veg:"/>
+	<w_phrase i="753" n="wlang_prefs_ssi_alert_external_sound" t="K&#195;&#188;ls&#197;&#145; figyelmeztet&#197;&#145; cseng&#197;&#145;hang:"/>
+	<w_phrase i="754" n="wlang_prefs_alert_group_text" t="Csoport figyelmeztet&#197;&#145; sz&#195;&#182;veg:"/>
+	<w_phrase i="755" n="wlang_prefs_ssi_alert_group_sound" t="Csoport figyelmeztet&#197;&#145; cseng&#197;&#145;hang:"/>
+	<w_phrase i="756" n="wlang_advanced_ssi_cancel_on_missed" t="M&#195;&#169;gse gombra t&#195;&#182;rli az elvesztett h&#195;&#173;v&#195;&#161;sokat:"/>
+	<w_phrase i="757" n="wlang_advanced_ssi_cancel_on_desktop" t="M&#195;&#169;gse gombra t&#195;&#182;rli az asztal &#195;&#188;zenetet:"/>
+	<w_phrase i="758" n="wlang_advanced_ssi_settings_scheduler" t="Settings Timer &#195;&#186;jrat&#195;&#182;lt&#195;&#169;se (perc):"/>
+	<w_phrase i="759" n="wlang_prefs_alert_info_ringer" t="Alert-Info cs&#195;&#182;rg&#195;&#169;s:"/>
+	<w_phrase i="760" n="wlang_prefs_ssi_scroll_outgoing" t="Akt&#195;&#173;v azonos&#195;&#173;t&#195;&#179; g&#195;&#182;rd&#195;&#173;t&#195;&#169;s:"/>
+	<w_phrase i="761" n="wlang_advanced_tmz_USA2m7" t="-7 Egyes&#195;&#188;lt &#195;&#129;llamok - MST no DST "/>
+	<w_phrase i="762" n="wlang_set_savesettingspart2" t=" a be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok elment&#195;&#169;s&#195;&#169;hez."/>
+	<w_phrase i="763" n="wlang_prefs_ssi_show_local_line" t="Helyi azonos&#195;&#173;t&#195;&#179; mutat&#195;&#161;sa:"/>
+	<w_phrase i="764" n="wlang_advanced_ssi_show_xml_pickup" t="Dialog info mutat&#195;&#161;sa h&#195;&#173;v&#195;&#161;s beemel&#195;&#169;skor az XML k&#195;&#169;perny&#197;&#145;n:"/>
+	<w_phrase i="765" n="wlang_advanced_ssi_pickup_indication" t="Audio bej&#195;&#161;tsz&#195;&#161;sa, amikor a h&#195;&#173;v&#195;&#161;s felv&#195;&#169;tele lehets&#195;&#169;ges:"/>
+	<w_phrase i="766" n="wlang_advanced_multicast" t="Multicast:"/>
+	<w_phrase i="767" n="wlang_advanced_ssi_multicast_listen" t="Multicast t&#195;&#161;mogat&#195;&#161;s:"/>
+	<w_phrase i="768" n="wlang_advanced_ssi_multicast_address" t="IP c&#195;&#173;m:"/>
+	<w_phrase i="769" n="wlang_advanced_ssi_multicast_port" t="Port:"/>
+	<w_phrase i="770" n="wlang_advanced_ssi_dual_audio_handsfree" t="Mindk&#195;&#169;t hangeszk&#195;&#182;z bekapcsol&#195;&#161;sa a h&#195;&#173;v&#195;&#161;s alatt (k&#195;&#169;zibesz&#195;&#169;l&#197;&#145; &#195;&#169;s fejhallgat&#195;&#179;)"/>
+	<w_phrase i="771" n="wlang_language_name" t="Magyar"/>
+	<w_phrase i="772" n="wlang_advanced_qos" t="Quality of Service (QoS):"/>
+	<w_phrase i="773" n="wlang_advanced_rtp" t="RTP/RTCP:"/>
+	<w_phrase i="774" n="wlang_advanced_sip" t="SIP:"/>
+	<w_phrase i="775" n="wlang_advtab_network" t="H&#195;&#161;l&#195;&#179;zat"/>
+	<w_phrase i="776" n="wlang_advtab_behavior" t="Viselked&#195;&#169;s"/>
+	<w_phrase i="777" n="wlang_advtab_audio" t="Audi&#195;&#179;"/>
+	<w_phrase i="778" n="wlang_advtab_sip" t="SIP/RTP"/>
+	<w_phrase i="779" n="wlang_advtab_update" t="Friss&#195;&#173;t&#195;&#169;s"/>
+	<w_phrase i="780" n="wlang_advtab_security" t="QoS/Biztons&#195;&#161;g"/>
+	<w_phrase i="781" n="wlang_linetab_login" t="Bejelentkez&#195;&#169;s"/>
+	<w_phrase i="782" n="wlang_linetab_sip" t="SIP"/>
+	<w_phrase i="783" n="wlang_linetab_nat" t="NAT"/>
+	<w_phrase i="784" n="wlang_linetab_rtp" t="RTP"/>
+	<w_phrase i="785" n="wlang_line_ssi_server_type" t="Szerver t&#195;&#173;pus t&#195;&#161;mogat&#195;&#161;s:"/>
+	<w_phrase i="786" n="wlang_line_ssi_event_list_subscription" t="Mell&#195;&#169;k figyel&#195;&#169;s &#195;&#169;s felvett h&#195;&#173;v&#195;&#161;sok list&#195;&#161;ja:"/>
+	<w_phrase i="787" n="wlang_line_broadsoft" t="Broadsoft"/>
+	<w_phrase i="788" n="wlang_line_sylantro" t="Sylantro"/>
+	<w_phrase i="789" n="wlang_line_pbxnsip" t="PBXnSIP"/>
+	<w_phrase i="790" n="wlang_line_default" t="Alap&#195;&#169;rtelmezett"/>
+	<w_phrase i="791" n="wlang_line_ssi_event_list_uri" t="Mell&#195;&#169;k figyel&#195;&#169;s &#195;&#169;s felvett h&#195;&#173;v&#195;&#161;sok list&#195;&#161;ja (URI):"/>
+	<w_phrase i="792" n="wlang_web_confirm_apply_set_change" t="&#195;&#137;letbe l&#195;&#169;pteti ezeket a v&#195;&#161;ltoztat&#195;&#161;sokat?"/>
+	<w_phrase i="793" n="wlang_line_ssi_presence_subscription" t="N&#195;&#169;vjegyz&#195;&#169;k"/>
+	<w_phrase i="794" n="wlang_line_ssi_presence_buddy_list_uri" t="N&#195;&#169;vjegyz&#195;&#169;k URI:"/>
+	<w_phrase i="795" n="wlang_line_ssi_full_sdp_answer" t="Full SDP v&#195;&#161;lasz:"/>
+	<w_phrase i="796" n="wlang_info_firmware_version" t="Firmware verzi&#195;&#179;:"/>
+	<w_phrase i="797" n="wlang_advanced_ssi_redirect_ringing" t="Az &#195;&#182;sszes bej&#195;&#182;v&#197;&#145; h&#195;&#173;v&#195;&#161;s &#195;&#161;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;sa a funkci&#195;&#179;billenty&#197;&#177;k haszn&#195;&#161;lat&#195;&#161;val:"/>
+	<w_phrase i="798" n="wlang_advanced_ssi_auto_redial" t="Automatikus &#195;&#186;jrat&#195;&#161;rcs&#195;&#161;z&#195;&#161;s foglalts&#195;&#161;g eset&#195;&#169;n:"/>
+	<w_phrase i="799" n="wlang_advanced_ssi_auto_redial_value" t="&#195;&#154;jrat&#195;&#161;rcs&#195;&#161;z&#195;&#161;s ennyi m&#195;&#161;sodperc ut&#195;&#161;n: "/>
+	<w_phrase i="800" n="wlang_advanced_ssi_disable_blind_transfer" t="Blind transfer kikapcsol&#195;&#161;sa (REFER): "/>
+	<w_phrase i="801" n="wlang_advanced_ssi_disable_deflection" t="H&#195;&#173;v&#195;&#161;selt&#195;&#169;r&#195;&#173;t&#195;&#169;s kikapcsol&#195;&#161;sa (code 302): "/>
+	<w_phrase i="802" n="wlang_action_ssi_log_on" t="Bejelentkez&#195;&#169;s:"/>
+	<w_phrase i="803" n="wlang_action_ssi_log_off" t="Kijelentkez&#195;&#169;s:"/>
+	<w_phrase i="804" n="wlang_prefs_ssi_show_call_status" t="H&#195;&#173;v&#195;&#161;s st&#195;&#161;tusz mutat&#195;&#161;sa:"/>
+	<w_phrase i="805" n="wlang_set_savesettingspart3" t="be&#195;&#161;ll&#195;&#173;t&#195;&#161;sok ment&#195;&#169;se XML form&#195;&#161;tumba. "/>
+	<w_phrase i="806" n="wlang_action_ssi_reg_failed" t="Regisztr&#195;&#161;ci&#195;&#179;+sikertelen:"/>
+	<w_phrase i="807" n="wlang_subscriptions_ssi_title" t="El&#197;&#145;fizet&#195;&#169;s+st&#195;&#161;tusz"/>
+	<w_phrase i="808" n="wlang_leftnav_subscriptions" t="El&#197;&#145;fizet&#195;&#169;sek"/>
+	<w_phrase i="809" n="wlang_advanced_ssi_max_boot_delay" t="Maximum ind&#195;&#173;t&#195;&#161;si k&#195;&#169;sleltet&#195;&#169;s (mp):"/>
+	<w_phrase i="810" n="wlang_advanced_http_server" t="HTTP szerver:"/>
+	<w_phrase i="811" n="wlang_advanced_http_client" t="HTTP kliens:"/>
+	<w_phrase i="812" n="wlang_advanced_ssi_mailbox_active" t="Csak az akt&#195;&#173;v postafi&#195;&#179;k bejegyz&#195;&#169;sek kezel&#195;&#169;se:"/>
+	<w_phrase i="813" n="wlang_set_savedirectorypart3" t="jelenlegi telefonk&#195;&#182;nyv ment&#195;&#169;se XML form&#195;&#161;tumba. "/>
+	<w_phrase i="814" n="wlang_line_ssi_remove_all_bindings" t=""/>
+	<w_phrase i="815" n="wlang_vpn_ssi_vpn_on" t="VPN:"/>
+	<w_phrase i="816" n="wlang_vpn_ssi_tarball_url" t="Kit&#195;&#182;m&#195;&#182;r&#195;&#173;tett VPN konfigur&#195;&#161;ci&#195;&#179; "/>
+	<w_phrase i="817" n="wlang_advanced_ssi_idle_offhook" t=""/>
+	<w_phrase i="818" n="wlang_prefs_ssi_enable_keyboard_lock" t="Billenty&#197;&#177;z&#195;&#161;r enged&#195;&#169;lyez&#195;&#169;se"/>
+	<w_phrase i="819" n="wlang_advanced_ssi_vlan_port_tagging" t="Un-/Tag VLAN forgalom meghat&#195;&#161;rozott switch portr&#195;&#179;l/ra"/>
+	<w_phrase i="820" n="wlang_advanced_ssi_vlan_id" t="VLAN Id (0..4095):"/>
+	<w_phrase i="821" n="wlang_advanced_ssi_vlan_priority" t="VLAN Priority (0..7):"/>
+	<w_phrase i="822" n="wlang_advanced_ssi_eth_cpu_port" t="Bels&#197;&#145; CPU port:"/>
+	<w_phrase i="823" n="wlang_advanced_vlan" t="VLAN"/>
+	<w_phrase i="824" n="wlang_line_failover_identity" t="Sikertelen regisztr&#195;&#161;l&#195;&#161;s eset&#195;&#169;n azonos&#195;&#173;t&#195;&#179;:"/>
+	<w_phrase i="825" n="wlang_fkeys_sidecar" t="Kieg&#195;&#169;sz&#195;&#173;t&#197;&#145; modul"/>
+	<w_phrase i="826" n="wlang_line_ssi_record_dialed_calls" t="T&#195;&#161;rcs&#195;&#161;zott h&#195;&#173;v&#195;&#161;sok r&#195;&#182;gz&#195;&#173;t&#195;&#169;se:"/>
+	<w_phrase i="827" n="wlang_line_ssi_record_received_calls" t="Fogadott h&#195;&#173;v&#195;&#161;sok r&#195;&#182;gz&#195;&#173;t&#195;&#169;se:"/>
+	<w_phrase i="828" n="wlang_prefs_ssi_emergency_proxy" t="Kimen&#197;&#145; proxy a kimen&#197;&#145; h&#195;&#173;v&#195;&#161;soknak"/>
+	<w_phrase i="829" n="wlang_line_telepo" t="Telepo"/>
+	<w_phrase i="830" n="wlang_fkeys_ssi_button" t="Gomb"/>
+	<w_phrase i="831" n="wlang_advanced_ssi_retryafterfailedregister" t="&#195;&#154;jrapr&#195;&#179;b&#195;&#161;lkoz&#195;&#161;si id&#197;&#145; sikertelen regisztr&#195;&#161;ci&#195;&#179; ut&#195;&#161;n (mp):"/>
+	<w_phrase i="832" n="wlang_line_ssi_subscription_expiry" t="Bejelentkez&#195;&#169;s lej&#195;&#161;rata (s)"/>
+	<w_phrase i="833" n="wlang_line_metaswitch" t="MetaSwitch"/>
+	<w_phrase i="834" n="wlang_advanced_ssi_sendprack" t="PRACK k&#195;&#188;ld&#195;&#169;se:"/>
+	<w_phrase i="835" n="wlang_watchdog" t="Watchdog"/>
+	<w_phrase i="836" n="wlang_advanced_ssi_rtp_keepalive" t="RTP Keepalice:"/>
+	<w_phrase i="837" n="wlang_ldap_search_filter" t="LDAP n&#195;&#169;v sz&#197;&#177;r&#197;&#145;:"/>
+	<w_phrase i="838" n="wlang_ldap_prefix" t="LDAP el&#197;&#145;tag:"/>
+	<w_phrase i="839" n="wlang_ldap_number_filter" t="LDAP sz&#195;&#161;m sz&#197;&#177;r&#197;&#145;:"/>
+	<w_phrase i="840" n="wlang_ldap_name_attributes" t="LDAP n&#195;&#169;v attrib&#195;&#186;tum:"/>
+	<w_phrase i="841" n="wlang_ldap_number_attributes" t="LDAP sz&#195;&#161;m attrib&#195;&#186;tum:"/>
+	<w_phrase i="842" n="wlang_ldap_display_name" t="LDAP n&#195;&#169;v kijelz&#195;&#169;s:"/>
+	<w_phrase i="843" n="wlang_advanced_ssi_ldap_lookup_ringing" t="LDAP bej&#195;&#182;v&#197;&#145; h&#195;&#173;v&#195;&#161;s felismer&#195;&#169;s:"/>
+	<w_phrase i="844" n="wlang_prefs_tsaustria" t="Ausztria"/>
+	<w_phrase i="845" n="wlang_prefs_tsfrance" t="Franciaorsz&#195;&#161;g"/>
+	<w_phrase i="846" n="wlang_prefs_tsitaly" t="Olaszorsz&#195;&#161;g"/>
+	<w_phrase i="847" n="wlang_prefs_tsnetherlands" t="Hollandia"/>
+	<w_phrase i="848" n="wlang_prefs_tsnorway" t="Norv&#195;&#169;gia"/>
+	<w_phrase i="849" n="wlang_prefs_tsnewzealand" t="&#195;&#154;j Z&#195;&#169;land"/>
+	<w_phrase i="850" n="wlang_prefs_tsspain" t="Spanyolorsz&#195;&#161;g"/>
+	<w_phrase i="851" n="wlang_prefs_tsgreatbritain" t="Egyes&#195;&#188;lt Kir&#195;&#161;lys&#195;&#161;g"/>
+	<w_phrase i="852" n="wlang_advanced_tmz_VENm45" t="-4.5 Venezuela (Caracas)"/>
+	<w_phrase i="853" n="wlang_advanced_tmz_NCLp11" t="+11 New Caledonia (Noumea)"/>
+	<w_phrase i="854" n="wlang_line_ssi_enable_hookflash" t="Hook flash enged&#195;&#169;lyez&#195;&#169;se:"/>
+	<w_phrase i="855" n="wlang_line_ocs" t="OCS"/>
+	<w_phrase i="856" n="wlang_vpn_netcat_server" t="Netcat Server (e.g. 192.168.0.188 5000)"/>
+	<w_phrase i="857" n="wlang_fkeys_ssi_presence" t="Presence"/>
+	<w_phrase i="858" n="wlang_prefs_custom_internal_alert_info" t="Saj&#195;&#161;t Alert-Info be&#195;&#169;p&#195;&#173;tett cseng&#197;&#145;hang haszn&#195;&#161;lat&#195;&#161;val:"/>
+	<w_phrase i="859" n="wlang_prefs_ca_ringer_text" t="Bels&#197;&#145; cs&#195;&#182;rg&#195;&#169;s sz&#195;&#182;veg:"/>
+	<w_phrase i="860" n="wlang_prefs_ssi_ca_ringer_file" t="Bels&#197;&#145; cs&#195;&#182;rg&#195;&#169;s f&#195;&#161;jl:"/>
+	<w_phrase i="861" n="wlang_line_nortel" t="Nortel"/>
+	<w_phrase i="862" n="wlang_arcor_ssi_title" t="Central-Phone Account Data"/>
+	<w_phrase i="863" n="wlang_arcor_sip_domain" t="SIP-Domain:"/>
+	<w_phrase i="864" n="wlang_arcor_sip_proxy" t="SIP-Proxy:"/>
+	<w_phrase i="865" n="wlang_arcor_sip_username" t="Felhaszn&#195;&#161;l&#195;&#179;n&#195;&#169;v:"/>
+	<w_phrase i="866" n="wlang_arcor_sip_password" t="Jelsz&#195;&#179;:"/>
+	<w_phrase i="867" n="wlang_arcor_logininfo" t="K&#195;&#169;rem g&#195;&#169;pelje be ide a felhaszn&#195;&#161;l&#195;&#179;i adatait."/>
+	<w_phrase i="868" n="wlang_leftnav_arcor_account" t="Felhaszn&#195;&#161;l&#195;&#179;i adat"/>
+	<w_phrase i="869" n="wlang_action_ssi_hold" t="H&#195;&#173;v&#195;&#161;s+tart&#195;&#161;s:"/>
+	<w_phrase i="870" n="wlang_action_ssi_unhold" t="H&#195;&#173;v&#195;&#161;s+tart&#195;&#161;s+felold&#195;&#161;sa:"/>
+	<w_phrase i="871" n="wlang_action_ssi_transfer" t="H&#195;&#173;v&#195;&#161;s+&#195;&#161;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;sa:"/>
+	<w_phrase i="872" n="wlang_action_ssi_blind_transfer" t="Vak+&#195;&#161;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="873" n="wlang_action_ssi_attended_transfer" t="&#195;&#129;tir&#195;&#161;ny&#195;&#173;t&#195;&#161;s:"/>
+	<w_phrase i="874" n="wlang_advanced_ssi_csta_control" t="CSTA+kontroll+enged&#195;&#169;lyez&#195;&#169;se:"/>
+	<w_phrase i="875" n="wlang_line_ssi_dtmf_info_sip_info_only" t="Csak SIP info"/>
+	<w_phrase i="876" n="wlang_handsfree_mode_quiet" t="csendes szoba"/>
+	<w_phrase i="877" n="wlang_handsfree_mode_normal" t="norm&#195;&#161;l szoba"/>
+	<w_phrase i="878" n="wlang_handsfree_mode_echoic" t="visszhangos szoba"/>
+	<w_phrase i="879" n="wlang_adv_audio_ssi_handsfree_mode" t="K&#195;&#169;z n&#195;&#169;lk&#195;&#188;li m&#195;&#179;d:"/>
+	<w_phrase i="880" n="wlang_advanced_ssi_speaker_receive_call" t="H&#195;&#173;v&#195;&#161;sok fogad&#195;&#161;sa a Speaker gomb haszn&#195;&#161;lat&#195;&#161;val:"/>
+	<w_phrase i="881" n="wlang_prefs_ssi_global_missed_counter" t="Glob&#195;&#161;lis sz&#195;&#161;ml&#195;&#161;l&#195;&#179; a nem fogadott h&#195;&#173;v&#195;&#161;sok sz&#195;&#161;m&#195;&#161;ra:"/>
+	<w_phrase i="882" n="wlang_advanced_ssi_http_password_not_set" t="HTTP jelsz&#195;&#179; nincs be&#195;&#161;ll&#195;&#173;t&#195;&#161;sa!"/>
+	<w_phrase i="883" n="wlang_text_login_failed_info1" t="N&#195;&#169;h&#195;&#161;ny sikertelen bejelentkez&#195;&#169;si pr&#195;&#179;b&#195;&#161;lkoz&#195;&#161;s ut&#195;&#161;n a "/>
+	<w_phrase i="884" n="wlang_text_login_failed_info2" t="IP c&#195;&#173;mr&#197;&#145;l &#195;&#186;jra lehets&#195;&#169;ges"/>
+	<w_phrase i="885" n="wlang_text_login_failed_info3" t="percen bel&#195;&#188;l. Tov&#195;&#161;bbi sikertelen pr&#195;&#179;b&#195;&#161;lkoz&#195;&#161;s megdupl&#195;&#161;zza az id&#197;&#145;t, amit meg kell v&#195;&#161;rni a webes interf&#195;&#169;sz kiblokkol&#195;&#161;s&#195;&#161;hoz."/>
+	<w_phrase i="886" n="wlang_login_failed_ssi_title" t="Bejelentkez&#195;&#169;s sikertelen!"/>
+	<w_phrase i="887" n="wlang_advanced_ssi_admin_password_not_set" t="Adminisztr&#195;&#161;tori jelsz&#195;&#179; nincs be&#195;&#161;ll&#195;&#173;tva!"/>
+	<w_phrase i="888" n="wlang_web_confirm_logout" t="Kijelentkezik a web oldalr&#195;&#179;l?"/>
+	<w_phrase i="889" n="wlang_advanced_logoutbutton" t="Kijelentkez&#195;&#169;s"/>
+	<w_phrase i="890" n="wlang_text_login_failed_info4" t=", a web interf&#195;&#169;sz blokkolva van!"/>
+	<w_phrase i="891" n="wlang_line_ssi_savp" t="RTP/SAVP:"/>
+	<w_phrase i="892" n="wlang_advanced_ssi_use_hidden_tags" t="Rejtett tag haszn&#195;&#161;lata:"/>
+	<w_phrase i="893" n="wlang_fkeys_ssi_blf" t="BLF"/>
+	<w_phrase i="894" n="wlang_advanced_ssi_show_history_info" t="History-Info mutat&#195;&#161;sa:"/>
+	<w_phrase i="895" n="wlang_advanced_ssi_show_name_dialog" t="Kijelz&#195;&#169;si n&#195;&#169;v mutat&#195;&#161;sa a Dialog-Info-ban:"/>
+	<w_phrase i="896" n="wlang_security_warning_ssi_title" t="Biztons&#195;&#161;gi figyelmeztet&#195;&#169;s!"/>
+	<w_phrase i="897" n="wlang_text_security_warning_info1" t="&#195;&#150;n vagy egy m&#195;&#161;sik t&#195;&#161;voli felhaszn&#195;&#161;l&#195;&#179; nem azonos&#195;&#173;tott HTTP POST k&#195;&#169;r&#195;&#169;st k&#195;&#188;ld&#195;&#182;tt a telefonnak."/>
+	<w_phrase i="898" n="wlang_text_security_warning_info2" t="A k&#195;&#169;r&#195;&#169;s ki lesz hagyva, &#195;&#169;s az azonos&#195;&#173;tott folyamat be lesz z&#195;&#161;rva. "/>
+	<w_phrase i="899" n="wlang_text_security_warning_info3" t="K&#195;&#169;rem azonos&#195;&#173;tsa &#195;&#186;jra mag&#195;&#161;t a webes fel&#195;&#188;let haszn&#195;&#161;lat&#195;&#161;hoz."/>
+	<w_phrase i="900" n="wlang_security_advice" t="Biztons&#195;&#161;gi tan&#195;&#161;cs"/>
+	<w_phrase i="901" n="wlang_security_text_advice1" t="K&#195;&#188;l&#195;&#182;n&#195;&#182;sen aj&#195;&#161;nlatos a webes fel&#195;&#188;let biztons&#195;&#161;g&#195;&#161;nak biztos&#195;&#173;t&#195;&#161;sa, hogy a telefont megv&#195;&#169;dje a t&#195;&#161;voli t&#195;&#161;mad&#195;&#161;sokt&#195;&#179;l. Ez&#195;&#169;rt a HTTP felhaszn&#195;&#161;l&#195;&#179; jelszav&#195;&#161;t &#195;&#161;ll&#195;&#173;tsa &#195;&#161;t az alap&#195;&#169;rtelmezett &#195;&#169;rt&#195;&#169;kr&#197;&#145;l. "/>
+	<w_phrase i="902" n="wlang_security_text_advice2" t="A telefon megv&#195;&#169;dhet&#197;&#145; a rejtett biztons&#195;&#161;gi tagek seg&#195;&#173;ts&#195;&#169;g&#195;&#169;vel a t&#195;&#161;voli t&#195;&#161;mad&#195;&#179; ellen, akik hamis HTTP POST k&#195;&#169;r&#195;&#169;sekkel pr&#195;&#179;b&#195;&#161;lj&#195;&#161;k meg megv&#195;&#161;ltoztatni a telefon be&#195;&#161;ll&#195;&#173;t&#195;&#161;sait. "/>
+	<w_phrase i="903" n="wlang_security_button_save" t="A gomb megnyom&#195;&#161;s&#195;&#161;val elmentheti a be&#195;&#161;ll&#195;&#173;t&#195;&#161;sokat. "/>
+	<w_phrase i="904" n="wlang_security_button_ignore" t="A gomb nyom&#195;&#161;s&#195;&#161;val kikapcsolhatja a figyelmeztet&#195;&#169;seket a k&#195;&#182;vetkez&#197;&#145; &#195;&#186;jraind&#195;&#173;t&#195;&#161;sig. "/>
+	<w_phrase i="905" n="wlang_security_button_ignore_forever" t="A gomb nyom&#195;&#161;s&#195;&#161;val kikapcsolhatja a figyelmeztet&#195;&#169;seket."/>
+	<w_phrase i="906" n="wlang_security_ssi_title" t="Biztons&#195;&#161;g"/>
+	<w_phrase i="907" n="wlang_advanced_ssi_ignore_warning" t="Figyelmen k&#195;&#173;v&#195;&#188;l hagyja a biztons&#195;&#161;gi tan&#195;&#161;csokat. "/>
+	<w_phrase i="908" n="wlang_advanced_ssi_naptr_sip_uri" t="NAPTR haszn&#195;&#161;lata a SIP URI-n:"/>
+	<w_phrase i="909" n="wlang_line_ssi_optional" t="opcion&#195;&#161;lis"/>
+	<w_phrase i="910" n="wlang_line_ssi_mandatory" t="&#195;&#161;lland&#195;&#179;"/>
+	<w_phrase i="911" n="wlang_prefs_backlight_dim" t="dim"/>
+	<w_phrase i="912" n="wlang_advanced_ssi_show_diversion" t="Diversion mutat&#195;&#161;sa:"/>
+	<w_phrase i="913" n="wlang_advanced_ssi_offhook_dial_prompt" t="Prompt a telefonkagyl&#195;&#179; felemel&#195;&#169;sekor:"/>
+	<w_phrase i="914" n="wlang_fkeys_ssi_ivr" t="IVR"/>
+	<w_phrase i="915" n="wlang_info_uptime_info" t="&#195;&#154;jraind&#195;&#173;t&#195;&#161;s &#195;&#179;ta eltelt id&#197;&#145;:"/>
+	<w_phrase i="916" n="wlang_info_memfree_info" t="Szabad mem&#195;&#179;ria:"/>
+	<w_phrase i="917" n="wlang_info_uboot_version_info" t="Bootloader verzi&#195;&#179;:"/>
+	<w_phrase i="918" n="wlang_advanced_ssi_update_called_party_id" t="CID friss&#195;&#173;t&#195;&#169;se:"/>
+	<w_phrase i="919" n="wlang_line_ssi_authtag" t="SRTP Auth tag:"/>
+	<w_phrase i="920" n="wlang_line_ssi_aes32" t="AES-32"/>
+	<w_phrase i="921" n="wlang_line_ssi_aes80" t="AES-80"/>
+	<w_phrase i="922" n="wlang_prefs_ssi_show_ivr_digits" t="IVR sz&#195;&#161;mok mutat&#195;&#161;sa a kapcsolat alatt:"/>
+	<w_phrase i="923" n="wlang_line_ssi_report_machine_state" t="Eszk&#195;&#182;z &#195;&#161;llapot megjelen&#195;&#173;t&#195;&#169;se:"/>
+	<w_phrase i="924" n="wlang_line_ssi_report_phone_state" t="Telefon &#195;&#161;llapot megjelen&#195;&#173;t&#195;&#169;se:"/>
+	<w_phrase i="925" n="wlang_set_savesettingspart4" t=" to save the settings which have changed from default in XML format."/>
+	<w_phrase i="926" n="wlang_advanced_ssi_encode_display_name" t="Kijelz&#195;&#169;si n&#195;&#169;v k&#195;&#179;dol&#195;&#161;sa:"/>
+	<w_phrase i="927" n="wlang_line_ssi_dynamic_payload" t="Dinamikus+G.726+payload: "/>
+	<w_phrase i="928" n="wlang_advtab_gui" t="GUI"/>
+	<w_phrase i="929" n="wlang_advanced_line_info_layer" t="Line Info Layer:"/>
+	<w_phrase i="930" n="wlang_advanced_ssi_allways" t="Always"/>
+	<w_phrase i="931" n="wlang_advanced_ssi_never" t="Never"/>
+	<w_phrase i="932" n="wlang_advanced_ssi_selective" t="Selective"/>
+	<w_phrase i="933" n="wlang_advanced_ssi_show" t="show"/>
+	<w_phrase i="934" n="wlang_advanced_lil_idle" t="show when idle"/>
+	<w_phrase i="935" n="wlang_advanced_lil_settings" t="show in settings menu"/>
+	<w_phrase i="936" n="wlang_advanced_lil_registration" t="show when selecting active ID"/>
+	<w_phrase i="937" n="wlang_advanced_lil_presence" t="show when selecting presence state"/>
+	<w_phrase i="938" n="wlang_advanced_lil_buddies" t="show when traversing contact list"/>
+	<w_phrase i="939" n="wlang_advanced_lil_minibrowser" t="show in minibrowser"/>
+	<w_phrase i="940" n="wlang_advanced_lil_directory" t="show in directory"/>
+	<w_phrase i="941" n="wlang_advanced_lil_call_lists" t="show in call lists"/>
+	<w_phrase i="942" n="wlang_advanced_lil_mailbox_info" t="show in mailbox info screen"/>
+	<w_phrase i="943" n="wlang_advanced_lil_edit_number" t="show when entering number"/>
+	<w_phrase i="944" n="wlang_advanced_lil_ringing" t="show with incomming call"/>
+	<w_phrase i="945" n="wlang_advanced_lil_calling" t="show when calling"/>
+	<w_phrase i="946" n="wlang_advanced_lil_call_completion" t="show while waiting for call completion"/>
+	<w_phrase i="947" n="wlang_advanced_lil_auto_redial" t="show while waiting for auto redial"/>
+	<w_phrase i="948" n="wlang_advanced_lil_connected" t="show when connected"/>
+	<w_phrase i="949" n="wlang_advanced_lil_conference" t="show in conference"/>
+	<w_phrase i="950" n="wlang_advanced_lil_transfer" t="show when transfering"/>
+	<w_phrase i="951" n="wlang_advanced_lil_holding" t="show in on-hold list"/>
+	<w_phrase i="952" n="wlang_advanced_lil_terminated" t="show when terminating calls"/>
+	<w_phrase i="953" n="wlang_advanced_ssi_settings_refresh" t="Settings refresh timer:"/>
+	<w_phrase i="954" n="wlang_advanced_tmz_unused" t="Unused"/>
+	<w_phrase i="955" n="wlang_advanced_lil_smart" t="show only on activity"/>
+	<w_phrase i="956" n="wlang_fkeyname_redirect" t="Forward all"/>
+	<w_phrase i="957" n="wlang_fkeyname_retrieve" t="Retrieve"/>
+	<w_phrase i="958" n="wlang_fkeyname_dnd" t="DND"/>
+	<w_phrase i="959" n="wlang_fkeyname_menu" t="Menu"/>
+	<w_phrase i="960" n="wlang_fkeyname_transfer" t="Transfer"/>
+	<w_phrase i="961" n="wlang_fkeyname_hold" t="Hold"/>
+	<w_phrase i="962" n="wlang_fkeyname_missed" t="Missed Calls"/>
+	<w_phrase i="963" n="wlang_fkeyname_accepted" t="Accepted Calls"/>
+	<w_phrase i="964" n="wlang_fkeyname_id_up" t="Select ID above"/>
+	<w_phrase i="965" n="wlang_fkeyname_id_down" t="Select ID below"/>
+	<w_phrase i="966" n="wlang_fkeyname_clr_pickup" t="Clear Pickup Info"/>
+	<w_phrase i="967" n="wlang_advanced_tmz_USA2m10" t="-10 United States - Alaska-Aleutian"/>
+	<w_phrase i="968" n="wlang_fkeyname_registries" t="Change Active Id"/>
+	<w_phrase i="969" n="wlang_fkeyname_call_lists" t="Call Lists"/>
+	<w_phrase i="970" n="wlang_fkeyname_support" t="Help"/>
+	<w_phrase i="971" n="wlang_fkeyname_presence" t="Presence State"/>
+	<w_phrase i="972" n="wlang_fkeyname_buddies" t="Contacts"/>
+	<w_phrase i="973" n="wlang_fkeyname_redial" t="Redial"/>
+	<w_phrase i="974" n="wlang_fkeyname_addr" t="Directory"/>
+	<w_phrase i="975" n="wlang_ocip_prefs" t="OCI-P (Broadsoft):"/>
+	<w_phrase i="976" n="wlang_advanced_dfks" t="Device Feature Key Synchronisation"/>
+	<w_phrase i="977" n="wlang_line_ssi_publish_presence_bootup" t="Publish+Presence+on+bootup:"/>
+	<w_phrase i="978" n="wlang_fkeyname_record" t="Record"/>
+	<w_phrase i="979" n="wlang_fkeyname_conference" t="Conference"/>
+	<w_phrase i="980" n="wlang_fkeyname_id_next" t="Next Outgoing ID"/>
+	<w_phrase i="981" n="wlang_fkeyname_id_prev" t="Prev. Outgoing ID"/>
+	<w_phrase i="982" n="wlang_leftnav_ocs_account" t="OCS Account Data"/>
+	<w_phrase i="983" n="wlang_ocs_sip_uri" t="SIP-URI"/>
+	<w_phrase i="984" n="wlang_ocs_domain_username" t="Username (DOMAIN&#92;USERNAME)"/>
+	<w_phrase i="985" n="wlang_ocs_password" t="Password"/>
+	<w_phrase i="986" n="wlang_ocs_outbound_proxy" t="Outbound Proxy"/>
+	<w_phrase i="987" n="wlang_ocs_ssi_title" t="OCS Account Data"/>
+	<w_phrase i="988" n="wlang_ocs_logininfo" t="Please type in your account data here"/>
+	<w_phrase i="989" n="wlang_prefs_ssi_advertisement" t="Advertisement:"/>
+	<w_phrase i="990" n="wlang_line_asterisk" t="Asterisk"/>
+	<w_phrase i="991" n="wlang_line_ccm" t="CCM"/>
+	<w_phrase i="992" n="wlang_advanced_ssi_typeanswering" t="Type of Intercom Answering:"/>
+	<w_phrase i="993" n="wlang_advanced_ssi_tahandsfree" t="Handsfree"/>
+	<w_phrase i="994" n="wlang_advanced_ssi_tahandset" t="Handset"/>
+	<w_phrase i="995" n="wlang_advanced_ssi_taheadset" t="Headset"/>
+	<w_phrase i="996" n="wlang_line_ssi_additional_supported_headers" t="Additional supported headers:"/>
+	<w_phrase i="997" n="wlang_lang_hebrew" t="Hebrew:"/>
+	<w_phrase i="998" n="wlang_lang_cyrillic" t="Cyrillic:"/>
+	<w_phrase i="999" n="wlang_prefs_character_settings" t="Character Settings:"/>
+	<w_phrase i="1000" n="wlang_prefs_status" t="Status:"/>
+	<w_phrase i="1001" n="wlang_prefs_ssi_inactive_timeout" t="Show status inactive after this many minutes (0 = never):"/>
+	<w_phrase i="1002" n="wlang_prefs_ssi_away_timeout" t="Show status away after this many minutes (0 = never):"/>
+	<w_phrase i="1003" n="wlang_advanced_prioritise_pbx_number_lookup" t="Prioritise PBX number lookup:"/>
+	<w_phrase i="1004" n="wlang_line_ssi_g726_packing_order" t="G.726 Byte Order:"/>
+	<w_phrase i="1005" n="wlang_line_ssi_rfc3551" t="RFC3551"/>
+	<w_phrase i="1006" n="wlang_line_ssi_aal2" t="AAL2"/>
+	<w_phrase i="1007" n="wlang_handsfree_mode_v6" t="V6 compatible"/>
+	<w_phrase i="1008" n="wlang_line_teles" t="Teles"/>
+	<w_phrase i="1009" n="wlang_advanced_ssi_transferonhookstarcode" t="Transfer starcode picked up calls:"/>
+	<language i="0" t="Magyar"/>
+
+</w_phrases>
+

@@ -1,0 +1,872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<phrases>
+	<phrase i="0" n="lang_none" t=""/>
+	<phrase i="1" n="lang_language_name" t="Italiano"/>
+	<phrase i="2" n="lang_cntry_CHN" t="Cina"/>
+	<phrase i="3" n="lang_cntry_FIN" t="Finlandia"/>
+	<phrase i="4" n="lang_cntry_GER" t="Germania"/>
+	<phrase i="5" n="lang_cntry_IND" t="India"/>
+	<phrase i="6" n="lang_cntry_IDN" t="Indonesia"/>
+	<phrase i="7" n="lang_cntry_MYS" t="Malesia"/>
+	<phrase i="8" n="lang_cntry_MEX" t="Messico"/>
+	<phrase i="9" n="lang_cntry_NLD" t="Olanda"/>
+	<phrase i="10" n="lang_cntry_PRT" t="Portogallo"/>
+	<phrase i="11" n="lang_cntry_ZAF" t="Sud Africa"/>
+	<phrase i="12" n="lang_cntry_GBR" t="Gran Bretagna"/>
+	<phrase i="13" n="lang_cntry_USA" t="USA"/>
+	<phrase i="14" n="lang_cntry_CAN" t="Canada"/>
+	<phrase i="15" n="lang_cntry_CHL" t="Cile"/>
+	<phrase i="16" n="lang_cntry_BHS" t="Bahamas"/>
+	<phrase i="17" n="lang_cntry_CUB" t="Cuba"/>
+	<phrase i="18" n="lang_cntry_PRY" t="Paraguay"/>
+	<phrase i="19" n="lang_cntry_BMU" t="Bermuda"/>
+	<phrase i="20" n="lang_cntry_FLK" t="Isole Falkland"/>
+	<phrase i="21" n="lang_cntry_GRL" t="Groenlandia"/>
+	<phrase i="22" n="lang_cntry_FRO" t="Isole Faroe"/>
+	<phrase i="23" n="lang_cntry_IRL" t="Irlanda"/>
+	<phrase i="24" n="lang_cntry_ESP" t="Spagna"/>
+	<phrase i="25" n="lang_cntry_ALB" t="Albania"/>
+	<phrase i="26" n="lang_cntry_AUT" t="Austria"/>
+	<phrase i="27" n="lang_cntry_BEL" t="Belgio"/>
+	<phrase i="28" n="lang_cntry_BRA" t="Brasile"/>
+	<phrase i="29" n="lang_cntry_CAI" t="Caicos"/>
+	<phrase i="30" n="lang_cntry_CHA" t="Chatam"/>
+	<phrase i="31" n="lang_cntry_HRV" t="Croazia"/>
+	<phrase i="32" n="lang_cntry_CZE" t="Repubblica Ceca"/>
+	<phrase i="33" n="lang_cntry_DNK" t="Danimarca"/>
+	<phrase i="34" n="lang_cntry_FRA" t="Francia"/>
+	<phrase i="35" n="lang_cntry_HUN" t="Ungheria"/>
+	<phrase i="36" n="lang_cntry_ITA" t="Italia"/>
+	<phrase i="37" n="lang_cntry_LUX" t="Lussemburgo"/>
+	<phrase i="38" n="lang_cntry_MAK" t="Macedonia"/>
+	<phrase i="39" n="lang_cntry_NAM" t="Namibia"/>
+	<phrase i="40" n="lang_cntry_NOR" t="Norvegia"/>
+	<phrase i="41" n="lang_cntry_POL" t="Polonia"/>
+	<phrase i="42" n="lang_cntry_SVK" t="Repubblica Slovacca"/>
+	<phrase i="43" n="lang_cntry_SWD" t="Svezia"/>
+	<phrase i="44" n="lang_cntry_CHE" t="Svizzera"/>
+	<phrase i="45" n="lang_cntry_GIB" t="Gibilterra"/>
+	<phrase i="46" n="lang_cntry_YUG" t="Serbia Montenegro"/>
+	<phrase i="47" n="lang_cntry_BLR" t="Bielorussia"/>
+	<phrase i="48" n="lang_cntry_BGR" t="Bulgaria"/>
+	<phrase i="49" n="lang_cntry_CYP" t="Cipro"/>
+	<phrase i="50" n="lang_cntry_EGY" t="Egitto"/>
+	<phrase i="51" n="lang_cntry_EST" t="Estonia"/>
+	<phrase i="52" n="lang_cntry_GAZ" t="Gaza"/>
+	<phrase i="53" n="lang_cntry_GRC" t="Grecia"/>
+	<phrase i="54" n="lang_cntry_ISR" t="Israele"/>
+	<phrase i="55" n="lang_cntry_JOR" t="Giordania"/>
+	<phrase i="56" n="lang_cntry_LVA" t="Lettonia"/>
+	<phrase i="57" n="lang_cntry_LBN" t="Libano"/>
+	<phrase i="58" n="lang_cntry_MDA" t="Moldavia"/>
+	<phrase i="59" n="lang_cntry_RUS" t="Russia"/>
+	<phrase i="60" n="lang_cntry_ROU" t="Romania"/>
+	<phrase i="61" n="lang_cntry_SYR" t="Siria"/>
+	<phrase i="62" n="lang_cntry_TUR" t="Turchia"/>
+	<phrase i="63" n="lang_cntry_UKR" t="Ucraina"/>
+	<phrase i="64" n="lang_cntry_IRQ" t="Iraq"/>
+	<phrase i="65" n="lang_cntry_IRN" t="Iran"/>
+	<phrase i="66" n="lang_cntry_ARM" t="Armenia"/>
+	<phrase i="67" n="lang_cntry_AZE" t="Azerbaijan"/>
+	<phrase i="68" n="lang_cntry_GEO" t="Georgia"/>
+	<phrase i="69" n="lang_cntry_KAZ" t="Kazakistan"/>
+	<phrase i="70" n="lang_cntry_KGZ" t="Repubblica Kirkisa"/>
+	<phrase i="71" n="lang_cntry_PAK" t="Pakistan"/>
+	<phrase i="72" n="lang_cntry_SGP" t="Singapore"/>
+	<phrase i="73" n="lang_cntry_KOR" t="Corea"/>
+	<phrase i="74" n="lang_cntry_JPN" t="Giappone"/>
+	<phrase i="75" n="lang_cntry_AUS" t="Australia"/>
+	<phrase i="76" n="lang_cntry_NZL" t="Nuova Zelanda"/>
+	<phrase i="77" n="lang_cntry_TON" t="Tonga"/>
+	<phrase i="78" n="lang_tbook" t="Rubr"/>
+	<phrase i="79" n="lang_vip" t="VIP"/>
+	<phrase i="80" n="lang_lists" t="Reg.ch."/>
+	<phrase i="81" n="lang_regs" t="Reg"/>
+	<phrase i="82" n="lang_url" t="1&#26;a"/>
+	<phrase i="83" n="lang_URL" t="a&#26;A"/>
+	<phrase i="84" n="lang_123" t="A&#26;1"/>
+	<phrase i="85" n="lang_kana" t="Kana"/>
+	<phrase i="86" n="lang_back" t="C&lt;-"/>
+	<phrase i="87" n="lang_clear" t="Canc"/>
+	<phrase i="88" n="lang_cancel" t="Annulla"/>
+	<phrase i="89" n="lang_yes" t="Si"/>
+	<phrase i="90" n="lang_no" t="No"/>
+	<phrase i="91" n="lang_on" t="Acceso"/>
+	<phrase i="92" n="lang_off" t="Spento"/>
+	<phrase i="93" n="lang_def_yes" t="*Si"/>
+	<phrase i="94" n="lang_def_no" t="*No"/>
+	<phrase i="95" n="lang_def_on" t="*Acceso"/>
+	<phrase i="96" n="lang_def_off" t="*Spento"/>
+	<phrase i="97" n="lang_busy" t="Occupato"/>
+	<phrase i="98" n="lang_def_busy" t="*Occupato"/>
+	<phrase i="99" n="lang_deny" t="Rifiuta"/>
+	<phrase i="100" n="lang_hold" t="Attesa"/>
+	<phrase i="101" n="lang_transfer" t="Trasf"/>
+	<phrase i="102" n="lang_conference_on" t="Conf.Acceso"/>
+	<phrase i="103" n="lang_conference_off" t="Conf.Spento"/>
+	<phrase i="104" n="lang_cmc" t="CMC"/>
+	<phrase i="105" n="lang_edit_cmc" t="Codice Cliente"/>
+	<phrase i="106" n="lang_close" t="Chiudi"/>
+	<phrase i="107" n="lang_del" t="Cancella"/>
+	<phrase i="108" n="lang_dnd" t="DND"/>
+	<phrase i="109" n="lang_red" t="CFwd"/>
+	<phrase i="110" n="lang_missed" t="Perse:"/>
+	<phrase i="111" n="lang_edit" t="Modifica"/>
+	<phrase i="112" n="lang_mwi" t="Mailbox"/>
+	<phrase i="113" n="lang_dhcp" t="DHCP"/>
+	<phrase i="114" n="lang_enum" t="ENUM"/>
+	<phrase i="115" n="lang_deny_all" t="RifTut"/>
+	<phrase i="116" n="lang_headset_rj" t="CuffieRJ"/>
+	<phrase i="117" n="lang_headset_pc" t="Cuffie"/>
+	<phrase i="118" n="lang_mwi_mailbox1" t="Casella di:"/>
+	<phrase i="119" n="lang_mwi_mailbox2" t="Lei ha"/>
+	<phrase i="120" n="lang_mwi_mailbox3" t="Lei ha messaggi"/>
+	<phrase i="121" n="lang_mwi_new" t="Nuovi e"/>
+	<phrase i="122" n="lang_mwi_old" t="Vecchi messaggi"/>
+	<phrase i="123" n="lang_mwi_goto_mailbox" t="Andare alla mailbox?"/>
+	<phrase i="124" n="lang_challenge_user" t="Utente"/>
+	<phrase i="125" n="lang_challenge_pw" t="Password"/>
+	<phrase i="126" n="lang_vmail" t="Mailbox"/>
+	<phrase i="127" n="lang_sms" t="SMS"/>
+	<phrase i="128" n="lang_no_dialplan" t="No modello sel."/>
+	<phrase i="129" n="lang_use_enum" t="Usa ENUM?"/>
+	<phrase i="130" n="lang_area_code" t="Codice area:"/>
+	<phrase i="131" n="lang_country_code" t="Codice nazione:"/>
+	<phrase i="132" n="lang_wiz_dhcp" t="Utilizzare DHCP?"/>
+	<phrase i="133" n="lang_wiz_ip_adr" t="IP:"/>
+	<phrase i="134" n="lang_wiz_mac" t="MAC:"/>
+	<phrase i="135" n="lang_wiz_version" t="Versione:"/>
+	<phrase i="136" n="lang_wiz_netmask" t="Maschera di rete:"/>
+	<phrase i="137" n="lang_wiz_gateway" t="IP Gateway:"/>
+	<phrase i="138" n="lang_wiz_dns_server" t="Server DNS:"/>
+	<phrase i="139" n="lang_wiz_select_dialtone" t="Seleziona tono:"/>
+	<phrase i="140" n="lang_wiz_select_timezone" t="Seleziona fuso orario:"/>
+	<phrase i="141" n="lang_wiz_select_webserver" t="Seleziona tipo WebServer:"/>
+	<phrase i="142" n="lang_wiz_choose_functionkey" t="Seleziona tasti funzione:"/>
+	<phrase i="143" n="lang_wiz_select_functionkey_type" t="Tipo tasto:"/>
+	<phrase i="144" n="lang_wiz_functionkey_number" t="Numero:"/>
+	<phrase i="145" n="lang_wiz_welcome" t="Benvenuto! Premi un tasto"/>
+	<phrase i="146" n="lang_terminated_finished" t="Fine:"/>
+	<phrase i="147" n="lang_try_parking" t="Chiamata in attesa:"/>
+	<phrase i="148" n="lang_holding" t="Chiamate in attesa:"/>
+	<phrase i="149" n="lang_select_list" t="Lista Chiamate:"/>
+	<phrase i="150" n="lang_list_missed" t="Perse"/>
+	<phrase i="151" n="lang_list_taken" t="Entranti"/>
+	<phrase i="152" n="lang_list_dialed" t="Uscenti"/>
+	<phrase i="153" n="lang_list_no_data" t="(Nessun dato disponibile)"/>
+	<phrase i="154" n="lang_list_add_phonebook" t="Salva"/>
+	<phrase i="155" n="lang_list_details" t="Dettagli"/>
+	<phrase i="156" n="lang_list_details_time" t="Tempo:"/>
+	<phrase i="157" n="lang_list_details_duration" t="Durata:"/>
+	<phrase i="158" n="lang_list_details_costs" t="Costo:"/>
+	<phrase i="159" n="lang_list_details_missed" t="Perse:"/>
+	<phrase i="160" n="lang_list_details_to" t="A:"/>
+	<phrase i="161" n="lang_list_details_from" t="Da:"/>
+	<phrase i="162" n="lang_reg_next" t="Prossima"/>
+	<phrase i="163" n="lang_reg_activate" t="Attiva"/>
+	<phrase i="164" n="lang_reg_line" t="Linea"/>
+	<phrase i="165" n="lang_reg_account" t="Utente:"/>
+	<phrase i="166" n="lang_reg_registrar" t="Server Sip:"/>
+	<phrase i="167" n="lang_reg_display_name" t="Mostra Nome:"/>
+	<phrase i="168" n="lang_reg_explanation_failed" t="Registrazione fallita"/>
+	<phrase i="169" n="lang_reg_explanation_closed" t="Registrazione chiusa"/>
+	<phrase i="170" n="lang_reg_explanation_registering" t="In registrazione"/>
+	<phrase i="171" n="lang_reg_explanation_registered" t="Registrato"/>
+	<phrase i="172" n="lang_reg_explanation_trying" t="Prova registrazione"/>
+	<phrase i="173" n="lang_dnd_line" t="Non disturbare?"/>
+	<phrase i="174" n="lang_menu_redirect1" t="&#27; Trasferisci Chiamate &#26;"/>
+	<phrase i="175" n="lang_menu_redirect2" t="&#27;    Trasferisci se    &#26;"/>
+	<phrase i="176" n="lang_menu_config" t="&#27;    Configurazione    &#26;"/>
+	<phrase i="177" n="lang_menu_headset" t="&#27;        Cuffie        &#26;"/>
+	<phrase i="178" n="lang_menu_vol" t="&#27; Impostazioni volume  &#26;"/>
+	<phrase i="179" n="lang_menu_general" t="&#27; Impostazioni generali &#26;"/>
+	<phrase i="180" n="lang_menu_key_mapping" t="&#27;   Impostazioni telefono &#26;"/>
+	<phrase i="181" n="lang_menu_web" t="&#27;   Interfaccia web    &#26;"/>
+	<phrase i="182" n="lang_menu_other" t="&#27;  Altre impostazioni  &#26;"/>
+	<phrase i="183" n="lang_menu_system" t="&#27;    Info. Sistema     &#26;"/>
+	<phrase i="184" n="lang_menu_vlan" t="&#27;  Impostazioni VLAN   &#26;"/>
+	<phrase i="185" n="lang_menu_sw_update" t="&#27;   Aggiornamento SW   &#26;"/>
+	<phrase i="186" n="lang_menu_tservices" t="&#27;    Servizi tempo     &#26;"/>
+	<phrase i="187" n="lang_menu_info" t="&#27;     Informazioni     &#26;"/>
+	<phrase i="188" n="lang_menu_config_320" t="     Configurazione     "/>
+	<phrase i="189" n="lang_menu_info_320" t="      Informazioni      "/>
+	<phrase i="190" n="lang_menu_red_time" t="Tempo"/>
+	<phrase i="191" n="lang_menu_red_def_time" t="*Tempo"/>
+	<phrase i="192" n="lang_menu_red_always" t="Sempre"/>
+	<phrase i="193" n="lang_menu_red_def_always" t="*Sempre"/>
+	<phrase i="194" n="lang_menu_conf_reset" t="Resettare"/>
+	<phrase i="195" n="lang_menu_conf_reboot" t="Riavvia"/>
+	<phrase i="196" n="lang_menu_vol_hand_txt" t="Cornetta"/>
+	<phrase i="197" n="lang_menu_vol_hand" t="Cornetta"/>
+	<phrase i="198" n="lang_menu_vol_head_txt" t="Cuffia"/>
+	<phrase i="199" n="lang_menu_vol_head" t="Cuffia"/>
+	<phrase i="200" n="lang_menu_vol_mic" t="Microfono"/>
+	<phrase i="201" n="lang_menu_vol_speak" t="Altoparlanti"/>
+	<phrase i="202" n="lang_menu_gen_contrast" t="Contrasto"/>
+	<phrase i="203" n="lang_menu_gen_lang" t="Lingua"/>
+	<phrase i="204" n="lang_menu_gen_ringtone" t="Suoneria"/>
+	<phrase i="205" n="lang_menu_web_webserver_type" t="Server"/>
+	<phrase i="206" n="lang_menu_web_http_port" t="HTTP"/>
+	<phrase i="207" n="lang_menu_web_https_port" t="HTTPS"/>
+	<phrase i="208" n="lang_menu_function_key" t="Tasti funzione"/>
+	<phrase i="209" n="lang_menu_headset_rj" t="acceso"/>
+	<phrase i="210" n="lang_menu_def_headset_rj" t="*acceso"/>
+	<phrase i="211" n="lang_menu_headset_none" t="spento"/>
+	<phrase i="212" n="lang_menu_def_headset_none" t="*spento"/>
+	<phrase i="213" n="lang_menu_headset_chinch" t="Jack"/>
+	<phrase i="214" n="lang_menu_def_headset_chinch" t="*Jack"/>
+	<phrase i="215" n="lang_menu_oth_zone" t="Fuso or."/>
+	<phrase i="216" n="lang_menu_oth_dialtone" t="Tono ch."/>
+	<phrase i="217" n="lang_menu_tser_alarm" t="Allarme"/>
+	<phrase i="218" n="lang_menu_tser_stopwatch" t="Ferma visualizzazione"/>
+	<phrase i="219" n="lang_menu_tser_timer" t="Contatore"/>
+	<phrase i="220" n="lang_menu_tser_alarm_time" t="Tempo di allarme:"/>
+	<phrase i="221" n="lang_menu_info_ipadr" t="Ind. IP"/>
+	<phrase i="222" n="lang_menu_info_mac" t="MAC:"/>
+	<phrase i="223" n="lang_menu_info_version" t="Versione"/>
+	<phrase i="224" n="lang_menu_red_time2" t="Ora trasferimento:"/>
+	<phrase i="225" n="lang_menu_red_number" t="Sempre interno:"/>
+	<phrase i="226" n="lang_menu_red_busy_number" t="Interno occupato:"/>
+	<phrase i="227" n="lang_menu_red_target" t="Interno:"/>
+	<phrase i="228" n="lang_menu_ring_normal" t="Normale"/>
+	<phrase i="229" n="lang_menu_ring_vip" t="VIP"/>
+	<phrase i="230" n="lang_menu_ring_select_normal" t="Seleziona suoneria:"/>
+	<phrase i="231" n="lang_menu_ring_select_vip" t="Selez. melodia VIP:"/>
+	<phrase i="232" n="lang_menu_ringer1" t="Suoneria 1"/>
+	<phrase i="233" n="lang_menu_ringer2" t="Suoneria 2"/>
+	<phrase i="234" n="lang_menu_ringer3" t="Suoneria 3"/>
+	<phrase i="235" n="lang_menu_ringer4" t="Suoneria 4"/>
+	<phrase i="236" n="lang_menu_ringer5" t="Suoneria 5"/>
+	<phrase i="237" n="lang_menu_ringer6" t="Suoneria 6"/>
+	<phrase i="238" n="lang_menu_ringer7" t="Suoneria 7"/>
+	<phrase i="239" n="lang_menu_ringer8" t="Suoneria 8"/>
+	<phrase i="240" n="lang_menu_ringer9" t="Suoneria 9"/>
+	<phrase i="241" n="lang_menu_ringer10" t="Suoneria 10"/>
+	<phrase i="242" n="lang_menu_vlan_id" t="ID"/>
+	<phrase i="243" n="lang_menu_vlan_qos" t="Priorit&#195;&#160;"/>
+	<phrase i="244" n="lang_menu_vlan_reset" t="Resettare"/>
+	<phrase i="245" n="lang_menu_system_net_info" t="Rete"/>
+	<phrase i="246" n="lang_menu_system_mem_info" t="Memoria"/>
+	<phrase i="247" n="lang_vol_headset" t="Volume Cuffie:"/>
+	<phrase i="248" n="lang_vol_handset" t="Volume Cornetta:"/>
+	<phrase i="249" n="lang_vol_speaker" t="Volume Altoparlanti:"/>
+	<phrase i="250" n="lang_vol_contrast" t="Contrasto display:"/>
+	<phrase i="251" n="lang_vol_mic" t="Volume microfono:"/>
+	<phrase i="252" n="lang_trans_prompt" t="Numero:"/>
+	<phrase i="253" n="lang_confirm_factory" t="Resettare impost.?"/>
+	<phrase i="254" n="lang_confirm_reboot" t="Riavviare?"/>
+	<phrase i="255" n="lang_confirm_logoff_all" t="Log off di tutti gli utenti?"/>
+	<phrase i="256" n="lang_calling" t="In chiamata"/>
+	<phrase i="257" n="lang_connected" t="Connesso"/>
+	<phrase i="258" n="lang_ringing" t="Suonando"/>
+	<phrase i="259" n="lang_enter_number" t="Inserire numero"/>
+	<phrase i="260" n="lang_held_by" t="Tenuto in linea da:"/>
+	<phrase i="261" n="lang_mute" t="Muto"/>
+	<phrase i="262" n="lang_unmute" t="Non muto"/>
+	<phrase i="263" n="lang_ok" t="[Ok?]"/>
+	<phrase i="264" n="lang_key_mapping" t="Progr. Funzione Tasti"/>
+	<phrase i="265" n="lang_tbook_edit_name" t="Modifica nome:"/>
+	<phrase i="266" n="lang_tbook_edit_number" t="Modifica numero:"/>
+	<phrase i="267" n="lang_tbook_edit_kana" t="Modifica KANA:"/>
+	<phrase i="268" n="lang_tbook_new_item" t="&lt;Nuovo inserimento&gt;"/>
+	<phrase i="269" n="lang_menu100_phone_book" t="Rubrica"/>
+	<phrase i="270" n="lang_menu100_ldap_book" t="Accesso LDAP"/>
+	<phrase i="271" n="lang_menu100_call_lists" t="Liste chiamate"/>
+	<phrase i="272" n="lang_menu100_deny_list" t="Rifiuta lista"/>
+	<phrase i="273" n="lang_menu100_tones" t="Toni"/>
+	<phrase i="274" n="lang_menu100_settings" t="Impostazioni"/>
+	<phrase i="275" n="lang_menu100_version" t="Informazioni"/>
+	<phrase i="276" n="lang_sel100_dnd_on" t="Modo DND attivo"/>
+	<phrase i="277" n="lang_sel100_dnd_off" t="Modo DND non attivo"/>
+	<phrase i="278" n="lang_sel100_logon" t="Logon Utente"/>
+	<phrase i="279" n="lang_sel100_logoff_all" t="Disconnetti tutti"/>
+	<phrase i="280" n="lang_sel100_logoff_one" t="Logoff utente"/>
+	<phrase i="281" n="lang_sel100_activeline" t="Seleziona linea uscita"/>
+	<phrase i="282" n="lang_sel100_admin_mode" t="Modo amministratore"/>
+	<phrase i="283" n="lang_sel100_user_mode" t="Modo Utente"/>
+	<phrase i="284" n="lang_sel100_reboot" t="Riavvia"/>
+	<phrase i="285" n="lang_sel100_net_info" t="Informazioni rete"/>
+	<phrase i="286" n="lang_sel100_mem_info" t="Informazioni mem."/>
+	<phrase i="287" n="lang_sel100_nat_info" t="Stato del NAT"/>
+	<phrase i="288" n="lang_menu_ringtone" t="Livello suoneria"/>
+	<phrase i="289" n="lang_dnd_active" t="DND attivo!"/>
+	<phrase i="290" n="lang_update" t="SW"/>
+	<phrase i="291" n="lang_update_header" t="Aggiornamento SW"/>
+	<phrase i="292" n="lang_update_a" t="Eseguire"/>
+	<phrase i="293" n="lang_update_na" t="Non disponibile"/>
+	<phrase i="294" n="lang_update_reboot" t="Riavvio per SW update"/>
+	<phrase i="295" n="lang_call_comp" t="CC"/>
+	<phrase i="296" n="lang_ethernet_cable" t="Cavo di rete scollegato"/>
+	<phrase i="297" n="lang_sip_settings" t="SIP"/>
+	<phrase i="298" n="lang_user_realname1" t="Nome utente"/>
+	<phrase i="299" n="lang_user_realname2" t="Nome utente"/>
+	<phrase i="300" n="lang_user_realname3" t="Nome utente"/>
+	<phrase i="301" n="lang_user_realname4" t="Nome utente"/>
+	<phrase i="302" n="lang_user_realname5" t="Nome utente"/>
+	<phrase i="303" n="lang_user_realname6" t="Nome utente"/>
+	<phrase i="304" n="lang_user_realname7" t="Nome utente"/>
+	<phrase i="305" n="lang_user_name1" t="Account"/>
+	<phrase i="306" n="lang_user_name2" t="Account"/>
+	<phrase i="307" n="lang_user_name3" t="Account"/>
+	<phrase i="308" n="lang_user_name4" t="Account"/>
+	<phrase i="309" n="lang_user_name5" t="Account"/>
+	<phrase i="310" n="lang_user_name6" t="Account"/>
+	<phrase i="311" n="lang_user_name7" t="Account"/>
+	<phrase i="312" n="lang_user_host1" t="Registrare"/>
+	<phrase i="313" n="lang_user_host2" t="Registrare"/>
+	<phrase i="314" n="lang_user_host3" t="Registrare"/>
+	<phrase i="315" n="lang_user_host4" t="Registrare"/>
+	<phrase i="316" n="lang_user_host5" t="Registrare"/>
+	<phrase i="317" n="lang_user_host6" t="Registrare"/>
+	<phrase i="318" n="lang_user_host7" t="Registrare"/>
+	<phrase i="319" n="lang_user_q1" t="Probabilit&#195;&#160;"/>
+	<phrase i="320" n="lang_user_q2" t="Probabilit&#195;&#160;"/>
+	<phrase i="321" n="lang_user_q3" t="Probabilit&#195;&#160;"/>
+	<phrase i="322" n="lang_user_q4" t="Probabilit&#195;&#160;"/>
+	<phrase i="323" n="lang_user_q5" t="Probabilit&#195;&#160;"/>
+	<phrase i="324" n="lang_user_q6" t="Probabilit&#195;&#160;"/>
+	<phrase i="325" n="lang_user_q7" t="Probabilit&#195;&#160;"/>
+	<phrase i="326" n="lang_user_action1" t="Azione"/>
+	<phrase i="327" n="lang_user_action2" t="Azione"/>
+	<phrase i="328" n="lang_user_action3" t="Azione"/>
+	<phrase i="329" n="lang_user_action4" t="Azione"/>
+	<phrase i="330" n="lang_user_action5" t="Azione"/>
+	<phrase i="331" n="lang_user_action6" t="Azione"/>
+	<phrase i="332" n="lang_user_action7" t="Azione"/>
+	<phrase i="333" n="lang_user_expiry1" t="Scade dopo"/>
+	<phrase i="334" n="lang_user_expiry2" t="Scade dopo"/>
+	<phrase i="335" n="lang_user_expiry3" t="Scade dopo"/>
+	<phrase i="336" n="lang_user_expiry4" t="Scade dopo"/>
+	<phrase i="337" n="lang_user_expiry5" t="Scade dopo"/>
+	<phrase i="338" n="lang_user_expiry6" t="Scade dopo"/>
+	<phrase i="339" n="lang_user_expiry7" t="Scade dopo"/>
+	<phrase i="340" n="lang_user_mailbox1" t="Mailbox"/>
+	<phrase i="341" n="lang_user_mailbox2" t="Mailbox"/>
+	<phrase i="342" n="lang_user_mailbox3" t="Mailbox"/>
+	<phrase i="343" n="lang_user_mailbox4" t="Mailbox"/>
+	<phrase i="344" n="lang_user_mailbox5" t="Mailbox"/>
+	<phrase i="345" n="lang_user_mailbox6" t="Mailbox"/>
+	<phrase i="346" n="lang_user_mailbox7" t="Mailbox"/>
+	<phrase i="347" n="lang_auth_realm1" t="Dominio 1"/>
+	<phrase i="348" n="lang_auth_realm2" t="Dominio 2"/>
+	<phrase i="349" n="lang_auth_realm3" t="Dominio 3"/>
+	<phrase i="350" n="lang_auth_realm4" t="Dominio 4"/>
+	<phrase i="351" n="lang_auth_realm5" t="Dominio 5"/>
+	<phrase i="352" n="lang_auth_realm6" t="Dominio 6"/>
+	<phrase i="353" n="lang_auth_realm7" t="Dominio 7"/>
+	<phrase i="354" n="lang_auth_realm8" t="Dominio 8"/>
+	<phrase i="355" n="lang_auth_realm9" t="Dominio 9"/>
+	<phrase i="356" n="lang_auth_user1" t="Utente 1"/>
+	<phrase i="357" n="lang_auth_user2" t="Utente 2"/>
+	<phrase i="358" n="lang_auth_user3" t="Utente 3"/>
+	<phrase i="359" n="lang_auth_user4" t="Utente 4"/>
+	<phrase i="360" n="lang_auth_user5" t="Utente 5"/>
+	<phrase i="361" n="lang_auth_user6" t="Utente 6"/>
+	<phrase i="362" n="lang_auth_user7" t="Utente 7"/>
+	<phrase i="363" n="lang_auth_user8" t="Utente 8"/>
+	<phrase i="364" n="lang_auth_user9" t="Utente 9"/>
+	<phrase i="365" n="lang_auth_pass1" t="Password 1"/>
+	<phrase i="366" n="lang_auth_pass2" t="Password 2"/>
+	<phrase i="367" n="lang_auth_pass3" t="Password 3"/>
+	<phrase i="368" n="lang_auth_pass4" t="Password 4"/>
+	<phrase i="369" n="lang_auth_pass5" t="Password 5"/>
+	<phrase i="370" n="lang_auth_pass6" t="Password 6"/>
+	<phrase i="371" n="lang_auth_pass7" t="Password 7"/>
+	<phrase i="372" n="lang_auth_pass8" t="Password 8"/>
+	<phrase i="373" n="lang_auth_pass9" t="Password 9"/>
+	<phrase i="374" n="lang_sip_proxy" t="Proxy connessioni in uscita"/>
+	<phrase i="375" n="lang_sip_retry_t1" t="Riprova 1"/>
+	<phrase i="376" n="lang_sip_retry_t2" t="Riprova 2"/>
+	<phrase i="377" n="lang_trace" t="Rilevazione"/>
+	<phrase i="378" n="lang_session_timer" t="Orologio di sessione"/>
+	<phrase i="379" n="lang_sip_refer" t="Usa REFER"/>
+	<phrase i="380" n="lang_base_settings" t="Base"/>
+	<phrase i="381" n="lang_language" t="Lingua"/>
+	<phrase i="382" n="lang_current_date" t="Data"/>
+	<phrase i="383" n="lang_current_time" t="Ora"/>
+	<phrase i="384" n="lang_rtp_settings_unneeded" t="Codec"/>
+	<phrase i="385" n="lang_codec_name" t="Codec"/>
+	<phrase i="386" n="lang_codec_ulaw" t="U-law"/>
+	<phrase i="387" n="lang_codec_alaw" t="A-law"/>
+	<phrase i="388" n="lang_codec_gsm" t="GSM"/>
+	<phrase i="389" n="lang_codec_g726" t="G.741"/>
+	<phrase i="390" n="lang_codec_g729a" t="G.729A"/>
+	<phrase i="391" n="lang_codec_eg711u" t="GIPS G.711U"/>
+	<phrase i="392" n="lang_codec_eg711a" t="GIPS G.711A"/>
+	<phrase i="393" n="lang_packet_size" t="Dimensione pacchetto"/>
+	<phrase i="394" n="lang_network_settings" t="Rete"/>
+	<phrase i="395" n="lang_mac" t="Indirizzo MAC"/>
+	<phrase i="396" n="lang_setting_server" t="Impostzioni Server"/>
+	<phrase i="397" n="lang_http_proxy" t="Proxy HTTP"/>
+	<phrase i="398" n="lang_update_server" t="Update Server"/>
+	<phrase i="399" n="lang_dns_domain" t="Dominio DNS"/>
+	<phrase i="400" n="lang_dns_server1" t="Server1 DNS"/>
+	<phrase i="401" n="lang_dns_server2" t="Server2 DNS"/>
+	<phrase i="402" n="lang_phone_name" t="Hostname"/>
+	<phrase i="403" n="lang_utc_offset" t="Offset UTC"/>
+	<phrase i="404" n="lang_time_server" t="Ora del server"/>
+	<phrase i="405" n="lang_ntp_server" t="Server NTP"/>
+	<phrase i="406" n="lang_lcserver1" t="LCServer1"/>
+	<phrase i="407" n="lang_lcserver2" t="LCServer2"/>
+	<phrase i="408" n="lang_ppp_user" t="Utente PPPoE"/>
+	<phrase i="409" n="lang_ppp_pass" t="Passaggio PPPoE"/>
+	<phrase i="410" n="lang_no_ip_adr" t="Indirizzo IP non valido"/>
+	<phrase i="411" n="lang_no_date" t="Data non valida"/>
+	<phrase i="412" n="lang_no_time" t="Ora non valida"/>
+	<phrase i="413" n="lang_gkgw_mode" t="Modo GK/GW"/>
+	<phrase i="414" n="lang_gk_mode_auto" t="Automatico"/>
+	<phrase i="415" n="lang_gk_mode_gateway" t="Gateway"/>
+	<phrase i="416" n="lang_gk_mode_gatekeeper" t="Gatekeeper"/>
+	<phrase i="417" n="lang_gk_mode_none" t="Nessuno"/>
+	<phrase i="418" n="lang_h323_gateway" t="Indirizzo GK/GW"/>
+	<phrase i="419" n="lang_desktop" t="Stile Desktop"/>
+	<phrase i="420" n="lang_desktop_reg" t="Registrazioni"/>
+	<phrase i="421" n="lang_desktop_stat" t="Statistiche"/>
+	<phrase i="422" n="lang_ring_sound" t="Suoneria"/>
+	<phrase i="423" n="lang_http_pass" t="Password HTTP"/>
+	<phrase i="424" n="lang_http_user" t="Amministr. HTTP"/>
+	<phrase i="425" n="lang_msg_center" t="Numero centro messaggi"/>
+	<phrase i="426" n="lang_early_start" t="Avvio anticipato"/>
+	<phrase i="427" n="lang_fast_start" t="Avvio veloce"/>
+	<phrase i="428" n="lang_h323_e164_number" t="Numero dell&apos;E164"/>
+	<phrase i="429" n="lang_h323_ID" t="H323 ID"/>
+	<phrase i="430" n="lang_h323_URL_ID" t="URL ID"/>
+	<phrase i="431" n="lang_h323_settings" t="H338"/>
+	<phrase i="432" n="lang_sip_use_fqhn" t="Utilizza Hostname"/>
+	<phrase i="433" n="lang_reset_settings" t="Resetta valori"/>
+	<phrase i="434" n="lang_ppp_acname" t="PPPoE AC Name"/>
+	<phrase i="435" n="lang_ppp_servicename" t="Servizio PPPoE"/>
+	<phrase i="436" n="lang_ppp_pppoe_extra" t="PPPoE Extra"/>
+	<phrase i="437" n="lang_ppp_pppd_extra" t="PPPD Extra"/>
+	<phrase i="438" n="lang_dst" t="Ora solare/legale"/>
+	<phrase i="439" n="lang_h323_h450" t="Servizi H.450 "/>
+	<phrase i="440" n="lang_contrast" t="Contrasto display"/>
+	<phrase i="441" n="lang_preselection_nr" t="Preselezione"/>
+	<phrase i="442" n="lang_ldap_server" t="Server LDAP"/>
+	<phrase i="443" n="lang_ldap_base" t="Base LDAP"/>
+	<phrase i="444" n="lang_ldap_bind_dn" t="LDAP Bind dn"/>
+	<phrase i="445" n="lang_ldap_max_hits" t="Hits Max LDAP"/>
+	<phrase i="446" n="lang_h323_h245_tunneling" t="H245 Tunneling"/>
+	<phrase i="447" n="lang_expiry_1day" t="1 giorno"/>
+	<phrase i="448" n="lang_expiry_8hour" t="8 ore"/>
+	<phrase i="449" n="lang_expiry_2hour" t="2 ore"/>
+	<phrase i="450" n="lang_expiry_1hour" t="1 ora"/>
+	<phrase i="451" n="lang_expiry_10min" t="10 minuti"/>
+	<phrase i="452" n="lang_expiry_1min" t="1 minuto"/>
+	<phrase i="453" n="lang_h323_ttl" t="GK TTL"/>
+	<phrase i="454" n="lang_block_edit" t="Blocca chiamata"/>
+	<phrase i="455" n="lang_no_menu" t="Nascondi menu"/>
+	<phrase i="456" n="lang_no_fkeys" t="No tasti funzione"/>
+	<phrase i="457" n="lang_no_help" t="Nessun tasto di aiuto"/>
+	<phrase i="458" n="lang_no_cancel" t="No tasto di cancellazione"/>
+	<phrase i="459" n="lang_no_enter" t="No tasto di entrata"/>
+	<phrase i="460" n="lang_no_ipadr_dial" t="No indirizzo IP di chiamata"/>
+	<phrase i="461" n="lang_no_siph323adr_dial" t="No indirizzo di chiamata"/>
+	<phrase i="462" n="lang_image_src" t="Immagini integrate"/>
+	<phrase i="463" n="lang_log_level" t="Livello di logging"/>
+	<phrase i="464" n="lang_ldap_search_kind" t="LDAP cerca tipo"/>
+	<phrase i="465" n="lang_sipstack_settings" t="Stack"/>
+	<phrase i="466" n="lang_sipuser_settings" t="Linee"/>
+	<phrase i="467" n="lang_sipuser_setting1" t="Linea 1"/>
+	<phrase i="468" n="lang_sipuser_setting2" t="Linea 2"/>
+	<phrase i="469" n="lang_sipuser_setting3" t="Linea 3"/>
+	<phrase i="470" n="lang_sipuser_setting4" t="Linea 4"/>
+	<phrase i="471" n="lang_sipuser_setting5" t="Linea 5"/>
+	<phrase i="472" n="lang_sipuser_setting6" t="Linea 6"/>
+	<phrase i="473" n="lang_sipuser_setting7" t="Linea 7"/>
+	<phrase i="474" n="lang_sipauth_settings" t="Autenticazione"/>
+	<phrase i="475" n="lang_sipauth_setting1" t="Linea 1"/>
+	<phrase i="476" n="lang_sipauth_setting2" t="Linea 2"/>
+	<phrase i="477" n="lang_sipauth_setting3" t="Linea 3"/>
+	<phrase i="478" n="lang_sipauth_setting4" t="Linea 4"/>
+	<phrase i="479" n="lang_sipauth_setting5" t="Linea 5"/>
+	<phrase i="480" n="lang_sipauth_setting6" t="Linea 6"/>
+	<phrase i="481" n="lang_sipauth_setting7" t="Linea 7"/>
+	<phrase i="482" n="lang_sipauth_setting8" t="Linea 8"/>
+	<phrase i="483" n="lang_sipauth_setting9" t="Linea 9"/>
+	<phrase i="484" n="lang_auth_valid1" t="Linea"/>
+	<phrase i="485" n="lang_auth_valid2" t="Linea"/>
+	<phrase i="486" n="lang_auth_valid3" t="Linea"/>
+	<phrase i="487" n="lang_auth_valid4" t="Linea"/>
+	<phrase i="488" n="lang_auth_valid5" t="Linea"/>
+	<phrase i="489" n="lang_auth_valid6" t="Linea"/>
+	<phrase i="490" n="lang_auth_valid7" t="Linea"/>
+	<phrase i="491" n="lang_auth_valid8" t="Linea"/>
+	<phrase i="492" n="lang_auth_valid9" t="Linea"/>
+	<phrase i="493" n="lang_line01" t="1"/>
+	<phrase i="494" n="lang_line02" t="2"/>
+	<phrase i="495" n="lang_line03" t="3"/>
+	<phrase i="496" n="lang_line04" t="4"/>
+	<phrase i="497" n="lang_line05" t="5"/>
+	<phrase i="498" n="lang_line06" t="6"/>
+	<phrase i="499" n="lang_line07" t="7"/>
+	<phrase i="500" n="lang_lineAll" t="Tutte"/>
+	<phrase i="501" n="lang_networkbase_settings" t="Base"/>
+	<phrase i="502" n="lang_networkadvanced_settings" t="Avanzato"/>
+	<phrase i="503" n="lang_networkidentity_settings" t="Identit&#195;&#160;"/>
+	<phrase i="504" n="lang_networktime_settings" t="Ora"/>
+	<phrase i="505" n="lang_networkDNS_settings" t="DNS"/>
+	<phrase i="506" n="lang_networkHTTP_settings" t="HTTP"/>
+	<phrase i="507" n="lang_networkLDAP_settings" t="LDAP"/>
+	<phrase i="508" n="lang_networkPPPOE_settings" t="PPPOE"/>
+	<phrase i="509" n="lang_networkLCServer_settings" t="LCServer"/>
+	<phrase i="510" n="lang_networkNFS_settings" t="NFS"/>
+	<phrase i="511" n="lang_networkRemoteConf_settings" t="Config. remota"/>
+	<phrase i="512" n="lang_external_line_prefix" t="Prefisso linea esterna"/>
+	<phrase i="513" n="lang_gateway_prefix" t="Prefisso Gateway"/>
+	<phrase i="514" n="lang_sip_postfix" t="Postfix di registrazione"/>
+	<phrase i="515" n="lang_seldndOn" t="Modo DND acceso"/>
+	<phrase i="516" n="lang_seldndOff" t="Modo DND spento"/>
+	<phrase i="517" n="lang_sellogon2" t="Aggiungi utente"/>
+	<phrase i="518" n="lang_sellogoffAll" t="Log out tutti"/>
+	<phrase i="519" n="lang_sellogoffOne" t="Log out utente"/>
+	<phrase i="520" n="lang_selactiveline" t="Seleziona linea uscita"/>
+	<phrase i="521" n="lang_seladminMode" t="Modo Amministratore"/>
+	<phrase i="522" n="lang_seluserMode" t="Modo utente"/>
+	<phrase i="523" n="lang_selreboot" t="Riavvia"/>
+	<phrase i="524" n="lang_codec_settings" t="Codec"/>
+	<phrase i="525" n="lang_dtmf_type" t="DTMF"/>
+	<phrase i="526" n="lang_dtmf_type_oob" t="Fuori banda"/>
+	<phrase i="527" n="lang_dtmf_type_ib" t="In banda"/>
+	<phrase i="528" n="lang_dtmf_val_on" t="Acceso"/>
+	<phrase i="529" n="lang_dtmf_val_off" t="Spento"/>
+	<phrase i="530" n="lang_dtmf_val_negotiate" t="Negoziato"/>
+	<phrase i="531" n="lang_dtmf_val_lowrate_off" t="spento per bassa frequenza"/>
+	<phrase i="532" n="lang_dtmf_val_lowrate_on" t="Acceso per bassa frequenza"/>
+	<phrase i="533" n="lang_dtmf_payload_type" t="DTMF tipo Payload"/>
+	<phrase i="534" n="lang_codec_negotiation" t="Negoziazione"/>
+	<phrase i="535" n="lang_codec_negotiation_single" t="Singolo"/>
+	<phrase i="536" n="lang_codec_negotiation_full" t="Offerta Risposta/Completa"/>
+	<phrase i="537" n="lang_codec_negotiation_inter" t="Interoperabile"/>
+	<phrase i="538" n="lang_DND_mode" t="Modo DND"/>
+	<phrase i="539" n="lang_misc_settings" t="Generale"/>
+	<phrase i="540" n="lang_http_port" t="Porta HTTP"/>
+	<phrase i="541" n="lang_https_port" t="Porta HTTPS"/>
+	<phrase i="542" n="lang_prefixes" t="Prefissi"/>
+	<phrase i="543" n="lang_pbx_codes" t="Codici PBX"/>
+	<phrase i="544" n="lang_key_seq_hold_on" t="Mantieni attivo"/>
+	<phrase i="545" n="lang_key_seq_hold_off" t="Mantieni inattivo"/>
+	<phrase i="546" n="lang_key_seq_transfer_blind" t="Trasferimento diretto"/>
+	<phrase i="547" n="lang_key_seq_transfer_consultation" t="Consult. trasferimento"/>
+	<phrase i="548" n="lang_key_seq_divert" t="Deviazione"/>
+	<phrase i="549" n="lang_key_seq_end" t="Fine simbolo"/>
+	<phrase i="550" n="lang_key_seq_conf_on" t="Conferenza acceso"/>
+	<phrase i="551" n="lang_key_seq_conf_off" t="Conferenza spento"/>
+	<phrase i="552" n="lang_key_seq_pickup" t="Sollevare"/>
+	<phrase i="553" n="lang_auto_connect" t="Risposta autom."/>
+	<phrase i="554" n="lang_auto_connect_type" t="Tipo risposta autom."/>
+	<phrase i="555" n="lang_auto_connect_type_handsfree" t="Vivavoce"/>
+	<phrase i="556" n="lang_auto_connect_type_handset" t="Cornetta/Cuffie"/>
+	<phrase i="557" n="lang_active_line" t="Linea di uscita"/>
+	<phrase i="558" n="lang_preferred_edit_mode" t="Modo modifica predefinita"/>
+	<phrase i="559" n="lang_admin_mode_settings" t="Modo Amministratore"/>
+	<phrase i="560" n="lang_admin_mode" t="Modo Amministratore"/>
+	<phrase i="561" n="lang_admin_mode_password" t="Password modo amministr."/>
+	<phrase i="562" n="lang_admin_mode_login" t="Login modo amministr."/>
+	<phrase i="563" n="lang_logon_wizard" t="Logon Wizard"/>
+	<phrase i="564" n="lang_guess_number" t="Composizione automatica"/>
+	<phrase i="565" n="lang_route_proxy" t="Route Proxy"/>
+	<phrase i="566" n="lang_user_phone" t="utente=telefono"/>
+	<phrase i="567" n="lang_tcp_threshold" t="TCP Threshold"/>
+	<phrase i="568" n="lang_refer_policy" t="REFER Policy"/>
+	<phrase i="569" n="lang_network_id_name" t="Nome ID di rete"/>
+	<phrase i="570" n="lang_network_id_port" t="Porta ID di rete"/>
+	<phrase i="571" n="lang_use_nw_port" t="Porta SIP locale"/>
+	<phrase i="572" n="lang_stun_server" t="Server STUN"/>
+	<phrase i="573" n="lang_nat_detection" t="Rilevazione NAT"/>
+	<phrase i="574" n="lang_dirty_host_ttl" t="Dirty Host TTL"/>
+	<phrase i="575" n="lang_max_forwards" t="Trasferimenti massimi"/>
+	<phrase i="576" n="lang_stun_binding_interval" t="STUN Binding Interval"/>
+	<phrase i="577" n="lang_rtp_port_start" t="Inizio porta RTP"/>
+	<phrase i="578" n="lang_rtp_port_end" t="Fine porta RTP"/>
+	<phrase i="579" n="lang_codec_tos" t="TOS"/>
+	<phrase i="580" n="lang_sip_moh_server" t="Server musica d&apos;attesa"/>
+	<phrase i="581" n="lang_updates_url" t="URL per aggiornamenti"/>
+	<phrase i="582" n="lang_keep_alive_server" t="URL per Tieni vivo"/>
+	<phrase i="583" n="lang_keep_alive_timer" t="Tempo Tieni vivo"/>
+	<phrase i="584" n="lang_show_name" t="Visualizza nome"/>
+	<phrase i="585" n="lang_admin_mode_pwd" t="Password am."/>
+	<phrase i="586" n="lang_break_key" t="Tasto disconnesione"/>
+	<phrase i="587" n="lang_edit_alpha_mode" t="Modifica mod. Alpha"/>
+	<phrase i="588" n="lang_display_method" t="Metodo visualizzazione"/>
+	<phrase i="589" n="lang_call_waiting" t="Attesa chiamata"/>
+	<phrase i="590" n="lang_cw_dialtone" t="Suoneria AC"/>
+	<phrase i="591" n="lang_disable_speaker" t="Disabilita altoparlante"/>
+	<phrase i="592" n="lang_use_headset" t="Utilizza cuffie "/>
+	<phrase i="593" n="lang_headset_device" t="Dispositivo cuffie"/>
+	<phrase i="594" n="lang_conf_hangup" t="Disconnetti al riaggancio"/>
+	<phrase i="595" n="lang_mwi_notification" t="Notificazione MWI"/>
+	<phrase i="596" n="lang_menu100_redirect" t="Trasferimento"/>
+	<phrase i="597" n="lang_menu100_red_number" t="Always target"/>
+	<phrase i="598" n="lang_menu100_busy_number" t="Se occupato rosso "/>
+	<phrase i="599" n="lang_menu100_red_time" t="Trasferisci ora"/>
+	<phrase i="600" n="lang_menu100_timezone" t="Fascia oraria"/>
+	<phrase i="601" n="lang_menu100_dialtone" t="Tono di chiamata"/>
+	<phrase i="602" n="lang_menu100_call_completion" t="Call Completion"/>
+	<phrase i="603" n="lang_menu100_call_polling" t="Ricezione chiamata"/>
+	<phrase i="604" n="lang_menu100_cc_activate" t="Attivare Call Completion?"/>
+	<phrase i="605" n="lang_menu100_cc_waiting" t="In attesa:"/>
+	<phrase i="606" n="lang_menu100_cc_dial" t="Chiamata:"/>
+	<phrase i="607" n="lang_menu100_ip_adr" t="Indirizzo IP"/>
+	<phrase i="608" n="lang_menu100_netmask" t="Maschera di rete"/>
+	<phrase i="609" n="lang_menu100_gateway" t="IP Gateway"/>
+	<phrase i="610" n="lang_menu100_update_policy" t="Modo aggiornamento"/>
+	<phrase i="611" n="lang_menu100_webserver_type" t="Tipo di server web"/>
+	<phrase i="612" n="lang_enum100_none" t="none"/>
+	<phrase i="613" n="lang_enum100_always" t="all"/>
+	<phrase i="614" n="lang_enum100_busy" t="busy"/>
+	<phrase i="615" n="lang_enum100_time" t="time"/>
+	<phrase i="616" n="lang_enum100_full_contact" t="full_contact"/>
+	<phrase i="617" n="lang_enum100_display_name" t="display_name"/>
+	<phrase i="618" n="lang_enum100_display_number" t="display_number"/>
+	<phrase i="619" n="lang_enum100_display_name_number" t="display_name_number"/>
+	<phrase i="620" n="lang_enum100_auto" t="auto"/>
+	<phrase i="621" n="lang_enum100_upnp" t="upnp"/>
+	<phrase i="622" n="lang_enum100_stun" t="stunclient"/>
+	<phrase i="623" n="lang_enum100_static" t="static"/>
+	<phrase i="624" n="lang_enum100_g711u" t="g711u"/>
+	<phrase i="625" n="lang_enum100_g711a" t="g711a"/>
+	<phrase i="626" n="lang_enum100_gsm" t="gsm"/>
+	<phrase i="627" n="lang_enum100_g726" t="g726-17"/>
+	<phrase i="628" n="lang_enum100_g729a" t="g729a"/>
+	<phrase i="629" n="lang_enum100_single" t="single"/>
+	<phrase i="630" n="lang_enum100_full" t="full"/>
+	<phrase i="631" n="lang_enum100_interoperable" t="interoperable"/>
+	<phrase i="632" n="lang_enum100_on" t="on"/>
+	<phrase i="633" n="lang_enum100_off" t="off"/>
+	<phrase i="634" n="lang_enum100_negotiate" t="negotiate"/>
+	<phrase i="635" n="lang_enum100_lowrate_off" t="lowrate_off"/>
+	<phrase i="636" n="lang_enum100_lowrate_on" t="lowrate_on"/>
+	<phrase i="637" n="lang_enum100_handsfree" t="auto_connect_type_handsfree"/>
+	<phrase i="638" n="lang_enum100_handset" t="auto_connect_type_handset"/>
+	<phrase i="639" n="lang_enum100_refer" t="refer"/>
+	<phrase i="640" n="lang_enum100_bye" t="bye"/>
+	<phrase i="641" n="lang_enum100_packet10" t="80"/>
+	<phrase i="642" n="lang_enum100_packet20" t="160"/>
+	<phrase i="643" n="lang_enum100_packet30" t="240"/>
+	<phrase i="644" n="lang_enum100_packet40" t="320"/>
+	<phrase i="645" n="lang_enum100_headset_rj" t="headset_rj"/>
+	<phrase i="646" n="lang_enum100_external" t="external"/>
+	<phrase i="647" n="lang_enum100_gatekeeper" t="gatekeeper"/>
+	<phrase i="648" n="lang_enum100_gateway" t="gateway"/>
+	<phrase i="649" n="lang_enum100_update" t="auto_update"/>
+	<phrase i="650" n="lang_enum100_update_firm" t="update_firm"/>
+	<phrase i="651" n="lang_enum100_update_boot" t="update_boot"/>
+	<phrase i="652" n="lang_enum100_timeout" t="timeout"/>
+	<phrase i="653" n="lang_enum100_timeout_firm" t="timeout_firm"/>
+	<phrase i="654" n="lang_enum100_timeout_boot" t="timeout_boot"/>
+	<phrase i="655" n="lang_enum100_settings_only" t="settings_only"/>
+	<phrase i="656" n="lang_enum100_never_update_firm" t="no_update_firm"/>
+	<phrase i="657" n="lang_enum100_never_update_boot" t="no_update_boot"/>
+	<phrase i="658" n="lang_enum100_ask_for_update" t="ask_for_update"/>
+	<phrase i="659" n="lang_enum100_never_update" t="never_update"/>
+	<phrase i="660" n="lang_enum100_transport_auto" t="Auto"/>
+	<phrase i="661" n="lang_enum100_transport_tcp" t="TCP"/>
+	<phrase i="662" n="lang_enum100_transport_udp" t="UDP"/>
+	<phrase i="663" n="lang_enum100_mwi_silent" t="silent"/>
+	<phrase i="664" n="lang_enum100_mwi_beep" t="beep"/>
+	<phrase i="665" n="lang_enum100_mwi_reminder" t="reminder"/>
+	<phrase i="666" n="lang_enum_webserver_off" t="off"/>
+	<phrase i="667" n="lang_enum_webserver_http" t="http"/>
+	<phrase i="668" n="lang_enum_webserver_https" t="https"/>
+	<phrase i="669" n="lang_enum_webserver_http_https" t="http_https"/>
+	<phrase i="670" n="lang_enum100_2sec" t="2"/>
+	<phrase i="671" n="lang_enum100_5sec" t="5"/>
+	<phrase i="672" n="lang_enum100_10sec" t="10"/>
+	<phrase i="673" n="lang_enum100_15sec" t="15"/>
+	<phrase i="674" n="lang_enum_cw_visual" t="visual"/>
+	<phrase i="675" n="lang_enum_cw_ringer" t="ringer"/>
+	<phrase i="676" n="lang_enum100_display_number_name" t="display_number_name"/>
+	<phrase i="677" n="lang_enum100_disp_none" t="Mai"/>
+	<phrase i="678" n="lang_enum100_disp_always" t="Sempre"/>
+	<phrase i="679" n="lang_enum100_disp_busy" t="Quando occupato"/>
+	<phrase i="680" n="lang_enum100_disp_time" t="Raggiunto il timeout"/>
+	<phrase i="681" n="lang_enum100_disp_full_contact" t="Visualizza contatto completo"/>
+	<phrase i="682" n="lang_enum100_disp_display_name" t="Solo nome"/>
+	<phrase i="683" n="lang_enum100_disp_display_number" t="Solo numero"/>
+	<phrase i="684" n="lang_enum100_disp_display_name_number" t="Nome + Numero"/>
+	<phrase i="685" n="lang_enum100_disp_auto" t="Automatico"/>
+	<phrase i="686" n="lang_enum100_disp_upnp" t="Upnp attivato"/>
+	<phrase i="687" n="lang_enum100_disp_stun" t="Stun attivato"/>
+	<phrase i="688" n="lang_enum100_disp_static" t="Statico"/>
+	<phrase i="689" n="lang_enum100_disp_network_port" t="Porta di rete"/>
+	<phrase i="690" n="lang_enum100_disp_default_sip_port" t="Porta SIP predef."/>
+	<phrase i="691" n="lang_enum100_disp_g711u" t="g711 u-law"/>
+	<phrase i="692" n="lang_enum100_disp_g711a" t="g711 a-law"/>
+	<phrase i="693" n="lang_enum100_disp_gsm" t="gsm"/>
+	<phrase i="694" n="lang_enum100_disp_g726" t="g741"/>
+	<phrase i="695" n="lang_enum100_disp_g729a" t="g729a"/>
+	<phrase i="696" n="lang_enum100_disp_single" t="Singolo"/>
+	<phrase i="697" n="lang_enum100_disp_full" t="Completo"/>
+	<phrase i="698" n="lang_enum100_disp_interoperable" t="Interoperabile"/>
+	<phrase i="699" n="lang_enum100_disp_on" t="On"/>
+	<phrase i="700" n="lang_enum100_disp_off" t="Off"/>
+	<phrase i="701" n="lang_enum100_disp_negotiate" t="Negoziare"/>
+	<phrase i="702" n="lang_enum100_disp_lowrate_off" t="Bassa frequenza acceso"/>
+	<phrase i="703" n="lang_enum100_disp_lowrate_on" t="Bassa frequenza spento"/>
+	<phrase i="704" n="lang_enum100_disp_handsfree" t="Vivavoce"/>
+	<phrase i="705" n="lang_enum100_disp_handset" t="Cornetta "/>
+	<phrase i="706" n="lang_enum100_disp_refer" t="REFER"/>
+	<phrase i="707" n="lang_enum100_disp_bye" t="BYE/Also"/>
+	<phrase i="708" n="lang_enum100_disp_packet10" t="10ms"/>
+	<phrase i="709" n="lang_enum100_disp_packet20" t="20ms"/>
+	<phrase i="710" n="lang_enum100_disp_packet30" t="30ms"/>
+	<phrase i="711" n="lang_enum100_disp_packet40" t="40ms"/>
+	<phrase i="712" n="lang_enum100_disp_headset_rj" t="On"/>
+	<phrase i="713" n="lang_enum100_disp_external" t="Utilizzare cuffie PC"/>
+	<phrase i="714" n="lang_enum100_disp_phone_image" t="Dal telefono"/>
+	<phrase i="715" n="lang_enum100_disp_internet_image" t="Da Internet"/>
+	<phrase i="716" n="lang_enum100_disp_gatekeeper" t="gatekeeper"/>
+	<phrase i="717" n="lang_enum100_disp_gateway" t="gateway"/>
+	<phrase i="718" n="lang_enum100_disp_update" t="Aggiorna sempre"/>
+	<phrase i="719" n="lang_enum100_disp_update_firm" t="Solo il firmware"/>
+	<phrase i="720" n="lang_enum100_disp_update_boot" t="Solo il bootloader"/>
+	<phrase i="721" n="lang_enum100_disp_timeout" t="Aggiorna raggiunto il timeout"/>
+	<phrase i="722" n="lang_enum100_disp_timeout_firm" t="Firmware al timeout"/>
+	<phrase i="723" n="lang_enum100_disp_timeout_boot" t="Boot raggiunto il timeout"/>
+	<phrase i="724" n="lang_enum100_disp_settings_only" t="Solo impostazioni"/>
+	<phrase i="725" n="lang_enum100_disp_never_update_firm" t="Mai il firmware"/>
+	<phrase i="726" n="lang_enum100_disp_never_update_boot" t="Mai il bootloader"/>
+	<phrase i="727" n="lang_enum100_disp_ask_for_update" t="Chiedi aggiornamento"/>
+	<phrase i="728" n="lang_enum100_disp_never_update" t="Non aggiornare"/>
+	<phrase i="729" n="lang_enum100_disp_mwi_silent" t="Silenzio"/>
+	<phrase i="730" n="lang_enum100_disp_mwi_beep" t="Bip"/>
+	<phrase i="731" n="lang_enum100_disp_mwi_reminder" t="Promemoria"/>
+	<phrase i="732" n="lang_enum_disp_webserver_off" t="Off"/>
+	<phrase i="733" n="lang_enum_disp_webserver_http" t="Solo HTTP"/>
+	<phrase i="734" n="lang_enum_disp_webserver_https" t="Solo HTTPS"/>
+	<phrase i="735" n="lang_enum_disp_webserver_http_https" t="HTTP &amp; HTTPS"/>
+	<phrase i="736" n="lang_enum_disp_func_key_line" t="Linea"/>
+	<phrase i="737" n="lang_enum_disp_func_key_destination" t="Destinazione"/>
+	<phrase i="738" n="lang_enum_disp_func_key_intercom" t="Intercom"/>
+	<phrase i="739" n="lang_enum_disp_func_key_orbit" t="Loop di attesa"/>
+	<phrase i="740" n="lang_enum_disp_func_key_recorder" t="Registratore voce"/>
+	<phrase i="741" n="lang_enum_disp_func_key_dtmf" t="Codici DTMF"/>
+	<phrase i="742" n="lang_enum_disp_func_key" t="Tasto"/>
+	<phrase i="743" n="lang_cwi_line" t="Avviso chiamata in attesa?"/>
+	<phrase i="744" n="lang_cwi" t="Chiamata in attesa"/>
+	<phrase i="745" n="lang_enum100_disp_2sec" t="Dopo 2 Sec."/>
+	<phrase i="746" n="lang_enum100_disp_5sec" t="Dopo 5 Sec."/>
+	<phrase i="747" n="lang_enum100_disp_10sec" t="Dopo 10 Sec."/>
+	<phrase i="748" n="lang_enum100_disp_15sec" t="Dopo 15 Sec."/>
+	<phrase i="749" n="lang_privacy_out" t="Nascondi proprio ID"/>
+	<phrase i="750" n="lang_privacy_in" t="Rifiuta anonimo"/>
+	<phrase i="751" n="lang_auto_dial" t="Autocomposizione"/>
+	<phrase i="752" n="lang_call_completion" t="Completamento Call"/>
+	<phrase i="753" n="lang_vlan_id" t="VLAN ID (0-4095)"/>
+	<phrase i="754" n="lang_vlan_qos" t="VLAN Priority (0-7)"/>
+	<phrase i="755" n="lang_vlan_reset" t="Resetta VLAN"/>
+	<phrase i="756" n="lang_preferences_settings" t="Preferenze"/>
+	<phrase i="757" n="lang_phone_behaviour_settings" t="Comportamento Telefono"/>
+	<phrase i="758" n="lang_rtp_settings" t="RTP"/>
+	<phrase i="759" n="lang_identity_settings" t="Identit&#195;&#160;"/>
+	<phrase i="760" n="lang_maintenance_settings" t="Mantenimento"/>
+	<phrase i="761" n="lang_auto_connect_indication" t="Indicazione riposta auto "/>
+	<phrase i="762" n="lang_sel100_reregister_line" t="Riregistra Utente"/>
+	<phrase i="763" n="lang_sel100_edit_line" t="Edita Utente"/>
+	<phrase i="764" n="lang_enum_disp_cw_visual" t="Solo Visuale"/>
+	<phrase i="765" n="lang_enum_disp_cw_visual_short" t="Visuale"/>
+	<phrase i="766" n="lang_enum_disp_cw_ringer" t="suoneria"/>
+	<phrase i="767" n="lang_confirm_del_adr_item" t="&#195;&#136; sicuro?"/>
+	<phrase i="768" n="lang_confirm_del_adr_item_title" t="Cancella voce elenco indirizzi"/>
+	<phrase i="769" n="lang_confirm_del_adr_title" t="Cancella elenco indirizzi"/>
+	<phrase i="770" n="lang_confirm_del_adr_item_title_short" t="Canc. el. ind."/>
+	<phrase i="771" n="lang_cntry_THA" t="Thailandia"/>
+	<phrase i="772" n="lang_sina" t="SINA"/>
+	<phrase i="773" n="lang_vol_ringer" t="Volume suonerie:"/>
+	<phrase i="774" n="lang_sina_channel_failed" t="Fallita sicurezza tunnel!"/>
+	<phrase i="775" n="lang_sina_channel_init" t="Inizio sicurezza tunnel."/>
+	<phrase i="776" n="lang_sina_channel_ok" t="Tunnel sicurezza &#195;&#168; su!"/>
+	<phrase i="777" n="lang_sina_channel_setup" t="Setting up tunnel."/>
+	<phrase i="778" n="lang_sina_no_connection" t="Nessuna connessione SINA!"/>
+	<phrase i="779" n="lang_sina_no_channel_found" t="Nessun tunnel sicurezza!"/>
+	<phrase i="780" n="lang_keybd_unlock_PIN" t="PIN Sblocco tastiera"/>
+	<phrase i="781" n="lang_cntry_ARG" t="Argentina"/>
+	<phrase i="782" n="lang_cntry_WAT" t="Ovest Africa"/>
+	<phrase i="783" n="lang_cntry_CAT" t="Africa Centrale"/>
+	<phrase i="784" n="lang_cntry_EAT" t="Africa Est"/>
+	<phrase i="785" n="lang_enum_disp_func_key_mult" t="Linea Condivisa"/>
+	<phrase i="786" n="lang_enum_disp_func_key_p2t" t="Premi Parla"/>
+	<phrase i="787" n="lang_enum_disp_func_key_url" t="Azione URL"/>
+	<phrase i="788" n="lang_enum_disp_func_key_keyevent" t="Evento Chiave"/>
+	<phrase i="789" n="lang_cntry_TTB" t="Trinidad &amp; Tobago"/>
+	<phrase i="790" n="lang_flash" t="R"/>
+	<phrase i="791" n="lang_flash_r" t="R"/>
+	<phrase i="792" n="lang_previous" t="Indietro"/>
+	<phrase i="793" n="lang_next" t="Prossimo"/>
+	<phrase i="794" n="lang_speed_dial" t="Veloce"/>
+	<phrase i="795" n="lang_free_on" t="vivavoce acceso"/>
+	<phrase i="796" n="lang_free_off" t="vivavoce spento"/>
+	<phrase i="797" n="lang_spkr_on" t="Altoparlante acceso"/>
+	<phrase i="798" n="lang_spkr_off" t="Altoparlante spento"/>
+	<phrase i="799" n="lang_dleft" t="&lt;=="/>
+	<phrase i="800" n="lang_redirect" t="CFwd"/>
+	<phrase i="801" n="lang_mic_vol" t="MVol"/>
+	<phrase i="802" n="lang_snom" t="snom"/>
+	<phrase i="803" n="lang_volume" t="Vol"/>
+	<phrase i="804" n="lang_up" t="Su"/>
+	<phrase i="805" n="lang_down" t="Giu"/>
+	<phrase i="806" n="lang_menu_ringer_silent" t="Silenzio"/>
+	<phrase i="807" n="lang_menu_ringer_custom" t="Custom"/>
+	<phrase i="808" n="lang_line_settings" t="Linea"/>
+	<phrase i="809" n="lang_line_activity" t="In-/attiva"/>
+	<phrase i="810" n="lang_minibrowser_softk_select" t="Selez"/>
+	<phrase i="811" n="lang_minibrowser_softk_exit" t="Esci"/>
+	<phrase i="812" n="lang_minibrowser_softk_update" t="Agg"/>
+	<phrase i="813" n="lang_minibrowser_softk_search" t="Cerca"/>
+	<phrase i="814" n="lang_minibrowser_softk_cancel" t="Canc."/>
+	<phrase i="815" n="lang_minibrowser_softk_back" t="Indietro"/>
+	<phrase i="816" n="lang_minibrowser_softk_dial" t="Componi"/>
+	<phrase i="817" n="lang_minibrowser_softk_editdial" t="EdDl"/>
+	<phrase i="818" n="lang_minibrowser_softk_next" t="Pross"/>
+	<phrase i="819" n="lang_blnd_xfer" t="TrasfCieco"/>
+	<phrase i="820" n="lang_dial" t="componi"/>
+	<phrase i="821" n="lang_menu100_time_number" t="Timeout target"/>
+	<phrase i="822" n="lang_menu_red_time_number" t="Timeout target:"/>
+	<phrase i="823" n="lang_enum_disp_func_key_speed" t="Composiz Veloce"/>
+	<phrase i="824" n="lang_enum_disp_func_key_none" t="Niente"/>
+	<phrase i="825" n="lang_enum100_disp_display_number_name" t="Numero + Nome"/>
+	<phrase i="826" n="lang_setting_change" t="Impostazioni cambiate"/>
+	<phrase i="827" n="lang_confirm_apply_set_change" t="Accetta impostazioni?"/>
+	<phrase i="828" n="lang_presence_offline" t="Assente"/>
+	<phrase i="829" n="lang_presence_online" t="Presente"/>
+	<phrase i="830" n="lang_presence_busy" t="Occupato"/>
+	<phrase i="831" n="lang_presence_invisible" t="Invisibile"/>
+	<phrase i="832" n="lang_presence_softk" t="Stato"/>
+	<phrase i="833" n="lang_buddy_softk" t="Contatti"/>
+	<phrase i="834" n="lang_dialog_softk" t="Chiamate"/>
+	<phrase i="835" n="lang_presence_title" t="Stato"/>
+	<phrase i="836" n="lang_dialog_title" t="Chiamate"/>
+	<phrase i="837" n="lang_buddies_title" t="Contatti"/>
+	<phrase i="838" n="lang_use_backlight" t="Illuminazion"/>
+	<phrase i="839" n="lang_display_settings" t="Display"/>
+	<phrase i="840" n="lang_ringtone_settings" t="Livello suoneria"/>
+	<phrase i="841" n="lang_audio_settings" t="Audio"/>
+	<phrase i="842" n="lang_redirect_settings" t="Trasferimento chiamata"/>
+	<phrase i="843" n="lang_reboot_required" t="Riavvio necessario"/>
+	<phrase i="844" n="lang_auto_redialing" t="Ricomposizione"/>
+	<phrase i="845" n="lang_dual_audio_on" t="+Altoparlante"/>
+	<phrase i="846" n="lang_dual_audio_off" t="-Altoparlante"/>
+	<phrase i="847" n="lang_conference" t="Conferenza"/>
+	<phrase i="848" n="lang_directory_search" t="Ricerca nella rubrica"/>
+	<phrase i="849" n="lang_vpn_on" t="VPN"/>
+	<phrase i="850" n="lang_vpn_file" t="URL di  VPN tarball non zippato"/>
+	<phrase i="851" n="lang_enum_disp_func_key_button" t="Pulsante"/>
+	<phrase i="852" n="lang_wrong_pw" t="Password errata!"/>
+	<phrase i="853" n="lang_ldap_search_filter" t="filtro ricerca LDAP"/>
+	<phrase i="854" n="lang_cntry_VEN" t="Venezuela"/>
+	<phrase i="855" n="lang_cntry_NCL" t="Nuova Caledonia"/>
+	<phrase i="856" n="lang_enum_disp_func_key_presence" t="Presence"/>
+	<phrase i="857" n="lang_admin_password_not_set" t="Admin Password not set!"/>
+	<phrase i="858" n="lang_http_password_not_set" t="HTTP Password not set!"/>
+	<phrase i="859" n="lang_start_auto_redial" t="Auto Redial?"/>
+	<phrase i="860" n="lang_enum100_dim" t="dim"/>
+	<phrase i="861" n="lang_enum100_disp_dim" t="Dim"/>
+	<phrase i="862" n="lang_connecting" t="Connecting"/>
+	<phrase i="863" n="lang_on_behalf_of" t="On behalf of"/>
+	<phrase i="864" n="lang_fkey_new" t="New"/>
+	<phrase i="865" n="lang_unknown_partner" t="Unknown"/>
+	<language i="0" t="Italiano"/>
+
+</phrases>
+

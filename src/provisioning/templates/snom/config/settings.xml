@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<setting-files>
+<file url="http://asterisk/snom/config/gui_language.xml"/>
+<file url="http://asterisk/snom/config/web_language.xml"/>
+<file url="http://asterisk/snom/config/phone_settings.xml"/>
+</setting-files>

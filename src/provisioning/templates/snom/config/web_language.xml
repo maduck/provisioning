@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<web-languages>
+<language url="http://asterisk/snom/snomlang/web_lang_DE.xml" name="Deutsch"/>
+<language url="http://asterisk/snom/snomlang/web_lang_EN.xml" name="English"/>
+</web-languages>
